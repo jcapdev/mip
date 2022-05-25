@@ -281,12 +281,7 @@
 		}
 		$("#validator-newsletter").removeClass().addClass(msgClasses).text(msg);
 	}
-	
-	// AJAX MailChimp JS
-	$(".newsletter-form").ajaxChimp({
-		url: "https://Envy Theme.us20.list-manage.com/subscribe/post?u=60e1ffe2e8a68ce1204cd39a5&amp;id=42d6d188d9", // Your url MailChimp
-		callback: callbackFunction
-	});
+		
 
 	// Input Plus & Minus Number JS
 	$('.input-counter').each(function() {
