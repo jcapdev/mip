@@ -33,7 +33,7 @@
 		<!-- Rtl CSS -->
 		<link rel="stylesheet" href="assets/css/rtl.css">
 		<!-- Favicon -->
-		<link rel="icon" type="image/png" href="assets/img/logo-mip.ico">
+		<link rel="icon" type="image/png" href="assets/img/logo-mip-512.ico">
 
 		<!-- iconos link-->
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -57,8 +57,59 @@
 				font-family: 'Neutraface 2 Text Book';
 				font-weight: normal;
 				font-style: normal;
-			}		
+			}
 
+			/* #menuresp ul li li a{
+				position: relative !important;
+    			float: none !important;
+    			width: auto !important;
+				width: 100% !important;	
+    			border-top: initial !important;
+
+			} */
+			#correomenu{
+				width: 100%;
+			}
+			#telefonomenu{
+				width: 100%;
+			}
+
+			#correoa {
+				text-align: right;
+				border-top: initial;
+				color: #ffffff;
+				font-family: 'HelveticaNeueLT Com 45 Lt';
+				font-weight: 300;
+				font-style: normal;
+				font-size: 16px;
+				padding: 0em 5%;
+
+			}
+			#tela {
+				border-top: initial;
+				text-align: right;
+				color: #ffffff;
+				font-family: 'HelveticaNeueLT Com 45 Lt';
+				font-weight: 300;
+				font-style: normal;
+				font-size: 16px;
+				padding: 0em 5%;
+
+			}
+			#menusesion{
+				text-align: right;
+				border-top: initial;
+				color: #ffffff;
+				font-family: 'HelveticaNeueLT Com 45 Lt';
+				font-weight: 300;
+				font-style: normal;
+				font-size: 16px;
+				padding: 0em 5%;
+			}
+			
+
+
+			
 
 		</style>		
 		<!-- Title -->
@@ -114,7 +165,7 @@
 					<!-- Menu For Mobile Device -->
 					<div class="mobile-nav">
 						<a href="#" class="logo">
-							<img src="assets/img/logo-mip.png" alt="Logo">
+							<img class="img-fluid" src="assets/img/logo-mip.png" alt="Logo">
 						</a>
 					</div>
 					<!-- Menu For Desktop Device -->
@@ -140,7 +191,34 @@
 										</li>
 										<li class="nav-item">
 											<a href="#" class="nav-link">CONTACTO</a>
+										</li>										
+										<li id = "lisession">
+											<a href="#" id = "menusesion">
+												<i class="fa fa-user" style="margin-right: 10px;"></i>
+												Inicio de sesión
+											</a>
 										</li>
+										<li id  = "limovilcorreo">
+											<div class = "row">
+												<div id = "correomenu" class = "col-lg-6">
+														<a href="mailto:servicios@mip.com.mx" id = "correoa">
+															<i class="fa fa-envelope" style="margin-right: 10px;"></i>
+															servicios@mip.com.mx
+														</a>
+												</div>
+												<div id  = "telefonomenu" class = "col-lg-6">
+													<a href="tel:+52 800-838-1688" id = "tela">
+														<!-- <i class="bx bx-phone-call"></i> -->
+														<i class="fa fa-phone" aria-hidden="true" style="margin-right: 10px;"></i>
+														800 838 1688
+													</a>
+												</div>
+
+											</div>
+										</li>												
+											<!-- <ul class="">
+											</ul> -->										
+										
 									</ul>									
 									<!-- Start Other Option -->
 									<div class="others-option">
@@ -149,7 +227,7 @@
 										</div> -->
 										<div class="get-quote">											
 											<a class="navbar-brand" href="#">
-												<img src="assets/img/logo-mip.png" alt="Logo">
+												<img class="img-fluid" src="assets/img/logo-mip.png" alt="Logo">
 											</a>
 										</div>
 									</div>
@@ -320,7 +398,7 @@
 				</div>
 			</div>			
 			<div class="shape" style="width: 100%;height: auto;">
-				<img src="assets/img/home-slider/1.png" alt="Image" style="width: 100%;height: auto;">
+				<img src="assets/img/home-slider/1.png" alt="Image"  style="width: 100%;height: auto;">
 			</div>
 		</section>
 		<!-- End Hero Slider Area -->
@@ -343,12 +421,12 @@
 							<div class="row">
 								<div class="col-md-5" id = "log-lic">
 									<div class = "logos-all">										
-										<img src="assets/img/client/Logos-licens.png" alt="" style="margin-top: 16px;">
+										<img class = "img-fluid" src="assets/img/client/Logos-licens.png" alt="" style="margin-top: 16px;">
 									</div>
 								</div>
 								<div class="col-md-1" id = "pails">
 									<div style="margin-top: 23px;text-align: center;">
-										<img src="assets/img/client/pail.png" alt="">
+										<img class = "img-fluid" src="assets/img/client/pail.png" alt="">
 									</div>
 								</div>
 								<div class="col-md-4">
@@ -358,7 +436,7 @@
 								</div>									
 								<div class="col-md-2" id = "homeprot">
 									<div style="margin-top: 29px;" >
-										<img src="assets/img/client/home-protect.png" alt="">
+										<img class = "img-fluid" src="assets/img/client/home-protect.png" alt="">
 									</div>
 								</div>
 							</div>
@@ -374,14 +452,14 @@
 				<div class="row align-items-center">
 					<div class="col-lg-6">
 						<div class="about-img-two">
-							<img src="assets/img/about-img-person.png" alt="Image">							
+							<img class="img-fluid" src="assets/img/about-img-person.png" alt="Image">							
 						</div>
 					</div>
 
 					<div class="col-lg-6">
-						<div class="about-img-two"style="text-align: left;width: 89%;">
+						<div class="about-img-two"style="text-align: left;">
 							<div class = "" >
-								<img src="assets/img/logo-mip-about.png" alt="Image">
+								<img class="img-fluid" src="assets/img/logo-mip-about.png" alt="Image">
 							</div>						
 							<h2 class = "titleabout">BIENVENIDO</h2>
 							<p class = "textabout">Estamos de su lado. Con más de 15 años de experiencia, nuestro compromiso es con la calidad, asegurándole satisfacción total en el control de plagas a nivel industrial, comercial, residencial, logística y distribución.</p>														
@@ -410,7 +488,7 @@
 					</div>
 					<div class="col-lg-6">
 						<div class="about-img-two">
-							<img src="assets/img/about-img-two.jpg" alt="Image">
+							<img class = "img-fluid" src="assets/img/about-img-two.jpg" alt="Image">
 							<p class="block-p">
 								Implementamos métodos preventivos y correctivos que permiten el control integral de plagas.
 							</p>
@@ -478,7 +556,7 @@
 							<h3 class = "titleclients" style="text-align: left;">EXPERIENCIA</h3>
 							<p>Contamos con una amplia experiencia, que nos permite manejar con éxito cada una de las etapas del proceso de servicio, cumpliendo en forma estricta con todas las regulaciones y normas vigentes.</p>
 							<h3 class = "titleclients" style="text-align: left;">NUESTROS CLIENTES</h3>
-							<img src="assets/img/client/Logos-Demo.png" alt="" style="margin-top: 13px;">
+							<img class = "img-fluid" src="assets/img/client/Logos-Demo.png" alt="" style="margin-top: 13px;">
 						</div>
 						<button type="submit" class="default-btn page-btn" style="top: 45px;">
 							SOLICITA UNA COTIZACIÓN
@@ -588,7 +666,7 @@
 						</div>					
 						<div class="col-md-2">
 							<p style="font-size: 18px;direction: initial;">								
-								© 2021
+								© 2022
 							</p>						
 						</div><div class="col-md-2" >
 							<p style="font-size: 18px;">

@@ -55,7 +55,7 @@
   }
   .hero-slider-area .slider-item .slider-text p {
     margin-bottom: 30px;
-    font-size: 14px;
+    font-size: 19px;
   }
   .hero-slider-area .slider-item .slider-text .slider-btn {
     margin-bottom: 30px;
@@ -157,7 +157,7 @@
     line-height: 1.6;
   }
   .about-area-two .about-content-two {
-    text-align: center;
+    /* text-align: center; */
   }
   .about-area-two .about-content-two h2 {
     font-size: 29px;
@@ -1240,7 +1240,16 @@
     position: unset;
   }
   .mobile-nav nav .navbar-nav {
-    height: 325px;
+     height: 340px;
+  }
+  #lisession{
+    display: block;
+  }
+  #limovilcorreo{
+    display: block;
+  }
+  .top-header-area{
+    display: none;
   }
 }
 /*# sourceMappingURL=responsive.css.map */

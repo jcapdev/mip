@@ -118,7 +118,7 @@ p:last-child {
 }
 
 img {
-  max-width: 100%;
+  /* max-width: 100%; */
   height: auto;
 }
 .img-about-two{
@@ -233,7 +233,7 @@ Default Btn Area Style*/
   z-index: 1;
   background-color: #E25224;
   font-family: 'Neutraface 2 Text Book';
-  font-weight: normal;
+  font-weight: bold;
   font-style: normal;
 }
 
@@ -2227,7 +2227,7 @@ About Area Two Style
   font-family: 'HelveticaNeueLT Com 67 MdCn';
   font-weight: 500;
   font-style: normal;
-  font-size: 20px;
+  font-size: 22px;
   color: #E25224;
   direction: initial;
   text-transform: initial;
@@ -2239,7 +2239,7 @@ About Area Two Style
   font-family: 'HelveticaNeueLT Com 37 ThCn';
   font-weight: 100;
   font-style: normal;
-  font-size: 20px;
+  font-size: 22px;
   line-height: 1.5;
 
 }
@@ -2471,7 +2471,7 @@ Prevent Area Style
   font-family: 'HelveticaNeueLT Com 37 ThCn';
   font-weight: 100;
   font-style: normal;
-  font-size: 20px;
+  font-size: 22px;
   line-height: 1.2;
   direction: ltr;
   padding: 8px;
@@ -2554,7 +2554,7 @@ Counter Area Style
   line-height: 1;
   font-size: 40px;
   margin-top: -8px;
-  margin-bottom: 10px;
+  /* margin-bottom: 10px; */
 }
 
 .counter-wrap .single-counter:hover {
@@ -7269,7 +7269,7 @@ Page-navigation Area Style*/
   font-family: 'HelveticaNeueLT Com 37 ThCn';
   font-weight: 100;
   font-style: normal;
-  font-size: 20px;
+  font-size: 22px;
   line-height: 1.5;
 }
 
@@ -7325,6 +7325,12 @@ Page-navigation Area Style*/
 
 }
 
+#lisession{
+  display: none;
+}
+#limovilcorreo{
+  display: none;
+}
 
 
 

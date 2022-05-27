@@ -55,10 +55,10 @@ $to_Email   	= $your_email;
 
 //Server settings
 $mail->isSMTP();                                            // Send using SMTP
-$mail->Host       = 'vmasideas.agency';                    // Set the SMTP server to send through
+$mail->Host       = 'hola1234.12345';                    // Set the SMTP server to send through
 $mail->SMTPAuth   = true;                                   // Enable SMTP authentication
-$mail->Username   = 'lachula.noreplay@vmasideas.agency';//     'contact@hotelquintaeden.com';                // SMTP username
-$mail->Password   = '8ul2!CVljGc^'; //    '##,FPy74a3VU';                     // SMTP password
+$mail->Username   = 'hola@hola1234.com';//     'contact@hotelquintaeden.com';                // SMTP username
+$mail->Password   = '123456'; //    '##,FPy74a3VU';                     // SMTP password
 $mail->SMTPSecure = 'ssl';         // Enable TLS encryption; `PHPMailer::ENCRYPTION_SMTPS` also accepted
 $mail->Port       = 465;                                    // TCP port to connect to
 //    $mail->SMTPDebug  = 4;
