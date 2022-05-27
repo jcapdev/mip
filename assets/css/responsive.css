@@ -1244,12 +1244,15 @@
   }
   #lisession{
     display: block;
+    direction: ltr;
   }
   #limovilcorreo{
     display: block;
+    direction: ltr;    
   }
   .top-header-area{
     display: none;
+    direction: ltr;
   }
 }
 /*# sourceMappingURL=responsive.css.map */
