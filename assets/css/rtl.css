@@ -75,18 +75,18 @@ body {
 }
 
 .about-content ul li {
-  padding-left: 0;
+  /* padding-left: 0; */
   padding-right: 25px;
 }
 
 .about-content ul li i {
-  left: unset;
+  /* left: unset; */
   right: 0;
 }
 
 .about-img .about-child {
   left: unset;
-  right: 0;
+  /* right: 0; */
 }
 
 .single-services .services-content span {
@@ -95,17 +95,17 @@ body {
 }
 
 .prevent-content ul li {
-  padding-left: 0;
+  /* padding-left: 0; */
   padding-right: 60px;
 }
 
 .prevent-content ul li::before {
-  left: unset;
+  /* left: unset; */
   right: 8px;
 }
 
 .prevent-content ul li::after {
-  left: unset;
+  /* left: unset; */
   right: 0;
 }
 

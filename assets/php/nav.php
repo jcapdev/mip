@@ -6,8 +6,8 @@
 						<div class="col-lg-6 col-sm-6">
 							<ul class="header-content-left">								
 								<li>
-									<a href="#">
-										<i class="fa fa-user" style="margin-right: 10px;direction: initial;"></i>
+									<a href="#" style = "direction: initial;">
+										<i class="fa fa-user" style="margin-right: 10px;"></i>
 										Inicio de sesión
 									</a>
 								</li>								
@@ -38,7 +38,7 @@
 				<div class="navbar-area">
 					<!-- Menu For Mobile Device -->
 					<div class="mobile-nav">
-						<a href="#" class="logo">
+						<a href="index.php" class="logo">
 							<img class="img-fluid" src="assets/img/logo-mip.png" alt="Logo">
 						</a>
 					</div>
@@ -53,18 +53,18 @@
 									<ul class="navbar-nav m-auto">										
 
 										<li class="nav-item">
-											<a href="#" class="nav-link active">NOSOTROS</a>
+											<a href="nosotros.php" class="nav-link active">NOSOTROS</a>
 										</li>										
 										<li class="nav-item">
-											<a href="#" class="nav-link">
+											<a href="servicios.php" class="nav-link">
 												SERVICIOS												
 											</a>										
 										</li>
 										<li class="nav-item">
-											<a href="#" class="nav-link">COBERTURA</a>
+											<a href="cobertura.php" class="nav-link">COBERTURA</a>
 										</li>
 										<li class="nav-item">
-											<a href="#" class="nav-link">CONTACTO</a>
+											<a href="contacto.php" class="nav-link">CONTACTO</a>
 										</li>										
 										<li id = "lisession">
 											<a href="#" id = "menusesion">
@@ -100,7 +100,7 @@
 											<i class='bx bx-menu'></i>
 										</div> -->
 										<div class="get-quote">											
-											<a class="navbar-brand" href="#">
+											<a class="navbar-brand" href="index.php">
 												<img class="img-fluid" src="assets/img/logo-mip.png" alt="Logo">
 											</a>
 										</div>
