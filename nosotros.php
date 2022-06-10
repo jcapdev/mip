@@ -128,38 +128,186 @@
 			</div>
 		</div>
 		<!-- End Page Title Area -->
-
-		<!-- Start About Area Area -->
-		<section class="about-area pt-100 pb-100" style="direction: ltr;">
+		<!-- Start About Area two -->
+		<section class="about-area-two pt-100 pb-100" style="direction: ltr;">
 			<div class="container">
 				<div class="row align-items-center">
 					<div class="col-lg-6">
-						<div class="about-content" style="text-align: left;">
-							<span>About Us</span>
-							<h2>COVID - 19 Virus Disinfection & Sanitation</h2>
-							<p class = "textabout">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.</p>
+						<div class="about-img-two">
+							<img src="assets/img/about-img-two.jpg" alt="Image">
+							<p class="block-p page-mb">
+								MIP es un sistema que involucra en cada servicio, uno o más tipos de control: físico, mecánico, biológico, cultural o químico.
+							</p>
+						</div>
+					</div>
+					<div class="col-lg-6">
+						<div class="about-content-two">
+							
+							<h2>SOMOS</h2>
+							<p>Estamos de su lado. Nuestro compromiso es con la calidad, asegurándole satisfacción total en el control de plagas a nivel industrial, comercial, residencial y transporte.</p>
+							
+							<p>Brindamos siempre una solución ante todo tipo de plagas: cucarachas, arañas, hormigas, pulgas, chinches, diversos insectos voladores, roedores; y también en plagas especiales como: termitas, aves, plagas de madera, insectos de los productos almacenados.</p>
+							<p>Contamos con una amplia experiencia, que nos permite manejar con éxito cada una de las etapas del proceso de servicio, cumpliendo en forma estricta con todas las regulaciones y normas vigentes.</p>
+							
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- End About Area two -->
+		<!-- Start Prevent Area Area -->
+		<section class="prevent-area  pt-100 pb-70" style="direction: initial;">
+			<div class="container">
+				<div class="row align-items-center">
+					<div class="col-lg-6">
+						<div class="prevent-content" style="text-align: left;direction: ltr;">
+							<ul>
+								<li>
+									<h2>MISIÓN</h2>
+									<p class = "textabout">Brindar servicios de control de plagas de primera calidad, buscando siempre ganar la confianza y satisfacción de nuestros clientes, apoyados en una adecuada infraestructura y un equipo humano que nos distingue y nos enorgullece.</p>
+								</li>
+								<li>
+									<h2>VISIÓN</h2>
+									<p class = "textabout">Ser una Empresa de referencia a nivel nacional como proveedor de servicios de control de plagas, ofreciendo y garantizando los trabajos con respuesta inmediata a los requerimientos de nuestros clientes.</p>
+								</li>								
+							</ul>
+						</div>
+					</div>
+					<div class="col-lg-6">
+						<div class="prevent-img">
+							<img src="assets/img/prevent-img.jpg" alt="Image">							
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- End Prevent Area -->
+		<!-- Start About Area Area -->
+		<section class="about-area pt-100 pb-100" style="direction: rtl;">
+			<div class="container">
+				<div class="row align-items-center">
+					<div class="col-lg-6">
+						<div class="about-content" style="text-align: left;direction: ltr;">							
+							<h2>ÁREA DE COBERTURA</h2>
+							<p class = "textabout">Siempre estamos en crecimiento constante. Hoy abarcamos el área del sureste del país y nos proponemos llegar a ser una empresa con participación a nivel Nacional.</p>
+							<p class = "textabout">Actualmente tenemos servicios instalados en los Estados de:</p>
 							
 							<ul>
 								<li>
 									<i class="flaticon-checked"></i>
-									Clean and disinfect frequently touched surfaces
+									PUEBLA
 								</li>
 								<li>
 									<i class="flaticon-checked"></i>
-									Avoid touching your eyes, nose, and mouth
+									VERACRUZ
 								</li>
 								<li>
 									<i class="flaticon-checked"></i>
-									Clean your hands with a hand sanitizer
+									MORELOS
 								</li>
 								<li>
 									<i class="flaticon-checked"></i>
-									Cover coughs and sneezes
+									OAXACA
 								</li>
+								<li>
+									<i class="flaticon-checked"></i>
+									TABASCO
+								</li>
+								<li>
+									<i class="flaticon-checked"></i>
+									HIDALGO
+								</li>
+								<li>
+									<i class="flaticon-checked"></i>
+									TLAXCALA 
+								</li>								
+							</ul>
+							<p class="block-content">
+								contamos con oficinas en Tecamachalco, Puebla, Córdoba y Coatzacoalcos Ver.
+							</p>
+						</div>
+					</div>
+
+					<div class="col-lg-6">
+						<div class="about-img">
+							<img src="assets/img/about-img.jpg" alt="Image">							
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- End About Area -->
+		<!-- Start Prevent Area Area -->
+		<section class="prevent-area  pt-100 pb-70" style="direction: ltr;">
+			<div class="container">
+				<div class="row align-items-center">
+					<div class="col-lg-6">
+						<div class="prevent-content" style="text-align: left;">							
+							<h2>NUESTRO COMPROMISO CON LA CALIDAD</h2>
+							<span>RESPONSABILIDAD EMPRESARIAL</span>
+							<ul>
+								<li>
+									<h2></h2>
+									<p class = "textabout">Satisfacer los requerimientos y expectativas de nuestros clientes.</p>
+								</li>
+								<li>
+									<h2></h2>
+									<p class = "textabout">Controlar y estandarizar nuestros servicios.</p>
+								</li>
+								<li>
+									<h2></h2>
+									<p class = "textabout">Prevenir la afectación a las personas, el medio ambiente y la propiedad de nuestros clientes.</p>
+								</li>
+								<li>
+									<h2></h2>
+									<p class = "textabout">Excelencia en el manejo y protección contra plagas, con tratamientos ya sean convencionales o especiales.</p>
+								</li>
+								<li>
+									<h2></h2>
+									<p class = "textabout">Aplicación de un PROGRAMA DE CALIDAD para el control de plagas, bajo un estricto compromiso de confidencialidad y participación con nuestros clientes.</p>
+								</li>
+								<li>
+									<h2></h2>
+									<p class = "textabout">Brindar un MANEJO INTEGRADO, haciéndonos cargo de los animales silvestres capturados, que son liberados y reubicados a su hábitat natural en forma segura.</p>
+								</li>								
+							</ul>
+						</div>
+					</div>
+					<div class="col-lg-6">
+						<div class="prevent-img">
+							<img src="assets/img/prevent-img.jpg" alt="Image">							
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- End Prevent Area -->
+		<!-- Start About Area Area -->
+		<section class="about-area pt-100 pb-100" style="direction: rtl;">
+			<div class="container">
+				<div class="row align-items-center">
+					<div class="col-lg-6">
+						<div class="about-content" style="text-align: left;direction: initial;">
+							<h2>ÉTICA PROFESIONAL</h2>
+							<p class = "textabout">Cuidamos el medio ambiente. Evitamos su contaminación. Por eso empleamos sólo productos registrados y autorizados por CICOPLAFEST y/o COFEPRIS, de acuerdo con la norma CSEG 0339.02.</p>
+							<p class = "textabout">Utilizamos únicamente productos químicos en las dosis y concentraciones correctas para las plagas presentes.</p>
+							<ul>
+								<li>
+									<i class="flaticon-checked"></i>
+									Licencia Sanitaria S. S.A. No. 2008- 21A058
+								</li>
+								<li>
+									<i class="flaticon-checked"></i>
+									Miembro Activo No. 814 de la Asociación Nacional de Controladores de Plagas Urbanas A.C.
+								</li>
+								<li>
+									<i class="flaticon-checked"></i>
+									Socio No. 208597 National Pest Management Association Inc.
+								</li>								
 							</ul>
 
 							<p class="block-content">
-								Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ab deserunt hic natus eum adipisci optio maxime itaque et.
+								Nuestro personal está preparado para presentar auditorías de AIB International, SILLIKER, FSSC 22000, QSE, YUM Brands, en Plantas de proceso de alimentos.
 							</p>
 						</div>
 					</div>
@@ -175,166 +323,29 @@
 				</div>
 			</div>
 		</section>
-		<!-- End About Area -->
-
+		<!-- End About Area -->		
 		<!-- Start About Area two -->
-		<section class="about-area-two pt-100 pb-100" style="direction: ltr;">
+		<section class="about-area-two pt-100 pb-100" style="direction: rtl;">
 			<div class="container">
 				<div class="row align-items-center">
 					<div class="col-lg-6">
 						<div class="about-img-two">
-							<img src="assets/img/about-img-two.jpg" alt="Image">
-
-							<p class="block-p page-mb">
-								Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas expedita, illum debitis ex sed culpa perferendis.
-							</p>
+							<img src="assets/img/about-img-two.jpg" alt="Image">							
 						</div>
 					</div>
-
 					<div class="col-lg-6">
-						<div class="about-content-two">
-							<span>About Us</span>
-							<h2>We Offer a Wide Range of Disinfecting Solutions</h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.</p>
-							
-							<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, facere necessitatibus. Dignissimos saepe molestias maiores officia veniam! Eveniet harum vel voluptas eius saepe unde molestiae doloribus! Cum facilis nesciunt eius!</p>
-
-							<ul>
-								<li>
-									<i class="flaticon-checked-1"></i>
-									Deep Cleaning Service
-								</li>
-								<li>
-									<i class="flaticon-checked-1"></i>
-									Disinfecting  Services
-								</li>
-								<li>
-									<i class="flaticon-checked-1"></i>
-									COVID-19 Disinfecting 
-								</li>
-								<li>
-									<i class="flaticon-checked-1"></i>
-									Virucidal Disinfectants
-								</li>
-							</ul>
+						<div class="about-content-two">							
+							<h2>RAPIDÉZ DE RESULTADOS</h2>
+							<p>Aplicamos procedimientos estándar de control (dosificación y métodos de aplicación) y registramos reportes de servicios, para dar seguimiento y atención a posibles desviaciones en los mismos, con inmediatez de respuesta, porque somos conscientes que los problemas de plagas no pueden postergarse, ya que comprometen la calidad de los productos y la salud de nuestros clientes.</p>							
+							<h2>INNOVACIÓN METODOLOGÍA Y CAPACITACIÓN</h2>
+							<p>Investigamos permanentemente, desarrollando soluciones innovadoras para cada caso en específico.</p>
+							<p>Nuestros tratamientos anti-plagas, se centran en los retos ambientales que enfrenta hoy en día el Planeta. Nuestros programas se implementan bajo normas ambientalistas, amigables y sostenibles, y no tienen contraindicaciones para productos, estructuras físicas, ni seres humanos.</p>							
 						</div>
 					</div>
 				</div>
 			</div>
 		</section>
 		<!-- End About Area two -->
-
-		<!-- Start Prevent Area Area -->
-		<section class="prevent-area  pt-100 pb-70" style="direction: ltr;">
-			<div class="container">
-				<div class="row align-items-center">
-					<div class="col-lg-6">
-						<div class="prevent-content" style="text-align: left;">
-							<span>Prevent</span>
-							<h2>Virtual Disnifection Services</h2>
-							<p class = "textabout">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.</p>
-							
-							<ul>
-								<li>
-									<h2>Wash your Hands</h2>
-									<p class = "textabout">Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio tempore minima cumque praesentium blanditiis nobis, dolore esse cupiditate</p>
-								</li>
-								<li>
-									<h2>Use Hand sanitizer</h2>
-									<p class = "textabout">Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio tempore minima cumque praesentium blanditiis nobis, dolore esse cupiditate</p>
-								</li>
-								<li>
-									<h2>Additional key times to clean hands</h2>
-									<p class = "textabout">Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio tempore minima cumque praesentium blanditiis nobis, dolore esse cupiditate</p>
-								</li>
-								<li>
-									<h2>Avoid touching</h2>
-									<p class = "textabout">Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio tempore minima cumque praesentium blanditiis nobis, dolore esse cupiditate</p>
-								</li>
-							</ul>
-						</div>
-					</div>
-					<div class="col-lg-6">
-						<div class="prevent-img">
-							<img src="assets/img/prevent-img.jpg" alt="Image">
-							<div class="prevent-child">
-								<img src="assets/img/prevent-child.jpg" alt="Image">
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-		<!-- End Prevent Area -->
-        <!-- Start Prevent Area Area -->
-		<section class="important-area bg-about-color pt-100">
-			<div class="container-fluid">
-				<div class="row">
-					<div class="col-md-6 pr-0">
-						<div class="important-img">
-							<div class="counter-wrap" style="direction: initial;">
-								<div class="row">
-									<div class="col-lg-6 col-sm-6">
-										<div class="single-counter">
-											<h2>
-												<span class="target">+</span>
-												<span class="odometer" data-count="200">00</span> 												
-											</h2>				
-											<p>clientes satisfechos</p>
-										</div>
-									</div>
-				
-									<div class="col-lg-6 col-sm-6">
-										<div class="single-counter">
-											<h2>
-												<span class="target">+</span>
-												<span class="odometer" data-count="3547">00</span> 												
-											</h2>
-											<p>plagas extinguidas</p>
-										</div>
-									</div>
-				
-									<div class="col-lg-6 col-sm-6">
-										<div class="single-counter mb-0">
-											<h2>
-												<span class="traget">+</span>
-												<span class="odometer" data-count="10">00</span>
-											</h2>				
-											<p>años de experiencia</p>
-										</div>
-									</div>
-				
-									<div class="col-lg-6 col-sm-6">
-										<div class="single-counter mb-0">
-											<h2>
-												<span class="traget">+</span>
-												<span class="traget">$</span>
-												<span class="odometer" data-count="250">00</span>
-												<span class="traget">M</span>
-											</h2>				
-											<p>en patrimonios protegidos</p>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-6 ptb-100">
-						<div class="important-content">							
-							<h3 class = "titleclients" style="text-align: left;">EXPERIENCIA</h3>
-							<p>Contamos con una amplia experiencia, que nos permite manejar con éxito cada una de las etapas del proceso de servicio, cumpliendo en forma estricta con todas las regulaciones y normas vigentes.</p>
-							<h3 class = "titleclients" style="text-align: left;">NUESTROS CLIENTES</h3>
-							<img class = "img-fluid" src="assets/img/client/Logos-Demo.png" alt="" style="margin-top: 13px;">
-						</div>
-						<button type="submit" class="default-btn page-btn" style="top: 45px;">
-							SOLICITA UNA COTIZACIÓN
-						</button>
-					</div>					
-				</div>
-			</div>
-		</section>
-		<!-- End Prevent Area -->
-	
 		<!-- Start Go Top Area -->
 		<div class="go-top">
 			<i class='bx bx-chevrons-up'></i>

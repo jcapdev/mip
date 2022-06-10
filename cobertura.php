@@ -130,211 +130,59 @@
 		<!-- End Page Title Area -->
 
 		<!-- Start About Area Area -->
-		<section class="about-area pt-100 pb-100" style="direction: ltr;">
+		<section class="about-area pt-100 pb-100" style="direction: rtl;">
 			<div class="container">
 				<div class="row align-items-center">
-					<div class="col-lg-6">
-						<div class="about-content" style="text-align: left;">
-							<span>About Us</span>
-							<h2>COVID - 19 Virus Disinfection & Sanitation</h2>
-							<p class="textabout">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.</p>
-							
-							<ul>
-								<li>
-									<i class="flaticon-checked"></i>
-									Clean and disinfect frequently touched surfaces
-								</li>
-								<li>
-									<i class="flaticon-checked"></i>
-									Avoid touching your eyes, nose, and mouth
-								</li>
-								<li>
-									<i class="flaticon-checked"></i>
-									Clean your hands with a hand sanitizer
-								</li>
-								<li>
-									<i class="flaticon-checked"></i>
-									Cover coughs and sneezes
-								</li>
-							</ul>
-
-							<p class="block-content">
-								Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ab deserunt hic natus eum adipisci optio maxime itaque et.
-							</p>
-						</div>
-					</div>
-
 					<div class="col-lg-6">
 						<div class="about-img">
-							<img src="assets/img/about-img.jpg" alt="Image">
-							<div class="about-child">
-								<img src="assets/img/about-child.jpg" alt="Image">
-							</div>
+							<img src="assets/img/about-img.jpg" alt="Image">							
 						</div>
 					</div>
-				</div>
-			</div>
-		</section>
-		<!-- End About Area -->
-
-		<!-- Start About Area two -->
-		<section class="about-area-two  pt-100 pb-100" style="direction: ltr;">
-			<div class="container">
-				<div class="row align-items-center">
 					<div class="col-lg-6">
-						<div class="about-img-two">
-							<img src="assets/img/about-img-two.jpg" alt="Image">
-
-							<p class="block-p page-mb">
-								Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas expedita, illum debitis ex sed culpa perferendis.
+						<div class="about-content" style="text-align: left;direction: ltr;">							
+							<h2>ÁREA DE COBERTURA</h2>
+							<p class = "textabout">Siempre estamos en crecimiento constante. Hoy abarcamos el área del sureste del país y nos proponemos llegar a ser una empresa con participación a nivel Nacional.</p>
+							<p class = "textabout">Actualmente tenemos servicios instalados en los Estados de:</p>
+							
+							<ul>
+								<li>
+									<i class="flaticon-checked"></i>
+									PUEBLA
+								</li>
+								<li>
+									<i class="flaticon-checked"></i>
+									VERACRUZ
+								</li>
+								<li>
+									<i class="flaticon-checked"></i>
+									MORELOS
+								</li>
+								<li>
+									<i class="flaticon-checked"></i>
+									OAXACA
+								</li>
+								<li>
+									<i class="flaticon-checked"></i>
+									TABASCO
+								</li>
+								<li>
+									<i class="flaticon-checked"></i>
+									HIDALGO
+								</li>
+								<li>
+									<i class="flaticon-checked"></i>
+									TLAXCALA 
+								</li>								
+							</ul>
+							<p class="block-content">
+								contamos con oficinas en Tecamachalco, Puebla, Córdoba y Coatzacoalcos Ver.
 							</p>
 						</div>
-					</div>
-
-					<div class="col-lg-6">
-						<div class="about-content-two">
-							<span>About Us</span>
-							<h2>We Offer a Wide Range of Disinfecting Solutions</h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.</p>
-							
-							<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, facere necessitatibus. Dignissimos saepe molestias maiores officia veniam! Eveniet harum vel voluptas eius saepe unde molestiae doloribus! Cum facilis nesciunt eius!</p>
-
-							<ul>
-								<li>
-									<i class="flaticon-checked-1"></i>
-									Deep Cleaning Service
-								</li>
-								<li>
-									<i class="flaticon-checked-1"></i>
-									Disinfecting  Services
-								</li>
-								<li>
-									<i class="flaticon-checked-1"></i>
-									COVID-19 Disinfecting 
-								</li>
-								<li>
-									<i class="flaticon-checked-1"></i>
-									Virucidal Disinfectants
-								</li>
-							</ul>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-		<!-- End About Area two -->
-
-		<!-- Start Prevent Area Area -->
-		<section class="prevent-area pt-100 pb-70" style="direction: ltr;">
-			<div class="container">
-				<div class="row align-items-center">
-					<div class="col-lg-6">
-						<div class="prevent-content" style="text-align: left;">
-							<span>Prevent</span>
-							<h2>Virtual Disnifection Services</h2>
-							<p class = "textabout">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.</p>
-							
-							<ul>
-								<li>
-									<h3 class = "listitle">Wash your Hands</h3>
-									<p class = "textabout">Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio tempore minima cumque praesentium blanditiis nobis, dolore esse cupiditate</p>
-								</li>
-								<li>
-									<h3 class = "listitle">Use Hand sanitizer</h3>
-									<p class = "textabout">Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio tempore minima cumque praesentium blanditiis nobis, dolore esse cupiditate</p>
-								</li>
-								<li>
-									<h3 class = "listitle">Additional key times to clean hands</h3>
-									<p class = "textabout">Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio tempore minima cumque praesentium blanditiis nobis, dolore esse cupiditate</p>
-								</li>
-								<li>
-									<h3 class = "listitle">Avoid touching</h3>
-									<p class = "textabout">Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio tempore minima cumque praesentium blanditiis nobis, dolore esse cupiditate</p>
-								</li>
-							</ul>
-						</div>
-					</div>
-					<div class="col-lg-6">
-						<div class="prevent-img">
-							<img src="assets/img/prevent-img.jpg" alt="Image">
-							<div class="prevent-child">
-								<img src="assets/img/prevent-child.jpg" alt="Image">
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-		<!-- End Prevent Area -->
-        <!-- Start Prevent Area Area -->
-		<section class="important-area bg-about-color pt-100">
-			<div class="container-fluid">
-				<div class="row">
-					<div class="col-lg-6 pr-0">
-						<div class="important-img">
-							<div class="counter-wrap" style="direction: initial;">
-								<div class="row">
-									<div class="col-lg-6 col-sm-6">
-										<div class="single-counter">
-											<h2>
-												<span class="target">+</span>
-												<span class="odometer" data-count="200">00</span> 												
-											</h2>				
-											<p>clientes satisfechos</p>
-										</div>
-									</div>
-				
-									<div class="col-lg-6 col-sm-6">
-										<div class="single-counter">
-											<h2>
-												<span class="target">+</span>
-												<span class="odometer" data-count="3547">00</span> 												
-											</h2>
-											<p>plagas extinguidas</p>
-										</div>
-									</div>
-				
-									<div class="col-lg-6 col-sm-6">
-										<div class="single-counter mb-0">
-											<h2>
-												<span class="traget">+</span>
-												<span class="odometer" data-count="10">00</span>
-											</h2>				
-											<p>años de experiencia</p>
-										</div>
-									</div>
-				
-									<div class="col-lg-6 col-sm-6">
-										<div class="single-counter mb-0">
-											<h2>
-												<span class="traget">+</span>
-												<span class="traget">$</span>
-												<span class="odometer" data-count="250">00</span>
-												<span class="traget">M</span>
-											</h2>				
-											<p>en patrimonios protegidos</p>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-6 ptb-100">
-						<div class="important-content">							
-							<h3 class = "titleclients" style="text-align: left;">EXPERIENCIA</h3>
-							<p>Contamos con una amplia experiencia, que nos permite manejar con éxito cada una de las etapas del proceso de servicio, cumpliendo en forma estricta con todas las regulaciones y normas vigentes.</p>
-							<h3 class = "titleclients" style="text-align: left;">NUESTROS CLIENTES</h3>
-							<img class = "img-fluid" src="assets/img/client/Logos-Demo.png" alt="" style="margin-top: 13px;">
-						</div>
-						<button type="submit" class="default-btn page-btn" style="top: 45px;">
-							SOLICITA UNA COTIZACIÓN
-						</button>
 					</div>					
 				</div>
 			</div>
 		</section>
-		<!-- End Prevent Area -->
-	
+		<!-- End About Area -->	
 		<!-- Start Go Top Area -->
 		<div class="go-top">
 			<i class='bx bx-chevrons-up'></i>

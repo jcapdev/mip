@@ -122,22 +122,150 @@
 		<div class="page-title-area bg-19">
 			<div class="container">
 				<div class="page-title-content">
-					<h2>Contact</h2>
-					<ul>
-						<li>
-							<a href="index.html">
-								Home 
-							</a>
-						</li>
-
-						<li>Pages</li>
-
-						<li class="active">Contact</li>
-					</ul>
+					<h2>Contacto</h2>
+					<p id = "textslider" style="direction: initial;">en el manejo integral de plagas.</p>	
 				</div>
 			</div>
 		</div>
 		<!-- End Page Title Area -->
+		<section class="contact-area ptb-100 bg-about-color" style="direction: initial;background-color: #FFFFFF;">
+			<div class="container">
+				<div class="row">				
+						<div class="col-lg-8 col-md-12">
+							<div class = "contact-wrap">
+								<h2 style="text-align: center;">SERVICIO LAS 24 HORAS</h2>
+								<p class = "textabout" style="text-align: left;" >Disponemos de un equipo de emergencia entrenado y debidamente capacitado para manejar con éxito en forma rápida y precisa, todas las situaciones inesperadas vinculadas a los problemas de plagas durante las 24 horas.</p>
+								<div class="order-details">
+									<div class="order-table table-responsive">
+										<h3 class="title" style = "text-align: center;">Para Emergencias</h3>
+										<table class="table table-bordered" style="text-align: center;">
+											<thead>
+												<tr>
+													<!-- <th scope="col">Product Name</th>
+													<th scope="col">Total</th> -->
+												</tr>
+											</thead>
+											<tbody>										
+												<tr>
+													<td class="product-name">													
+														<a>Lada sin costo:</a>
+														<br>
+														<a>01 800 838 1688</a>
+													</td>
+												</tr>
+												<tr>
+													<td class="product-name">
+														<a>Oficinas Centrales:</a>
+														<br>
+														<a>(249) 103 06 88</a>													
+														<br>
+														<a>(249) 103 05 35</a>
+													</td>												
+												</tr>
+												<tr>
+													<td class="product-name">
+														<a>Correo Electrónico:</a>
+														<br>
+														<a>servicios@mip.com.mx</a>
+													</td>												
+												</tr>											
+											</tbody>
+										</table>
+									</div>							
+								</div>
+							</div>								
+						</div>
+						<div class="col-lg-4 col-md-12">
+							<div class = "contact-wrap">
+							<div class="order-details">
+									<div class="order-table table-responsive">
+										<h3 class="title" style = "text-align: center;">DIRECCIONES Y TELÉFONOS</h3>
+										<table class="table table-bordered" style="text-align: center;">
+											<thead>
+												<tr>											
+												</tr>
+											</thead>
+											<tbody>										
+												<tr>
+													<td class="product-name">													
+														<a>OFICINAS GENERALES</a>
+														<br>
+														<a>15 Poniente Núm. 503, San Nicolás</a>
+														<br>
+														<a>Tecamachalco Puebla</a>
+														<br>
+														<a>Tel.:249 103 06 88</a>
+														<br>
+														<a>249 103 05 35</a>
+													</td>
+												</tr>
+												<tr>
+													<td class="product-name">
+														<a>LADA SIN COSTO:800 838 16 88</a>
+														<br>
+														<a>Quejas y sugerencias: mejora.continua@mip.com.mx</a>													
+														<br>
+														<a>DIRECTOR GENERA</a>
+														<br>
+														<a>Víctor H. Adame Rodríguez</a>
+														<br>
+														<a>Cel.:238 38 8 21 83 (24 HORAS)</a>
+														<br>
+														<a>E-mail: victor.adame@mip.com.mx</a>
+													</td>												
+												</tr>
+												<tr>
+													<td class="product-name">
+														<a>JEFE ADMINISTRATIVO</a>
+														<br>
+														<a>Yolanda Moro Ortiz</a>													
+														<br>
+														<a>Tel.: 01 249 103 06 88</a>
+														<br>
+														<a>E-mail: administracion@mip.com.mx</a>													
+													</td>												
+												</tr>
+												<tr>
+													<td class="product-name">
+														<a>JEFE DE SERVICIOS TÉCNICOS</a>
+														<br>
+														<a>José Flores Lozano</a>													
+														<br>
+														<a>Cel.: 249 119 9499 (24 HORAS)</a>
+														<br>
+														<a>E-mail: jose.flores@mip.com.mx</a>													
+													</td>												
+												</tr>
+												<tr>
+													<td class="product-name">
+														<a>OPERACIÓN CÓRDOBA</a>
+														<br>
+														<a>Cel.:271 157 45 41</a>													
+														<br>
+														<a>E-mail: cordoba@mip.com.mx</a>																										
+													</td>												
+												</tr>
+												<tr>
+													<td class="product-name">
+														<a>OPERACIÓN COATZACOALCOS</a>
+														<br>
+														<a>Cel.: 921 103 93 37</a>													
+														<br>
+														<a>E-mail: coatzacoalcos@mip.com.mx</a>																										
+													</td>												
+												</tr>											
+											</tbody>
+										</table>
+									</div>							
+							</div>
+							</div>							
+						</div>
+				</div>
+			</div>	
+		</section>	
+	
+
+
 	    <!-- Start Contact Area -->
         <section class="contact-area ptb-100 bg-about-color" style="direction: initial;background-color: #FFFFFF;">
 			<div class="container">
