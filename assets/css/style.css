@@ -981,7 +981,7 @@ About Area Style
 }
 
 .about-img {
-  border: 10px solid #232350;
+  border: 10px solid #5d5d5d;
   border-radius: 50%;
   position: relative;
 }
@@ -990,7 +990,7 @@ About Area Style
   position: absolute;
   bottom: 0;
   left: -20px;
-  border: 10px solid #232350;
+  border: 10px solid #5d5d5d;
   border-radius: 50%;
 }
 
@@ -1164,12 +1164,12 @@ Prevent Area Style
   left: 0;
   width: 30px;
   height: 30px;
-  background-color: #bcf0fd;
+  background-color: #383838;
   z-index: -1;
 }
 
 .prevent-img {
-  border: 10px solid #232350;
+  border: 10px solid #5d5d5d;
   border-radius: 50%;
   position: relative;
 }
@@ -1178,7 +1178,7 @@ Prevent Area Style
   position: absolute;
   bottom: 0;
   left: -20px;
-  border: 10px solid #232350;
+  border: 10px solid #5d5d5d;
   border-radius: 50%;
   -webkit-animation: rotation 30s linear infinite;
           animation: rotation 30s linear infinite;
@@ -2261,6 +2261,7 @@ About Area Two Style
   text-align: left;
   padding: 15px; 
   direction: ltr;
+  text-align: justify;
 }
 .about-area-two .about-content-two span { 
   display: block;
@@ -2284,7 +2285,7 @@ About Area Two Style
   color: #E25224;
   direction: initial;
   text-transform: initial;
-
+  text-align: justify;
 }
 
 .about-area-two .about-content-two p {
@@ -2294,6 +2295,7 @@ About Area Two Style
   font-style: normal;
   font-size: 22px;
   line-height: 1.5;
+  text-align: justify;
 
 }
 
@@ -2535,6 +2537,7 @@ Prevent Area Style
   line-height: 1.2;
   direction: ltr;
   padding: 8px;
+  text-align: justify;
 
 }
 
@@ -3990,9 +3993,27 @@ Blog Details Area Style
 }
 
 .blog-details-area .blog-details-desc .article-content h3 {
-  margin-bottom: 13px;
-  margin-top: 25px;
-  font-size: 30px;
+  font-size: 40px;
+  margin-bottom: 25px;
+  font-family: 'HelveticaNeueLT Com 67 MdCn';
+  font-weight: 500;
+  font-style: normal;
+  font-size: 22px;
+  color: #E25224;
+  direction: initial;
+  text-transform: initial;
+}
+
+.blog-details-area .blog-details-desc .article-content h4 {
+  font-size: 40px;
+  margin-bottom: 25px;
+  font-family: 'HelveticaNeueLT Com 67 MdCn';
+  font-weight: 500;
+  font-style: normal;
+  font-size: 22px;
+  color: #E25224;
+  direction: initial;
+  text-transform: initial;
 }
 
 .blog-details-area .blog-details-desc .article-content .wp-block-gallery.columns-3 {
@@ -7403,6 +7424,7 @@ Page-navigation Area Style*/
   font-style: normal;
   font-size: 22px;
   line-height: 1.5;
+  text-align: justify;
 }
 
 .titleclients{

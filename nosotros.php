@@ -123,7 +123,7 @@
 			<div class="container">
 				<div class="page-title-content">
 					<h2>Nosotros</h2>
-					<p id = "textslider" style="direction: initial;">en el manejo integral de plagas.</p>	
+					<p id = "textslider" style="direction: initial;">Manejo Integrado de Plagas de Oriente SA de CV.</p>	
 				</div>
 			</div>
 		</div>
@@ -136,19 +136,21 @@
 						<div class="about-img-two">
 							<img src="assets/img/about-img-two.jpg" alt="Image">
 							<p class="block-p page-mb">
-								MIP es un sistema que involucra en cada servicio, uno o más tipos de control: físico, mecánico, biológico, cultural o químico.
+								<b style = "font-weight: bold;">MANEJO INTEGRADO DE PLAGAS DE ORIENTE SA DE CV</b>
+								<br> 
+								RESPONSABILIDAD EN EL MANEJO INTEGRAL DE PLAGAS.
 							</p>
 						</div>
 					</div>
 					<div class="col-lg-6">
-						<div class="about-content-two">
-							
-							<h2>SOMOS</h2>
-							<p>Estamos de su lado. Nuestro compromiso es con la calidad, asegurándole satisfacción total en el control de plagas a nivel industrial, comercial, residencial y transporte.</p>
-							
-							<p>Brindamos siempre una solución ante todo tipo de plagas: cucarachas, arañas, hormigas, pulgas, chinches, diversos insectos voladores, roedores; y también en plagas especiales como: termitas, aves, plagas de madera, insectos de los productos almacenados.</p>
-							<p>Contamos con una amplia experiencia, que nos permite manejar con éxito cada una de las etapas del proceso de servicio, cumpliendo en forma estricta con todas las regulaciones y normas vigentes.</p>
-							
+						<div class="about-content-two">							
+							<h2>SOMOS</h2>							
+							<p><b style = "font-weight: bold;">MANEJO INTEGRADO DE PLAGAS DE ORIENTE SA DE CV</b>, nació en Tehuacán, Puebla en mayo de 1997 como parte de una empresa distribuidora de laboratorios BAYER veterinaria, realizando únicamente trabajos residenciales y comerciales, con el tiempo surgió la necesidad de separar totalmente la empresa en distribución y control de plagas.</p>	
+							<p>En el año 2000, se consigue el primer contrato con una empresa de alimentos balanceados para animales.</p>
+							<p>2022 es un año de crecimiento importante al conseguir servicios en los estados de Veracruz y Oaxaca, para iniciar la expansión de lo que hoy es MIP.</p>		
+							<p>En 2008, se consolida lo que hoy es <b style = "font-weight: bold;">MIP DE ORIENTE</b>, con socios y personal comprometido en el crecimiento y se consiguen contratos en los estados de Chiapas, Tabasco y Tlaxcala.</p>		
+							<p>El crecimiento ha sido constante, gracias a la gestión de los socios y el esfuerzo constante de los técnicos de control de plagas que se han formado en estos 25 años de trabajo.</p>
+							<p>Actualmente tenemos servicios instalados en los estados de PUEBLA, VERACRUZ, OAXACA, CHIAPAS, TLAXCALA, MORELOS, TABASCO, QUERETARO Y MICHOACAN.</p>
 						</div>
 					</div>
 				</div>
@@ -183,7 +185,7 @@
 		</section>
 		<!-- End Prevent Area -->
 		<!-- Start About Area Area -->
-		<section class="about-area pt-100 pb-100" style="direction: rtl;">
+		<!-- <section class="about-area pt-100 pb-100" style="direction: rtl;">
 			<div class="container">
 				<div class="row align-items-center">
 					<div class="col-lg-6">
@@ -235,7 +237,7 @@
 					</div>
 				</div>
 			</div>
-		</section>
+		</section> -->
 		<!-- End About Area -->
 		<!-- Start Prevent Area Area -->
 		<section class="prevent-area  pt-100 pb-70" style="direction: ltr;">
@@ -244,7 +246,7 @@
 					<div class="col-lg-6">
 						<div class="prevent-content" style="text-align: left;">							
 							<h2>NUESTRO COMPROMISO CON LA CALIDAD</h2>
-							<span>RESPONSABILIDAD EMPRESARIAL</span>
+							<span>En <b style = "font-weight: bold;">MIP DE ORIENTE </b>, mantenemos el compromiso de ofrecer a nuestros clientes servicios de control de plagas especializados mediante el cumplimiento de los requisitos aplicables, lo que nos permite mantener una metodología de mejora continua basada en la norma internacional ISO-9001:2015</span>
 							<ul>
 								<li>
 									<h2></h2>

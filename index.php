@@ -119,8 +119,8 @@
 									</div>
 									<div class="col-lg-9">
 										<div class="slider-text one">
-											<h1>Responsabilidad</h1>
-											<p style="direction: initial;">en el manejo integral de plagas.</p>											
+											<h1>MANEJO INTEGRADO</h1>
+											<p style="direction: initial;">DE PLAGAS DE ORIENTE SA DE CV.</p>											
 											<div class="slider-btn" style="margin-top: 50px;" >												
 												<a class="default-btn" href="#">
 													CONTÁCTANOS
@@ -175,12 +175,11 @@
 				<div class="row">
 					<div class="col-lg-3">
 						<div class="hot-line">							
-							<h3 style="font-size: 20px;">Emergencias</h3>
-							<span>Lada sin costo, 24 horas: </span>
+							<h3 style="font-size: 20px;">Atención a clientes</h3>
+							<span>LADA SIN COSTO</span>
 							<a href="tel:800 838 1688" style="margin-bottom: 14px;">800 838 1688</a>
-							<h3 style="font-size: 14px;">Oficinas Centrales:</h3>
-							<span>(249) 103 06 88</span>
-							<span>(249) 103 05 35</span>
+							<h3 style="font-size: 14px;">Correo: </h3>
+							<span>servicios@mip.com.mx</span>							
 						</div>
 					</div>
 					<div class="col-lg-9" id = "logos">
@@ -229,7 +228,7 @@
 								<img class="img-fluid" src="assets/img/logo-mip-about.png" alt="Image">
 							</div>						
 							<h2 class = "titleabout">BIENVENIDO</h2>
-							<p class = "textabout">Estamos de su lado. Con más de 15 años de experiencia, nuestro compromiso es con la calidad, asegurándole satisfacción total en el control de plagas a nivel industrial, comercial, residencial, logística y distribución.</p>														
+							<p style="direction: initial;" class = "textabout">Estamos de su lado. Con 25 años de experiencia en la industria del control de plagas, somos una empresa de referencia, asegurándole satisfacción total en el control de plagas a nivel industrial, comercial, residencial, logística y distribución.</p>
 							<a href="#" class="default-btn">
 								CONÓCENOS
 							</a>
@@ -247,7 +246,13 @@
 						<div class="about-content-two">
 							<span>SERVICIOS</span>
 							<h2>Nuestro compromiso es con la <strong>calidad</strong>, asegurándole satisfacción total en el control de plagas a nivel industrial, comercial, residencial y transporte.</h2>
-							<p>Brindamos siempre una solución ante todo tipo de plagas: cucarachas, arañas, hormigas, pulgas, chinches, diversos insectos voladores, roedores; y también en plagas especiales como: termitas, aves, plagas de madera, insectos de los productos almacenados.</p>														
+							<p>Brindamos siempre una solución ante todo tipo de plagas: cucarachas, arañas, hormigas, pulgas, chinches, diversos insectos voladores, roedores; y también en plagas especiales como: termitas, aves, plagas de madera, insectos de los productos almacenados.</p>
+							<p>Somos un equipo humano compuesto por técnicos, supervisores, auditores, capacitados y certificados en:</p>								
+								<ul class = "prevent-content">
+									<li>EC-0303, GRADO DE INOCUIDAD</li>
+									<li>EC-0146, NIVEL INTERMEDIO</li>
+									<li>EC-0663, NIVEL BASICO</li>
+								</ul>
 							<a href="#" class="default-btn">
 								CONOCE NUESTROS SERVICIOS
 							</a>
@@ -297,7 +302,7 @@
 										<div class="single-counter mb-0">
 											<h2>
 												<span class="traget">+</span>
-												<span class="odometer" data-count="10">00</span>
+												<span class="odometer" data-count="25">00</span>
 											</h2>				
 											<p>años de experiencia</p>
 										</div>
@@ -396,7 +401,7 @@
 
 					<div class="col-lg-4">
 						<div class="quick-contact">
-							<h3 style="text-align: initial;">Contacto </h3>	
+							<h3 style="text-align: initial;">Oficinas Generales </h3>	
 							<ul style="margin-bottom: 21px;">
 								<li>
 									<i class="bx bx-location-plus"></i>
@@ -411,12 +416,16 @@
 								</li>
 
 								<li>
-									<i class="bx bx-envelope"></i>
-									Correo
-									<a href="mailto:hello@contlib.com">
+									<i style="margin-top: 33px;" class="bx bx-envelope"></i>
+									Correo: 
+									<a href="mailto:servicios@mip.com.mx">
 										servicios@mip.com.mx <br>										
 									</a>
-								</li>
+									Quejas y sugerencias:
+									<a href="mailto:gerencia@mip.com.mx">
+										gerencia@mip.com.mx <br>										
+									</a>									
+								</li>								
 							</ul>
 						</div>
 					</div>

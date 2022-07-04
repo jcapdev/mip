@@ -145,57 +145,10 @@
 					</div>
 					<div class="col-lg-6">
 						<div class="about-content" style="text-align: left;direction: ltr;">
-							<p class = "textabout">Implementamos métodos preventivos y correctivos que permiten el control integral de plagas en las áreas de:</p>
-							<ul>
-								<li>
-									<i class="flaticon-checked"></i>
-									Sanidad Urbana.
-								</li>
-								<li>
-									<i class="flaticon-checked"></i>
-									Residencial.
-								</li>
-								<li>
-									<i class="flaticon-checked"></i>
-									Turístico.
-								</li>
-								<li>
-									<i class="flaticon-checked"></i>
-									Comercial.
-								</li>
-								<li>
-									<i class="flaticon-checked"></i>
-									Institucional.
-								</li>
-								<li>
-									<i class="flaticon-checked"></i>
-									Industrial.
-								</li>
-								<li>
-									<i class="flaticon-checked"></i>
-									Conservación de granos y productos almacenados. 
-								</li>
-								<li>
-									<i class="flaticon-checked"></i>
-									Limpieza de silos, bodegas, almacenes. 
-								</li>
-								<li>
-									<i class="flaticon-checked"></i>
-									Tratamientos con pautas alternativas. 
-								</li>
-								<li>
-									<i class="flaticon-checked"></i>
-									Tratamientos ecológicamente amigables, eco friendly. 
-								</li>
-								<li>
-									<i class="flaticon-checked"></i>
-									Industria Alimentaria. 
-								</li>
-								<li>
-									<i class="flaticon-checked"></i>
-									Control de Termitas.
-								</li>								
-							</ul>							
+							<p class = "textabout">Somos especialistas en servicios para la <b style = "font-weight: bold;">INDUSTRIA ALIMENTARIA</b>, aplicando medidas específicas de diagnóstico de plagas, prevención y tratamiento para el sector.</p>
+							<p class = "textabout">Nuestros programas están diseñados para proteger las áreas de proceso de producción, almacenaje y transporte.</p>
+							<p class = "textabout">Apegados a normas y lineamientos nacionales e internacionales.</p>
+							<p class = "textabout">Diseñamos un programa de trabajo que nos lleve a garantizar la efectividad de nuestros servicios urbanos y residenciales, hoteleros, turístico, Comercial, Institucional e Industrial</p>
 						</div>
 					</div>					
 				</div>				
@@ -205,52 +158,45 @@
 		<div class = "container">
 			<div class="row">
 				<div class="col-lg-4 col-sm-6">
-					<div class="single-services">
+					<div class="single-services" style="direction: ltr;text-align: left;">
 						<img src="assets/img/services/1.jpg" alt="Image">
 
 						<div class="services-content">
-							<h3>Residencial</h3>
-							<p class = "textabout">Limpieza y desinfección en cada uno de los rincones del inmueble para evitar infecciones y enfermedades.</p>
-							
-							<!-- <a href="services-details.html" class="read-more">
-								Read More
+							<h3>Termitas</h3>
+							<p class = "textabout">Las termitas pueden ser un problema las 24 horas del día y los 365 días del año, tanto en zonas urbanas como rurales, especialmente en regiones húmedas.</p>							
+							<a href="blog-termitas-mip.php" class="read-more">
+								Más información
 								<i class="bx bx-plus"></i>
-							</a> -->
-
+							</a>
 							<span class="flaticon-couch"></span>
 						</div>
 					</div>
 				</div>
 				<div class="col-lg-4 col-sm-6">
-					<div class="single-services">
+					<div class="single-services" style="direction: ltr;text-align: left;">
 						<img src="assets/img/services/2.jpg" alt="Image">
-
 						<div class="services-content">
-							<h3>Sanidad Urbana</h3>
-							<p class = "textabout">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt dolor sit amet, consectetur.</p>
-
-							<!-- <a href="services-details.html" class="read-more">
-								Read More
+							<h3>Caracterización de Aves</h3>
+							<p class = "textabout">Ciertas especies de aves, frecuentemente son molestas o se vuelven plagas capaces de transmitir enfermedades, contaminar nuestros alimentos y dañar nuestras estructuras.</p>
+							<a href="blog-aves.php" class="read-more">
+								Más información
 								<i class="bx bx-plus"></i>
-							</a> -->
-
+							</a>
 							<span class="flaticon-windows"></span>
 						</div>
 					</div>
 				</div>
 				<div class="col-lg-4 col-sm-6">
-					<div class="single-services">
+					<div class="single-services" style="direction: ltr;text-align: left;">
 						<img src="assets/img/services/7.jpg" alt="Image">
 
 						<div class="services-content">
-							<h3>Turístico</h3>
-							<p class = "textabout">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt dolor sit amet, consectetur.</p>
-
-							<!-- <a href="services-details.html" class="read-more">
-								Read More
+							<h3>Plagas Urbanas</h3>
+							<p class = "textabout">Las PLAGA URBANA son aquellas especies implicadas en la transferencia de enfermedades infecciosas para el hombre y en el daño o deterioro del hábitat y del bienestar urbano.</p>
+							<a href="blog-plagas-urbanas.php" class="read-more">
+								Más información
 								<i class="bx bx-plus"></i>
-							</a> -->
-
+							</a>
 							<span class="flaticon-house"></span>
 						</div>
 					</div>
@@ -272,11 +218,25 @@
 					</div>
 					<div class="col-lg-6">
 						<div class="prevent-content" style="text-align: left;">							
-							<h2>TIPOS DE CONTROL</h2>
-							<p class = "textabout">El MIP constituye una actividad que debe aplicarse a todos los sectores internos y externos de su hogar o negocio, que incluyen las zonas aledañas a los mismos. Por ejemplo, en el caso de una empresa productiva, la zona de recepción, elaboración, empaque, depósitos, almacenes, vestidores, cocinas y baños.</p>
-							<p class = "textabout">En el caso de su domicilio incluye cochera, baños, cocina, puertas de acceso, jardín, etc.</p>
-							<p class = "textabout">No obstante deben ser considerados otros aspectos donde pueden originarse problemas como: medios de transporte, instalaciones o depósitos de los proveedores, así como depósitos de basura de los vecinos, etc. Las plagas llegan a los hogares o negocios desde el exterior o a través de lo que llevamos a nuestra casa o los insumos provenientes de los depósitos de los proveedores o del transporte.</p>
-							<p class = "textabout">Para el Manejo Integrado de Plagas, debemos de analizar y localizar la fuente o fuentes de las plagas.</p>														
+							<h2>SERVICIOS ESPECIALIZADOS</h2>
+							<ul>
+								<li>
+									<p class = "textabout">Conservación de granos y productos almacenados.</p>
+								</li>
+								<li>
+									<p class = "textabout">
+										Limpieza de silos, bodegas, almacenes
+									</p>									
+								</li>
+								<li>
+									<p class = "textabout">	
+										Control de Termitas.
+									</p>									
+								</li>
+								<li>
+									<p class = "textabout">	Tratamientos con pautas alternativas, para productos ORGANICOS</p>
+								</li>								
+							</ul>							
 						</div>
 					</div>
 				</div>
@@ -316,7 +276,7 @@
 		</section>
 		<!-- End Prevent Area -->
 		<!-- Start Services Details Area -->
-		<section class="services-details-area pt-100 pb-70" style="direction: ltr;background-color: #EFEFEF;">
+		<!-- <section class="services-details-area pt-100 pb-70" style="direction: ltr;background-color: #EFEFEF;">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-4">
@@ -529,7 +489,31 @@
 					</div>
 				</div>
 			</div>
+		</section> -->
+		<!-- Start About Area two -->
+		<section class="about-area-two pt-100 pb-100" style="direction: rtl;">
+			<div class="container">
+				<div class="row align-items-center">
+					<div class="col-lg-6">
+						<div class="about-img-two">
+							<img src="assets/img/about-img-two.jpg" alt="Image">							
+						</div>
+					</div>
+					<div class="col-lg-6">
+						<div class="about-content-two">							
+							<h2>RAPIDÉZ DE RESULTADOS</h2>
+							<p>Aplicamos procedimientos estándar de control (dosificación y métodos de aplicación) y registramos reportes de servicios, para dar seguimiento y atención a posibles desviaciones en los mismos, con inmediatez de respuesta, porque somos conscientes que los problemas de plagas no pueden postergarse, ya que comprometen la calidad de los productos y la salud de nuestros clientes.</p>
+							<p>ÉTICA, RESPONSABILIDAD, RAPIDEZ, INNOVACION Y PERMANENCIA, en el manejo integral de plagas.</p>							
+							<h2 style="margin-top: 23px;">INNOVACIÓN METODOLOGÍA Y CAPACITACIÓN</h2>
+							<p>Investigamos permanentemente, desarrollando soluciones innovadoras para cada caso en específico.</p>
+							<p>Nuestros tratamientos anti-plagas, se centran en los retos ambientales que enfrenta hoy en día el Planeta. Nuestros programas se implementan bajo normas ambientalistas, amigables y sostenibles, y no tienen contraindicaciones para productos, estructuras físicas, ni seres humanos.</p>
+							<p>Fabricamos nuestros propios equipos de control de roedores, equipos multifuncionales, trampas de golpe y charolas de goma para captura de roedores e insectos</p>
+						</div>
+					</div>
+				</div>
+			</div>
 		</section>
+		<!-- End About Area two -->
 		<!-- End Services Details Area -->		
 		
 		<!-- Start Go Top Area -->
