@@ -132,13 +132,11 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12 col-md-12">
-						<div class="blog-details-desc">							
-
-							<div class="article-content">							
-
-								<h3 style="text-align: center;">CARACTERÍSTICAS DE AVES.</h3>
-								<p>Desafortunadamente, las aves también tienen aspectos negativos cuando se asocian muy cercanamente con la gente. Ciertas especies de aves, frecuentemente son molestas o se vuelven plagas capaces de transmitir enfermedades, contaminar nuestros alimentos y dañar nuestras estructuras.</p>                                
-                                <p>Existen cinco estrategias básicas, para el manejo profesional de infestaciones de aves:</p>
+						<div class="blog-details-desc">
+							<div class="article-content">
+								<h3 class="about-content" style="text-align: center;">CARACTERÍSTICAS DE AVES.</h3>
+								<p class = "textabout">Desafortunadamente, las aves también tienen aspectos negativos cuando se asocian muy cercanamente con la gente. Ciertas especies de aves, frecuentemente son molestas o se vuelven plagas capaces de transmitir enfermedades, contaminar nuestros alimentos y dañar nuestras estructuras.</p>                                
+                                <p class = "textabout">Existen cinco estrategias básicas, para el manejo profesional de infestaciones de aves:</p>
                                 <div class = "row">
                                     <div class="col-md-6">
                                         <div class="about-img-two">
@@ -146,13 +144,20 @@
                                         </div>   
                                     </div>
                                     <div class="col-md-6">
-                                        <ul style="list-style: initial;padding: revert;">
-                                            <li>Caracterización del problema: La caracterización de las aves debe de ser el primer paso del programa. Existen tres objetivos importantes en la caracterización: identificación de las especies de aves-plaga, patrones de actividad y determinación de cualquier especie de ave no blanco que pudiera estar en riesgo</li>
-                                            <li>Saneamiento: Las aves, como todos los animales vivientes, necesitan alimento, agua y refugio. El impacto de las prácticas de saneamiento para resolver los problemas de aves, varía de acuerdo a cada situación. En algunos casos, los esfuerzos de saneamiento pueden ayudar significativamente al Programa cuando se integran con otras herramientas y técnicas. En otras ocasiones las prácticas sanitarias por sí solas, pueden resolver el problema (espor esto el Estudio de Caracterización) y en algunos casos, el saneamiento puede tener un impacto pequeño o insignificante en la solución del problema.</li>
-                                            <li>El método más efectivo para mantener a las aves fuera de las estructuras, es no permitirles ningún acceso o uso de la estructura como un sitio de anidación, perchado o descanso, por medio de una barrera física, como puede ser: madera, metal, vidrio, mampostería, mallas de alambre de ¾ de pulgada o redes plásticas de peso ligero y gran resistencia.</li>                                            
-                                            <li>Repelentes: Los repelentes generalmente están diseñados para afectar uno o más sentidos de las aves, para provocar alarma y el abandono del área o hacer que sus actividades de descanso y perchado, se hagan inconfortables. Existen cuatro tipos diferentes de repelentes para aves: táctiles, sonoros, olfativos y visuales.</li>
-                                            <li>Reducción de la población: Existen cuatro tipos de programas que se pueden implementar para reducir las poblaciones de aves plaga, estos programas incluyen: cebos tóxico conocidos como avicidas y perchas tóxicas (si están registrados y autorizados) y su uso debe seguir las indicaciones dictadas por la etiqueta, trampas y armas de fuego</li>
-                                        </ul>
+										<div class = "about-content">
+											<ul style="padding: revert;">
+												<li><i class="flaticon-checked"></i>
+													Caracterización del problema: La caracterización de las aves debe de ser el primer paso del programa. Existen tres objetivos importantes en la caracterización: identificación de las especies de aves-plaga, patrones de actividad y determinación de cualquier especie de ave no blanco que pudiera estar en riesgo</li>
+												<li><i class="flaticon-checked"></i>
+													Saneamiento: Las aves, como todos los animales vivientes, necesitan alimento, agua y refugio. El impacto de las prácticas de saneamiento para resolver los problemas de aves, varía de acuerdo a cada situación. En algunos casos, los esfuerzos de saneamiento pueden ayudar significativamente al Programa cuando se integran con otras herramientas y técnicas. En otras ocasiones las prácticas sanitarias por sí solas, pueden resolver el problema (espor esto el Estudio de Caracterización) y en algunos casos, el saneamiento puede tener un impacto pequeño o insignificante en la solución del problema.</li>
+												<li><i class="flaticon-checked"></i>
+													El método más efectivo para mantener a las aves fuera de las estructuras, es no permitirles ningún acceso o uso de la estructura como un sitio de anidación, perchado o descanso, por medio de una barrera física, como puede ser: madera, metal, vidrio, mampostería, mallas de alambre de ¾ de pulgada o redes plásticas de peso ligero y gran resistencia.</li>                                            
+												<li><i class="flaticon-checked"></i>
+													Repelentes: Los repelentes generalmente están diseñados para afectar uno o más sentidos de las aves, para provocar alarma y el abandono del área o hacer que sus actividades de descanso y perchado, se hagan inconfortables. Existen cuatro tipos diferentes de repelentes para aves: táctiles, sonoros, olfativos y visuales.</li>
+												<li><i class="flaticon-checked"></i>
+													Reducción de la población: Existen cuatro tipos de programas que se pueden implementar para reducir las poblaciones de aves plaga, estos programas incluyen: cebos tóxico conocidos como avicidas y perchas tóxicas (si están registrados y autorizados) y su uso debe seguir las indicaciones dictadas por la etiqueta, trampas y armas de fuego</li>
+											</ul>
+										</div>
                                     </div>
                                 </div>
 							</div>                            

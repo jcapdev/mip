@@ -121,14 +121,14 @@
 		<div class="page-title-area bg-12">
 			<div class="container">
 				<div class="page-title-content">
-					<h2>Nuestros Servicios</h2>
-					<p id="textslider" style="direction: initial;">Métodos preventivos y correctivos.</p>
+					<h2>NUESTROS SERVICIOS</h2>
+					<p id="textslider" style="direction: initial;">Manejo Integrado de Plagas de Oriente SA de CV.</p>
 				</div>
 			</div>
 		</div>
 		<!-- End Page Title Area -->
-			<!-- Start About Area Area -->
-			<section class="about-area pt-100 pb-100" style="direction: rtl;">
+		<!-- Start About Area Area -->
+		<section class="about-area pt-100 pb-100" style="direction: rtl;">
 			<div class="container">
 			<div class="row align-items-center">				
 				<div class="col-lg-12">
@@ -154,58 +154,56 @@
 				</div>				
 			</div>
 		</section>
-		<section class="services-area">
-		<div class = "container">
-			<div class="row">
-				<div class="col-lg-4 col-sm-6">
-					<div class="single-services" style="direction: ltr;text-align: left;">
-						<img src="assets/img/services/1.jpg" alt="Image">
+		<section class="services-area bg-about-color">
+			<div class = "container">
+				<div class="row">
+					<div class="col-lg-4 col-sm-6">
+						<div class="single-services" style="direction: ltr;text-align: left;">
+							<img src="assets/img/services/1.jpg" alt="Image">
 
-						<div class="services-content">
-							<h3>Termitas</h3>
-							<p class = "textabout">Las termitas pueden ser un problema las 24 horas del día y los 365 días del año, tanto en zonas urbanas como rurales, especialmente en regiones húmedas.</p>							
-							<a href="blog-termitas-mip.php" class="read-more">
-								Más información
-								<i class="bx bx-plus"></i>
-							</a>
-							<span class="flaticon-couch"></span>
+							<div class="services-content">
+								<h3>Termitas</h3>
+								<p class = "textabout">Las termitas pueden ser un problema las 24 horas del día y los 365 días del año, tanto en zonas urbanas como rurales, especialmente en regiones húmedas.</p>							
+								<a href="blog-termitas-mip.php" class="read-more">
+									Más información
+									<i class="bx bx-plus"></i>
+								</a>
+								<span class="flaticon-couch"></span>
+							</div>
 						</div>
 					</div>
-				</div>
-				<div class="col-lg-4 col-sm-6">
-					<div class="single-services" style="direction: ltr;text-align: left;">
-						<img src="assets/img/services/2.jpg" alt="Image">
-						<div class="services-content">
-							<h3>Caracterización de Aves</h3>
-							<p class = "textabout">Ciertas especies de aves, frecuentemente son molestas o se vuelven plagas capaces de transmitir enfermedades, contaminar nuestros alimentos y dañar nuestras estructuras.</p>
-							<a href="blog-aves.php" class="read-more">
-								Más información
-								<i class="bx bx-plus"></i>
-							</a>
-							<span class="flaticon-windows"></span>
+					<div class="col-lg-4 col-sm-6">
+						<div class="single-services" style="direction: ltr;text-align: left;">
+							<img src="assets/img/services/2.jpg" alt="Image">
+							<div class="services-content">
+								<h3>Caracterización de Aves</h3>
+								<p class = "textabout">Ciertas especies de aves, frecuentemente son molestas o se vuelven plagas capaces de transmitir enfermedades, contaminar nuestros alimentos y dañar nuestras estructuras.</p>
+								<a href="blog-aves.php" class="read-more">
+									Más información
+									<i class="bx bx-plus"></i>
+								</a>
+								<span class="flaticon-windows"></span>
+							</div>
 						</div>
 					</div>
-				</div>
-				<div class="col-lg-4 col-sm-6">
-					<div class="single-services" style="direction: ltr;text-align: left;">
-						<img src="assets/img/services/7.jpg" alt="Image">
+					<div class="col-lg-4 col-sm-6">
+						<div class="single-services" style="direction: ltr;text-align: left;">
+							<img src="assets/img/services/7.jpg" alt="Image">
 
-						<div class="services-content">
-							<h3>Plagas Urbanas</h3>
-							<p class = "textabout">Las PLAGA URBANA son aquellas especies implicadas en la transferencia de enfermedades infecciosas para el hombre y en el daño o deterioro del hábitat y del bienestar urbano.</p>
-							<a href="blog-plagas-urbanas.php" class="read-more">
-								Más información
-								<i class="bx bx-plus"></i>
-							</a>
-							<span class="flaticon-house"></span>
+							<div class="services-content">
+								<h3>Plagas Urbanas</h3>
+								<p class = "textabout">Las PLAGA URBANA son aquellas especies implicadas en la transferencia de enfermedades infecciosas para el hombre y en el daño o deterioro del hábitat y del bienestar urbano.</p>
+								<a href="blog-plagas-urbanas.php" class="read-more">
+									Más información
+									<i class="bx bx-plus"></i>
+								</a>
+								<span class="flaticon-house"></span>
+							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-		</div>
-		</section>	
-		
-
+		</section>
 		<!-- End About Area -->			
 		<!-- Start Prevent Area Area -->
 		<section class="prevent-area  pt-100 pb-70" style="direction: ltr;">
@@ -491,7 +489,7 @@
 			</div>
 		</section> -->
 		<!-- Start About Area two -->
-		<section class="about-area-two pt-100 pb-100" style="direction: rtl;">
+		<section class="about-area-two pt-100 pb-100 bg-about-color" style="direction: rtl;">
 			<div class="container">
 				<div class="row align-items-center">
 					<div class="col-lg-6">

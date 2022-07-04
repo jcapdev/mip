@@ -122,14 +122,14 @@
 		<div class="page-title-area bg-1">
 			<div class="container">
 				<div class="page-title-content">
-					<h2>Nosotros</h2>
+					<h2>NOSOTROS</h2>
 					<p id = "textslider" style="direction: initial;">Manejo Integrado de Plagas de Oriente SA de CV.</p>	
 				</div>
 			</div>
 		</div>
 		<!-- End Page Title Area -->
 		<!-- Start About Area two -->
-		<section class="about-area-two pt-100 pb-100" style="direction: ltr;">
+		<section class="about-area-two pt-100 pb-100 bg-about-color" style="direction: ltr;">
 			<div class="container">
 				<div class="row align-items-center">
 					<div class="col-lg-6">
@@ -246,7 +246,7 @@
 					<div class="col-lg-6">
 						<div class="prevent-content" style="text-align: left;">							
 							<h2>NUESTRO COMPROMISO CON LA CALIDAD</h2>
-							<span>En <b style = "font-weight: bold;">MIP DE ORIENTE </b>, mantenemos el compromiso de ofrecer a nuestros clientes servicios de control de plagas especializados mediante el cumplimiento de los requisitos aplicables, lo que nos permite mantener una metodología de mejora continua basada en la norma internacional ISO-9001:2015</span>
+							<p class = "textabout">En <b style = "font-weight: bold;">MIP DE ORIENTE </b>, mantenemos el compromiso de ofrecer a nuestros clientes servicios de control de plagas especializados mediante el cumplimiento de los requisitos aplicables, lo que nos permite mantener una metodología de mejora continua basada en la norma internacional ISO-9001:2015</p>							
 							<ul>
 								<li>
 									<h2></h2>
@@ -285,7 +285,7 @@
 		</section>
 		<!-- End Prevent Area -->
 		<!-- Start About Area Area -->
-		<section class="about-area pt-100 pb-100" style="direction: rtl;">
+		<section class="about-area pt-100 pb-100 bg-about-color" style="direction: rtl;">
 			<div class="container">
 				<div class="row align-items-center">
 					<div class="col-lg-6">
@@ -296,7 +296,7 @@
 							<ul>
 								<li>
 									<i class="flaticon-checked"></i>
-									Licencia Sanitaria S. S.A. No. 2008- 21A058
+									COFEPRIS Licencia Sanitaria S. S.A. No. 2008- 21A058
 								</li>
 								<li>
 									<i class="flaticon-checked"></i>
@@ -327,7 +327,7 @@
 		</section>
 		<!-- End About Area -->		
 		<!-- Start About Area two -->
-		<section class="about-area-two pt-100 pb-100" style="direction: rtl;">
+		<section class="about-area-two pt-100 pb-100 bg-about-color" style="direction: rtl;">
 			<div class="container">
 				<div class="row align-items-center">
 					<div class="col-lg-6">

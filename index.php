@@ -243,19 +243,32 @@
 			<div class="container">
 				<div class="row align-items-center">
 					<div class="col-lg-6">
-						<div class="about-content-two">
+						<div class="about-content" style="text-align: left;direction: initial;">
 							<span>SERVICIOS</span>
 							<h2>Nuestro compromiso es con la <strong>calidad</strong>, asegurándole satisfacción total en el control de plagas a nivel industrial, comercial, residencial y transporte.</h2>
-							<p>Brindamos siempre una solución ante todo tipo de plagas: cucarachas, arañas, hormigas, pulgas, chinches, diversos insectos voladores, roedores; y también en plagas especiales como: termitas, aves, plagas de madera, insectos de los productos almacenados.</p>
-							<p>Somos un equipo humano compuesto por técnicos, supervisores, auditores, capacitados y certificados en:</p>								
-								<ul class = "prevent-content">
-									<li>EC-0303, GRADO DE INOCUIDAD</li>
-									<li>EC-0146, NIVEL INTERMEDIO</li>
-									<li>EC-0663, NIVEL BASICO</li>
-								</ul>
-							<a href="#" class="default-btn">
+							<p class = "textabout">Brindamos siempre una solución ante todo tipo de plagas: cucarachas, arañas, hormigas, pulgas, chinches, diversos insectos voladores, roedores; y también en plagas especiales como: termitas, aves, plagas de madera, insectos de los productos almacenados.</p>
+							<p class = "textabout">Somos un equipo humano compuesto por técnicos, supervisores, auditores, capacitados y certificados en:</p>
+							<div class = "row">
+								<div class = "col-lg-7">
+									<ul>
+										<li><i class="flaticon-checked"></i>
+											EC-0303, GRADO DE INOCUIDAD
+										</li>
+										<li><i class="flaticon-checked"></i>
+											EC-0146, NIVEL INTERMEDIO
+										</li>
+										<li><i class="flaticon-checked"></i>
+											EC-0663, NIVEL BASICO
+										</li>
+									</ul>									
+								</div>
+								<div class = "col-lg-5">
+									<img id = "logoconocer" class = "img-fluid" src="assets/img/logo_conocer-1.png" alt="Image">									
+								</div>
+							</div>								
+								<a href="#" class="default-btn">
 								CONOCE NUESTROS SERVICIOS
-							</a>
+								</a>
 						</div>
 					</div>
 					<div class="col-lg-6">
@@ -401,11 +414,11 @@
 
 					<div class="col-lg-4">
 						<div class="quick-contact">
-							<h3 style="text-align: initial;">Oficinas Generales </h3>	
+							<h3 style="text-align: initial;">Contacto </h3>	
 							<ul style="margin-bottom: 21px;">
 								<li>
 									<i class="bx bx-location-plus"></i>
-									Ubicación
+									Oficinas Generales
 									<span>15 Poniente Num. 503, San Nicolás Tecamachalco, Puebla.</span>
 								</li>
 

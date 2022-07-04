@@ -1,3 +1,4 @@
+
 <!-- Start Heder Area --> 
 		<header class="header-area fixed-top">
 			<div class="top-header-area">
@@ -50,10 +51,10 @@
 									COTIZACIÓN
 								</a>
 								<div class="collapse navbar-collapse mean-menu">
-									<ul class="navbar-nav m-auto">										
+									<ul class="nav navbar-nav m-auto">										
 
 										<li class="nav-item">
-											<a href="nosotros.php" class="nav-link active">NOSOTROS</a>
+											<a href="nosotros.php" class="nav-link">NOSOTROS</a>
 										</li>										
 										<li class="nav-item">
 											<a href="servicios.php" class="nav-link">
@@ -115,3 +116,4 @@
 			<!-- End Navbar Area -->
 		</header>
 		<!-- End Heder Area -->
+	

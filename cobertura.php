@@ -122,8 +122,8 @@
 		<div class="page-title-area bg-1">
 			<div class="container">
 				<div class="page-title-content">
-					<h2>Cobertura</h2>
-					<p id = "textslider" style="direction: initial;">en el manejo integral de plagas.</p>	
+					<h2>COBERTURA</h2>
+					<p id = "textslider" style="direction: initial;">Manejo Integrado de Plagas de Oriente SA de CV.</p>
 				</div>
 			</div>
 		</div>

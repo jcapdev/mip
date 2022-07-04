@@ -27,3 +27,10 @@
 <!-- Contact JS -->
 <script src="assets/js/contact-form-script.js"></script>	
 <script src="assets/js/custom.js"></script>
+<script>
+			var url = window.location.pathname;
+			var filename = url.substring(url.lastIndexOf('/')+1);
+			$(".menu_activo").removeClass("menu_activo");
+			$('.nav-link[href="' + filename + '"]').addClass("menu_activo");
+            console.log(filename);
+		</script>

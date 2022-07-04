@@ -122,7 +122,7 @@
 		<div class="page-title-area bg-1">
 			<div class="container">
 				<div class="page-title-content">
-					<h2>Termitas</h2>					
+					<h2>Termitas</h2>
 				</div>
 			</div>
 		</div>
@@ -132,36 +132,41 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12 col-md-12">
-						<div class="blog-details-desc">							
-
-							<div class="article-content">							
-
+						<div class="blog-details-desc">
+							<div class="article-content">
 								<h3 style="text-align: center;">TERMITAS</h3>
-
-								<p>Las termitas pertenecen al Orden de los Isópteros, que quiere decir que sus representantes tienen dos pares de alas iguales, hecho que, obviamente, solo sucede en una parte muy reducida de sus miembros, ya que la mayoría son ápteros.</p>
-                                <p>Las termitas pueden ser un problema las 24 horas del día y los 365 días del año, tanto en zonas urbanas como rurales, especialmente en regiones húmedas. Las termitas son más activas durante la época de germinación, que ocurre entre primavera y verano (marzo a octubre en el hemisferio norte; septiembre a marzo en el hemisferio sur).El control de las termitas debe ser una prioridad cuando se construye, se compra o se remodela una casa.</p>
-                                <p>Las termitas comen todo lo que sea hecho de madera, incluyendo a una construcción nueva. La destrucción de las termitas puede iniciarse apenas se inicia la construcción. La madera tratada con insecticida especial.</p>
+								<p class = "textabout">Las termitas pertenecen al Orden de los Isópteros, que quiere decir que sus representantes tienen dos pares de alas iguales, hecho que, obviamente, solo sucede en una parte muy reducida de sus miembros, ya que la mayoría son ápteros.</p>
+                                <p class = "textabout">Las termitas pueden ser un problema las 24 horas del día y los 365 días del año, tanto en zonas urbanas como rurales, especialmente en regiones húmedas. Las termitas son más activas durante la época de germinación, que ocurre entre primavera y verano (marzo a octubre en el hemisferio norte; septiembre a marzo en el hemisferio sur).El control de las termitas debe ser una prioridad cuando se construye, se compra o se remodela una casa.</p>
+                                <p class = "textabout">Las termitas comen todo lo que sea hecho de madera, incluyendo a una construcción nueva. La destrucción de las termitas puede iniciarse apenas se inicia la construcción. La madera tratada con insecticida especial.</p>
+                                <h4 style = "text-align: center;">Tratamiento de Pre-Construcción.</h4>
+                                        <p class = "textabout">Se realiza aplicando el termiticida justo antes de la instalación de los radiares y cimientos. La aplicación debe ser efectuada preferentemente al atardecer (en horas de menor calor o días menos asoleados) para evitar la rápida volatilización de la mezcla y especialmente la foto labilidad (inactivación del químico frente a los rayos solares). Es posible cubrirla con mangas plásticas hasta poner el hormigón en los pisos. El tratamiento va dirigido a provocar un aislamiento químico entre el suelo y la construcción, por lo que sólo se debe tratar el primer piso y no las elevaciones, en todas las edificaciones nuevas.</p>
                                 <div class = "row">
                                     <div class="col-md-6">
                                         <div class="about-img-two">
                                             <img src="assets/img/blog/5-higth.jpg" alt="Image">							
                                         </div>   
                                     </div>
-                                    <div class="col-md-6">
-                                        <h4>Tratamiento de Pre-Construcción.</h4>
-                                        <p>Se realiza aplicando el termiticida justo antes de la instalación de los radiares y cimientos. La aplicación debe ser efectuada preferentemente al atardecer (en horas de menor calor o días menos asoleados) para evitar la rápida volatilización de la mezcla y especialmente la foto labilidad (inactivación del químico frente a los rayos solares). Es posible cubrirla con mangas plásticas hasta poner el hormigón en los pisos. El tratamiento va dirigido a provocar un aislamiento químico entre el suelo y la construcción, por lo que sólo se debe tratar el primer piso y no las elevaciones, en todas las edificaciones nuevas.</p>
+                                    <div class="col-md-6">                                        
                                         <h4>Tratamiento de Post-Construcción.</h4>
-                                        <p>Es realizado para edificaciones afectadas por termitas y que no fueron tratadas con el método anterior.El termiticida debe ser utilizado en todas las áreas por donde las termitas podrían ingresar a la edificación. La instalación requiere de numerosas perforaciones en la estructura en contacto con el suelo, esto es piso, radiares interiores y exteriores de las viviendas u otras estructuras afectadas.Hay una gran variedad de termitas, pero todas tienen algo en común: si no se controlan y eliminan,literalmente se comen la madera de la casa.</p>
+                                        <p class = "textabout">Es realizado para edificaciones afectadas por termitas y que no fueron tratadas con el método anterior.El termiticida debe ser utilizado en todas las áreas por donde las termitas podrían ingresar a la edificación. La instalación requiere de numerosas perforaciones en la estructura en contacto con el suelo, esto es piso, radiares interiores y exteriores de las viviendas u otras estructuras afectadas.Hay una gran variedad de termitas, pero todas tienen algo en común: si no se controlan y eliminan,literalmente se comen la madera de la casa.</p>
                                         <h4>Características de las termitas.</h4>
-                                        <p>Las variedades más comunes de termitas subterráneas se agrupan en colonias que tienen reina, rey,reproductoras, obreras y soldados.</p>
-                                        <ul style="list-style: lower-alpha;padding: revert;">
-                                            <li>Coptotermas aladas.</li>
-                                            <li>Enjambre Formosiano.</li>
-                                            <li>Cuerpo: 4 centímetros de longitud (más largas que cualquier otra especie subterránea).</li>
-                                            <li>Color: amarillo-marrón</li>
-                                            <li>Alas: pálidas y densamente pobladas de pelillos.</li>
-                                            <li>Anidación: Cuando se presenta un enjambre en días húmedos de primavera, indica que se ha instalado una nueva colonia.</li>
-                                       </ul>
+                                        <p class = "textabout">Las variedades más comunes de termitas subterráneas se agrupan en colonias que tienen reina, rey,reproductoras, obreras y soldados.</p>
+                                        <div class = "about-content">
+                                            <ul style="padding: revert;">
+                                                <li><i class="flaticon-checked"></i>
+                                                    Coptotermas aladas.</li>
+                                                <li><i class="flaticon-checked"></i>
+                                                    Enjambre Formosiano.</li>
+                                                <li><i class="flaticon-checked"></i>
+                                                    Cuerpo: 4 centímetros de longitud (más largas que cualquier otra especie subterránea).</li>
+                                                <li><i class="flaticon-checked"></i>
+                                                    Color: amarillo-marrón</li>
+                                                <li><i class="flaticon-checked"></i>
+                                                    Alas: pálidas y densamente pobladas de pelillos.</li>
+                                                <li><i class="flaticon-checked"></i>
+                                                    Anidación: Cuando se presenta un enjambre en días húmedos de primavera, indica que se ha instalado una nueva colonia.</li>
+                                        </ul>
+                                        </div>                                        
                                     </div>
                                 </div>
 							</div>
@@ -172,11 +177,16 @@
                                             <img src="assets/img/services/1.jpg" alt="Image">
                                             <div class="services-content">
                                                 <h3>Coptotermas, soldados.</h3>
-                                                <ul style="list-style: lower-alpha;padding: revert;">
-                                                    <li>Cuerpo: La cabeza es ovalada más que alargada</li>
-                                                    <li>Alas: sin alas</li>
-                                                    <li>Anidación: Estas termitas soldado son bastante agresivas, su tarea es defender la colonia.</li>                                                    
-                                                </ul>
+                                                <div class = "about-content">
+                                                    <ul>
+                                                        <li><i class="flaticon-checked"></i>
+                                                            Cuerpo: La cabeza es ovalada más que alargada</li>
+                                                        <li><i class="flaticon-checked"></i>
+                                                            Alas: sin alas</li>
+                                                        <li><i class="flaticon-checked"></i>
+                                                            Anidación: Estas termitas soldado son bastante agresivas, su tarea es defender la colonia.</li>                                                    
+                                                    </ul>
+                                                </div>                                                  
                                                 <span>
                                                     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-bug" viewBox="0 0 16 16">
                                                         <path d="M4.355.522a.5.5 0 0 1 .623.333l.291.956A4.979 4.979 0 0 1 8 1c1.007 0 1.946.298 2.731.811l.29-.956a.5.5 0 1 1 .957.29l-.41 1.352A4.985 4.985 0 0 1 13 6h.5a.5.5 0 0 0 .5-.5V5a.5.5 0 0 1 1 0v.5A1.5 1.5 0 0 1 13.5 7H13v1h1.5a.5.5 0 0 1 0 1H13v1h.5a1.5 1.5 0 0 1 1.5 1.5v.5a.5.5 0 1 1-1 0v-.5a.5.5 0 0 0-.5-.5H13a5 5 0 0 1-10 0h-.5a.5.5 0 0 0-.5.5v.5a.5.5 0 1 1-1 0v-.5A1.5 1.5 0 0 1 2.5 10H3V9H1.5a.5.5 0 0 1 0-1H3V7h-.5A1.5 1.5 0 0 1 1 5.5V5a.5.5 0 0 1 1 0v.5a.5.5 0 0 0 .5.5H3c0-1.364.547-2.601 1.432-3.503l-.41-1.352a.5.5 0 0 1 .333-.623zM4 7v4a4 4 0 0 0 3.5 3.97V7H4zm4.5 0v7.97A4 4 0 0 0 12 11V7H8.5zM12 6a3.989 3.989 0 0 0-1.334-2.982A3.983 3.983 0 0 0 8 2a3.983 3.983 0 0 0-2.667 1.018A3.989 3.989 0 0 0 4 6h8z"/>
@@ -190,13 +200,20 @@
                                             <img src="assets/img/services/1.jpg" alt="Image">
                                             <div class="services-content">
                                                 <h3>Heterotermas, aladas.</h3>
-                                                <ul style="list-style: lower-alpha;padding: revert;">
-                                                    <li>Cuerpo: marrón oscuro</li>
-                                                    <li>Largo: 1 cm. aprox., incluyendo las alas</li>
-                                                    <li>Alas: translúcidas con dos líneas oscuras</li>
-                                                    <li>Anidación: las heterotermas aladas forman enjambres</li>
-                                                </ul>
+                                                <div class = "about-content">
+                                                    <ul>
+                                                        <li><i class="flaticon-checked"></i>
+                                                            Cuerpo: marrón oscuro</li>
+                                                        <li><i class="flaticon-checked"></i>
+                                                            Largo: 1 cm. aprox., incluyendo las alas</li>
+                                                        <li><i class="flaticon-checked"></i>
+                                                            Alas: translúcidas con dos líneas oscuras</li>
+                                                        <li><i class="flaticon-checked"></i>
+                                                            Anidación: las heterotermas aladas forman enjambres</li>
+                                                    </ul>
+                                                </div>     
                                                 <span>
+                                                                                               
                                                     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-bug" viewBox="0 0 16 16">
                                                         <path d="M4.355.522a.5.5 0 0 1 .623.333l.291.956A4.979 4.979 0 0 1 8 1c1.007 0 1.946.298 2.731.811l.29-.956a.5.5 0 1 1 .957.29l-.41 1.352A4.985 4.985 0 0 1 13 6h.5a.5.5 0 0 0 .5-.5V5a.5.5 0 0 1 1 0v.5A1.5 1.5 0 0 1 13.5 7H13v1h1.5a.5.5 0 0 1 0 1H13v1h.5a1.5 1.5 0 0 1 1.5 1.5v.5a.5.5 0 1 1-1 0v-.5a.5.5 0 0 0-.5-.5H13a5 5 0 0 1-10 0h-.5a.5.5 0 0 0-.5.5v.5a.5.5 0 1 1-1 0v-.5A1.5 1.5 0 0 1 2.5 10H3V9H1.5a.5.5 0 0 1 0-1H3V7h-.5A1.5 1.5 0 0 1 1 5.5V5a.5.5 0 0 1 1 0v.5a.5.5 0 0 0 .5.5H3c0-1.364.547-2.601 1.432-3.503l-.41-1.352a.5.5 0 0 1 .333-.623zM4 7v4a4 4 0 0 0 3.5 3.97V7H4zm4.5 0v7.97A4 4 0 0 0 12 11V7H8.5zM12 6a3.989 3.989 0 0 0-1.334-2.982A3.983 3.983 0 0 0 8 2a3.983 3.983 0 0 0-2.667 1.018A3.989 3.989 0 0 0 4 6h8z"/>
                                                     </svg>
@@ -209,7 +226,13 @@
                                             <img src="assets/img/services/1.jpg" alt="Image">
                                             <div class="services-content">
                                                 <h3>Heterotermas, soldados.</h3>
-                                                <p>Cuerpo: longitud de 1,5 veces su ancho, con una cabeza rectangular. Se caracterizan también por sus mandíbulas.</p>
+                                                <div class = "about-content">
+                                                    <ul>
+                                                        <li><i class="flaticon-checked"></i>
+                                                            Cuerpo: longitud de 1,5 veces su ancho, con una cabeza rectangular. Se caracterizan también por sus mandíbulas.
+                                                        </li>
+                                                    </ul>                                                    
+                                                </div>                                                
                                                 <span>
                                                     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-bug" viewBox="0 0 16 16">
                                                         <path d="M4.355.522a.5.5 0 0 1 .623.333l.291.956A4.979 4.979 0 0 1 8 1c1.007 0 1.946.298 2.731.811l.29-.956a.5.5 0 1 1 .957.29l-.41 1.352A4.985 4.985 0 0 1 13 6h.5a.5.5 0 0 0 .5-.5V5a.5.5 0 0 1 1 0v.5A1.5 1.5 0 0 1 13.5 7H13v1h1.5a.5.5 0 0 1 0 1H13v1h.5a1.5 1.5 0 0 1 1.5 1.5v.5a.5.5 0 1 1-1 0v-.5a.5.5 0 0 0-.5-.5H13a5 5 0 0 1-10 0h-.5a.5.5 0 0 0-.5.5v.5a.5.5 0 1 1-1 0v-.5A1.5 1.5 0 0 1 2.5 10H3V9H1.5a.5.5 0 0 1 0-1H3V7h-.5A1.5 1.5 0 0 1 1 5.5V5a.5.5 0 0 1 1 0v.5a.5.5 0 0 0 .5.5H3c0-1.364.547-2.601 1.432-3.503l-.41-1.352a.5.5 0 0 1 .333-.623zM4 7v4a4 4 0 0 0 3.5 3.97V7H4zm4.5 0v7.97A4 4 0 0 0 12 11V7H8.5zM12 6a3.989 3.989 0 0 0-1.334-2.982A3.983 3.983 0 0 0 8 2a3.983 3.983 0 0 0-2.667 1.018A3.989 3.989 0 0 0 4 6h8z"/>
@@ -223,11 +246,16 @@
                                             <img src="assets/img/services/1.jpg" alt="Image">
                                             <div class="services-content">
                                                 <h3>Reticulitermas, aladas.</h3>
-                                                <ul style="list-style: lower-alpha;padding: revert;">
-                                                    <li>Cuerpo: marrón oscuro</li>
-                                                    <li>Alas: color marrón-grisáseo oscuro con algunos pelos visibles. Las alas delanteras son ligeramente más largas que las posteriores.</li>
-                                                    <li>Largo: 1 cm. aprox., incluyendo las alas.</li>                                                    
-                                                </ul>
+                                                <div class = "about-content">
+                                                    <ul>
+                                                        <li><i class="flaticon-checked"></i>
+                                                            Cuerpo: marrón oscuro</li>
+                                                        <li><i class="flaticon-checked"></i>
+                                                            Alas: color marrón-grisáseo oscuro con algunos pelos visibles. Las alas delanteras son ligeramente más largas que las posteriores.</li>
+                                                        <li><i class="flaticon-checked"></i>
+                                                            Largo: 1 cm. aprox., incluyendo las alas.</li>                                                    
+                                                    </ul>
+                                                </div>                                                
                                                 <span>
                                                     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-bug" viewBox="0 0 16 16">
                                                         <path d="M4.355.522a.5.5 0 0 1 .623.333l.291.956A4.979 4.979 0 0 1 8 1c1.007 0 1.946.298 2.731.811l.29-.956a.5.5 0 1 1 .957.29l-.41 1.352A4.985 4.985 0 0 1 13 6h.5a.5.5 0 0 0 .5-.5V5a.5.5 0 0 1 1 0v.5A1.5 1.5 0 0 1 13.5 7H13v1h1.5a.5.5 0 0 1 0 1H13v1h.5a1.5 1.5 0 0 1 1.5 1.5v.5a.5.5 0 1 1-1 0v-.5a.5.5 0 0 0-.5-.5H13a5 5 0 0 1-10 0h-.5a.5.5 0 0 0-.5.5v.5a.5.5 0 1 1-1 0v-.5A1.5 1.5 0 0 1 2.5 10H3V9H1.5a.5.5 0 0 1 0-1H3V7h-.5A1.5 1.5 0 0 1 1 5.5V5a.5.5 0 0 1 1 0v.5a.5.5 0 0 0 .5.5H3c0-1.364.547-2.601 1.432-3.503l-.41-1.352a.5.5 0 0 1 .333-.623zM4 7v4a4 4 0 0 0 3.5 3.97V7H4zm4.5 0v7.97A4 4 0 0 0 12 11V7H8.5zM12 6a3.989 3.989 0 0 0-1.334-2.982A3.983 3.983 0 0 0 8 2a3.983 3.983 0 0 0-2.667 1.018A3.989 3.989 0 0 0 4 6h8z"/>
@@ -243,10 +271,14 @@
                                             <img src="assets/img/services/1.jpg" alt="Image">
                                             <div class="services-content">
                                                 <h3>Reticulitermas, ninfas.</h3>
-                                                <ul style="list-style: lower-alpha;padding: revert;">
-                                                    <li>Color: pálido</li>
-                                                    <li>Anidación: Las ninfas se transformarán en obreras, soldados o reproductoras aladas.</li>                                                    
-                                                </ul>
+                                                <div class = "about-content">
+                                                    <ul>
+                                                        <li><i class="flaticon-checked"></i>
+                                                            Color: pálido</li>
+                                                        <li><i class="flaticon-checked"></i>
+                                                            Anidación: Las ninfas se transformarán en obreras, soldados o reproductoras aladas.</li>                                                    
+                                                    </ul>
+                                                </div>                                                
                                                 <span>
                                                     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-bug" viewBox="0 0 16 16">
                                                         <path d="M4.355.522a.5.5 0 0 1 .623.333l.291.956A4.979 4.979 0 0 1 8 1c1.007 0 1.946.298 2.731.811l.29-.956a.5.5 0 1 1 .957.29l-.41 1.352A4.985 4.985 0 0 1 13 6h.5a.5.5 0 0 0 .5-.5V5a.5.5 0 0 1 1 0v.5A1.5 1.5 0 0 1 13.5 7H13v1h1.5a.5.5 0 0 1 0 1H13v1h.5a1.5 1.5 0 0 1 1.5 1.5v.5a.5.5 0 1 1-1 0v-.5a.5.5 0 0 0-.5-.5H13a5 5 0 0 1-10 0h-.5a.5.5 0 0 0-.5.5v.5a.5.5 0 1 1-1 0v-.5A1.5 1.5 0 0 1 2.5 10H3V9H1.5a.5.5 0 0 1 0-1H3V7h-.5A1.5 1.5 0 0 1 1 5.5V5a.5.5 0 0 1 1 0v.5a.5.5 0 0 0 .5.5H3c0-1.364.547-2.601 1.432-3.503l-.41-1.352a.5.5 0 0 1 .333-.623zM4 7v4a4 4 0 0 0 3.5 3.97V7H4zm4.5 0v7.97A4 4 0 0 0 12 11V7H8.5zM12 6a3.989 3.989 0 0 0-1.334-2.982A3.983 3.983 0 0 0 8 2a3.983 3.983 0 0 0-2.667 1.018A3.989 3.989 0 0 0 4 6h8z"/>
@@ -260,10 +292,16 @@
                                             <img src="assets/img/services/1.jpg" alt="Image">
                                             <div class="services-content">
                                                 <h3>Reticulitermas, secundaria.</h3>
-                                                <ul style="list-style: lower-alpha;padding: revert;">
-                                                    <li>Cuerpo: más largas que las ninfas y obreras.</li>
-                                                    <li>Color: generalmente oscuras.</li>                                                    
-                                                </ul>
+                                                <div class = "about-content">
+                                                    <ul>
+                                                        <li><i class="flaticon-checked"></i>
+                                                            Cuerpo: más largas que las ninfas y obreras.
+                                                        </li>
+                                                        <li><i class="flaticon-checked"></i>
+                                                            Color: generalmente oscuras.
+                                                        </li>                                                    
+                                                    </ul>
+                                                </div>                                               
                                                 <span>
                                                     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-bug" viewBox="0 0 16 16">
                                                         <path d="M4.355.522a.5.5 0 0 1 .623.333l.291.956A4.979 4.979 0 0 1 8 1c1.007 0 1.946.298 2.731.811l.29-.956a.5.5 0 1 1 .957.29l-.41 1.352A4.985 4.985 0 0 1 13 6h.5a.5.5 0 0 0 .5-.5V5a.5.5 0 0 1 1 0v.5A1.5 1.5 0 0 1 13.5 7H13v1h1.5a.5.5 0 0 1 0 1H13v1h.5a1.5 1.5 0 0 1 1.5 1.5v.5a.5.5 0 1 1-1 0v-.5a.5.5 0 0 0-.5-.5H13a5 5 0 0 1-10 0h-.5a.5.5 0 0 0-.5.5v.5a.5.5 0 1 1-1 0v-.5A1.5 1.5 0 0 1 2.5 10H3V9H1.5a.5.5 0 0 1 0-1H3V7h-.5A1.5 1.5 0 0 1 1 5.5V5a.5.5 0 0 1 1 0v.5a.5.5 0 0 0 .5.5H3c0-1.364.547-2.601 1.432-3.503l-.41-1.352a.5.5 0 0 1 .333-.623zM4 7v4a4 4 0 0 0 3.5 3.97V7H4zm4.5 0v7.97A4 4 0 0 0 12 11V7H8.5zM12 6a3.989 3.989 0 0 0-1.334-2.982A3.983 3.983 0 0 0 8 2a3.983 3.983 0 0 0-2.667 1.018A3.989 3.989 0 0 0 4 6h8z"/>
@@ -277,11 +315,20 @@
                                             <img src="assets/img/services/1.jpg" alt="Image">
                                             <div class="services-content">
                                                 <h3>Reticulitermas, obreras.</h3>
-                                                <ul style="list-style: lower-alpha;padding: revert;">
-                                                    <li>Color: blanco crema.</li>
-                                                    <li>Cuerpo: 0,5 cms. de longitud, suave, con poderosas mandíbulas.</li>
-                                                    <li>Las obreras son ciegas y sin alas, pero son las más abundantes y las más destructivas</li>
-                                                </ul>
+                                                <div class = "about-content">
+                                                    <ul>
+                                                        <li><i class="flaticon-checked"></i>
+                                                            Color: blanco crema.
+                                                        </li>
+                                                        <li><i class="flaticon-checked"></i>
+                                                            Cuerpo: 0,5 cms. de longitud, suave, con poderosas mandíbulas.
+                                                        </li>
+                                                        <li><i class="flaticon-checked"></i>
+                                                            Las obreras son ciegas y si
+                                                            n alas, pero son las más abundantes y las más destructivas
+                                                        </li>
+                                                    </ul>
+                                                </div>                                                
                                                 <span>
                                                     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-bug" viewBox="0 0 16 16">
                                                         <path d="M4.355.522a.5.5 0 0 1 .623.333l.291.956A4.979 4.979 0 0 1 8 1c1.007 0 1.946.298 2.731.811l.29-.956a.5.5 0 1 1 .957.29l-.41 1.352A4.985 4.985 0 0 1 13 6h.5a.5.5 0 0 0 .5-.5V5a.5.5 0 0 1 1 0v.5A1.5 1.5 0 0 1 13.5 7H13v1h1.5a.5.5 0 0 1 0 1H13v1h.5a1.5 1.5 0 0 1 1.5 1.5v.5a.5.5 0 1 1-1 0v-.5a.5.5 0 0 0-.5-.5H13a5 5 0 0 1-10 0h-.5a.5.5 0 0 0-.5.5v.5a.5.5 0 1 1-1 0v-.5A1.5 1.5 0 0 1 2.5 10H3V9H1.5a.5.5 0 0 1 0-1H3V7h-.5A1.5 1.5 0 0 1 1 5.5V5a.5.5 0 0 1 1 0v.5a.5.5 0 0 0 .5.5H3c0-1.364.547-2.601 1.432-3.503l-.41-1.352a.5.5 0 0 1 .333-.623zM4 7v4a4 4 0 0 0 3.5 3.97V7H4zm4.5 0v7.97A4 4 0 0 0 12 11V7H8.5zM12 6a3.989 3.989 0 0 0-1.334-2.982A3.983 3.983 0 0 0 8 2a3.983 3.983 0 0 0-2.667 1.018A3.989 3.989 0 0 0 4 6h8z"/>
@@ -295,11 +342,19 @@
                                             <img src="assets/img/services/1.jpg" alt="Image">
                                             <div class="services-content">
                                                 <h3>Reticulitermas, aladas.</h3>
-                                                <ul style="list-style: lower-alpha;padding: revert;">
-                                                    <li>Cuerpo: marrón oscuro</li>
-                                                    <li>Alas: color marrón-grisáseo oscuro con algunos pelos visibles. Las alas delanteras son ligeramente más largas que las posteriores.</li>
-                                                    <li>Largo: 1 cm. aprox., incluyendo las alas.</li>                                                    
-                                                </ul>
+                                                <div class = "about-content">
+                                                    <ul>
+                                                        <li><i class="flaticon-checked"></i>
+                                                            Cuerpo: marrón oscuro
+                                                        </li>
+                                                        <li><i class="flaticon-checked"></i>
+                                                            Alas: color marrón-grisáseo oscuro con algunos pelos visibles. Las alas delanteras son ligeramente más largas que las posteriores.
+                                                        </li>
+                                                        <li><i class="flaticon-checked"></i>
+                                                            Largo: 1 cm. aprox., incluyendo las alas.
+                                                        </li>                                                    
+                                                    </ul>
+                                                </div>                                                
                                                 <span>
                                                     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-bug" viewBox="0 0 16 16">
                                                         <path d="M4.355.522a.5.5 0 0 1 .623.333l.291.956A4.979 4.979 0 0 1 8 1c1.007 0 1.946.298 2.731.811l.29-.956a.5.5 0 1 1 .957.29l-.41 1.352A4.985 4.985 0 0 1 13 6h.5a.5.5 0 0 0 .5-.5V5a.5.5 0 0 1 1 0v.5A1.5 1.5 0 0 1 13.5 7H13v1h1.5a.5.5 0 0 1 0 1H13v1h.5a1.5 1.5 0 0 1 1.5 1.5v.5a.5.5 0 1 1-1 0v-.5a.5.5 0 0 0-.5-.5H13a5 5 0 0 1-10 0h-.5a.5.5 0 0 0-.5.5v.5a.5.5 0 1 1-1 0v-.5A1.5 1.5 0 0 1 2.5 10H3V9H1.5a.5.5 0 0 1 0-1H3V7h-.5A1.5 1.5 0 0 1 1 5.5V5a.5.5 0 0 1 1 0v.5a.5.5 0 0 0 .5.5H3c0-1.364.547-2.601 1.432-3.503l-.41-1.352a.5.5 0 0 1 .333-.623zM4 7v4a4 4 0 0 0 3.5 3.97V7H4zm4.5 0v7.97A4 4 0 0 0 12 11V7H8.5zM12 6a3.989 3.989 0 0 0-1.334-2.982A3.983 3.983 0 0 0 8 2a3.983 3.983 0 0 0-2.667 1.018A3.989 3.989 0 0 0 4 6h8z"/>
