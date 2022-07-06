@@ -122,10 +122,10 @@
 											<h1>MANEJO INTEGRADO</h1>
 											<p style="direction: initial;">DE PLAGAS DE ORIENTE SA DE CV.</p>											
 											<div class="slider-btn" style="margin-top: 50px;" >												
-												<a class="default-btn" href="#">
+												<a class="default-btn" href="contacto">
 													CONTÁCTANOS
 												</a>
-												<a class="default-btn active" href="#">
+												<a class="default-btn active" href="servicios">
 													VER SERVICIOS
 												</a>
 											</div>
@@ -149,10 +149,10 @@
 											<h1>Responsabilidad</h1>
 											<p>en el manejo integral de plagas.</p>											
 											<div class="slider-btn" style="margin-top: 50px;">
-												<a class="default-btn" href="#">
+												<a class="default-btn" href="contacto">
 													CONTÁCTANOS
 												</a>
-												<a class="default-btn active" href="#">
+												<a class="default-btn active" href="contacto">
 													VER SERVICIOS
 												</a>
 											</div>
@@ -340,8 +340,8 @@
 						<div class="important-content">							
 							<h3 class = "titleclients" style="text-align: left;">EXPERIENCIA</h3>
 							<p>Contamos con una amplia experiencia, que nos permite manejar con éxito cada una de las etapas del proceso de servicio, cumpliendo en forma estricta con todas las regulaciones y normas vigentes.</p>
-							<h3 class = "titleclients" style="text-align: left;">NUESTROS CLIENTES</h3>
-							<img class = "img-fluid" src="assets/img/client/Logos-Demo.png" alt="" style="margin-top: 13px;">
+							<h3 class = "titleclients" style="text-align: left;">ALGUNOS DE NUESTROS CLIENTES</h3>
+							<img class = "img-fluid" src="assets/img/client/clientes mip-1.png" alt="" style="margin-top: 13px;">
 						</div>
 						<button type="submit" class="default-btn page-btn" style="top: 45px;">
 							SOLICITA UNA COTIZACIÓN
@@ -418,25 +418,29 @@
 							<ul style="margin-bottom: 21px;">
 								<li>
 									<i class="bx bx-location-plus"></i>
-									Oficinas Generales
+									<h3>Oficinas Generales</h3>									
 									<span>15 Poniente Num. 503, San Nicolás Tecamachalco, Puebla.</span>
 								</li>
 
 								<li>
 									<i class="bx bx-phone-call"></i>
-									Teléfonos
-									<a href="tel:800 838 16 88">800 838 16 88<br> 249 103 06 88 <br>249 103 05 35</a>
+									<h3>Teléfonos</h3>									
+									<a href="tel:249 103 06 88">249 103 06 88 <br>249 103 05 35</a>
+									<br>
+									<h3>Lada sin costo</h3>
+									<a href="tel:800 838 16 88">800 838 16 88</a>									
 								</li>
 
 								<li>
 									<i style="margin-top: 33px;" class="bx bx-envelope"></i>
-									Correo: 
+									<h3>Correo</h3>									
 									<a href="mailto:servicios@mip.com.mx">
-										servicios@mip.com.mx <br>										
+										servicios@mip.com.mx
 									</a>
-									Quejas y sugerencias:
+									<br>
+									<h3>Quejas y sugerencias:</h3>									
 									<a href="mailto:gerencia@mip.com.mx">
-										gerencia@mip.com.mx <br>										
+										gerencia@mip.com.mx 										
 									</a>									
 								</li>								
 							</ul>

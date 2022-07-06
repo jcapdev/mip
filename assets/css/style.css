@@ -1235,7 +1235,7 @@ Process Area Style
 
 .single-process span {
   position: absolute;
-  top: 30px;
+  top: 24px;
   right: 30px;
   width: 35px;
   height: 35px;
@@ -1913,6 +1913,18 @@ Footer Bottom Area Style
   font-style: normal;
   font-size: 18px;
 }
+
+.footer-bottom-area .copy-right a {
+  /* text-transform: capitalize; */
+  margin-bottom: 0;
+  color: #ffffff;
+  font-family: 'HelveticaNeueLT Com 45 Lt';
+  font-weight: 300;
+  font-style: normal;
+  font-size: 18px;
+}
+
+
 
 .footer-bottom-area .copy-right p a {
   color: #ffffff;
@@ -3937,7 +3949,7 @@ Blog Details Area Style
 
 .blog-details-area .blog-details-desc .article-image {
   position: relative;
-  background-color: #232350;
+  /* background-color: #232350; */
 }
 
 .blog-details-area .blog-details-desc .article-content {

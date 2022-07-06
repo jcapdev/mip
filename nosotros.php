@@ -325,29 +325,24 @@
 				</div>
 			</div>
 		</section>
-		<!-- End About Area -->		
-		<!-- Start About Area two -->
-		<section class="about-area-two pt-100 pb-100 bg-about-color" style="direction: rtl;">
+		<!-- End About Area -->
+		<!-- Start Blog Details Area -->
+        <section class="blog-details-area ptb-100">
 			<div class="container">
-				<div class="row align-items-center">
-					<div class="col-lg-6">
-						<div class="about-img-two">
-							<img src="assets/img/about-img-two.jpg" alt="Image">							
+				<div class="row">
+					<div class="col-lg-12 col-md-12" style="text-align: center;">
+						<div class="about-content">
+							<h2>ALGUNOS DE NUESTROS CLIENTES</h2>
+							<div class="article-image">
+								<img src="assets/img/client/clientes-mip.jpg" alt="image">
+							</div>							
 						</div>
-					</div>
-					<div class="col-lg-6">
-						<div class="about-content-two">							
-							<h2>RAPIDÉZ DE RESULTADOS</h2>
-							<p>Aplicamos procedimientos estándar de control (dosificación y métodos de aplicación) y registramos reportes de servicios, para dar seguimiento y atención a posibles desviaciones en los mismos, con inmediatez de respuesta, porque somos conscientes que los problemas de plagas no pueden postergarse, ya que comprometen la calidad de los productos y la salud de nuestros clientes.</p>							
-							<h2>INNOVACIÓN METODOLOGÍA Y CAPACITACIÓN</h2>
-							<p>Investigamos permanentemente, desarrollando soluciones innovadoras para cada caso en específico.</p>
-							<p>Nuestros tratamientos anti-plagas, se centran en los retos ambientales que enfrenta hoy en día el Planeta. Nuestros programas se implementan bajo normas ambientalistas, amigables y sostenibles, y no tienen contraindicaciones para productos, estructuras físicas, ni seres humanos.</p>							
-						</div>
-					</div>
+					</div>					
 				</div>
 			</div>
 		</section>
-		<!-- End About Area two -->
+		<!-- End Blog Details Area -->
+		
 		<!-- Start Go Top Area -->
 		<div class="go-top">
 			<i class='bx bx-chevrons-up'></i>

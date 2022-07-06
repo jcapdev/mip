@@ -39,7 +39,7 @@
 				<div class="navbar-area">
 					<!-- Menu For Mobile Device -->
 					<div class="mobile-nav">
-						<a href="index.php" class="logo">
+						<a href="index" class="logo">
 							<img class="img-fluid" src="assets/img/logo-mip.png" alt="Logo">
 						</a>
 					</div>
@@ -54,18 +54,18 @@
 									<ul class="nav navbar-nav m-auto">										
 
 										<li class="nav-item">
-											<a href="nosotros.php" class="nav-link">NOSOTROS</a>
+											<a href="nosotros" class="nav-link">NOSOTROS</a>
 										</li>										
 										<li class="nav-item">
-											<a href="servicios.php" class="nav-link">
+											<a href="servicios" class="nav-link">
 												SERVICIOS												
 											</a>										
 										</li>
 										<li class="nav-item">
-											<a href="cobertura.php" class="nav-link">COBERTURA</a>
+											<a href="cobertura" class="nav-link">COBERTURA</a>
 										</li>
 										<li class="nav-item">
-											<a href="contacto.php" class="nav-link">CONTACTO</a>
+											<a href="contacto" class="nav-link">CONTACTO</a>
 										</li>										
 										<li id = "lisession">
 											<a href="#" id = "menusesion">
@@ -101,7 +101,7 @@
 											<i class='bx bx-menu'></i>
 										</div> -->
 										<div class="get-quote">											
-											<a class="navbar-brand" href="index.php">
+											<a class="navbar-brand" href="index">
 												<img class="img-fluid" src="assets/img/logo-mip.png" alt="Logo">
 											</a>
 										</div>

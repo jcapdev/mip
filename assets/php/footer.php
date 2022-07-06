@@ -1,5 +1,5 @@
 <!-- Start Footer Bottom Area -->
-		<footer class="footer-bottom-area">
+<footer class="footer-bottom-area">
 			<div class="container">
 				<div class="copy-right">
 					<div class="row">
@@ -10,9 +10,12 @@
 								© 2022
 							</p>						
 						</div><div class="col-md-2" >
-							<p style="font-size: 18px;">
+								<a style="font-size: 18px;" href="politicas">
+									Aviso de Privacidad
+								</a>
+							<!-- <p style="font-size: 18px;">
 							 	Aviso de Privacidad
-							</p>
+							</p> -->
 						</div>
 						<div class="col-md-1">
 							<p style="font-size: 18px;">

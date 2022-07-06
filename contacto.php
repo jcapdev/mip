@@ -196,7 +196,7 @@
 							<ul style="margin-bottom: 21px;">
 								<li>
 									<i class="bx bx-location-plus"></i>
-									<h3>Ubicación</h3>									
+									<h3>Oficinas Generales</h3>									
 									<span>15 Poniente Num. 503, San Nicolás Tecamachalco, Puebla.</span>
 								</li>
 
@@ -211,7 +211,7 @@
 								<li>
 									<i class="bx bx-envelope"></i>
 									<h3>Correo</h3>									
-									<a href="mailto:hello@contlib.com">
+									<a href="mailto:servicios@mip.com.mx">
 										servicios@mip.com.mx
 									</a>
 									<br>
@@ -241,7 +241,7 @@
 							<p>Víctor H. Adame Rodríguez</p>
 							<p>Cel.:238 38 8 21 83 (24 HORAS)</p>
 							<p>Correo: victor.adame@mip.com.mx</p>
-							<span>02</span>
+							<span>01</span>
 						</div>
 					</div>
 
@@ -251,7 +251,7 @@
 							<p>Yolanda Moro Ortiz.</p>
 							<p>Tel.: 01 249 103 06 88</p>
 							<p>Correo: administracion@mip.com.mx</p>
-							<span>03</span>
+							<span>02</span>
 						</div>
 					</div>
 
@@ -261,7 +261,7 @@
 							<p>José Flores Lozano.</p>
 							<p>Cel.: 249 119 9499 (24 HORAS)</p>
 							<p>Correo: jose.flores@mip.com.mx</p>							
-							<span>01</span>
+							<span>03</span>
 						</div>
 					</div>
 				</div>
@@ -271,7 +271,7 @@
 							<h3>CORDOBA</h3>
 							<p>Cel.:249 160 44 01.</p>
 							<p>Correo: antonio.ramirez@mip.com.mx</p>							
-							<span>02</span>
+							<span>04</span>
 						</div>
 					</div>
 					<div class="col-lg-4 col-sm-6">
@@ -279,7 +279,7 @@
 							<h3>COATZACOALCOS</h3>
 							<p>Cel.: 921 103 93 37</p>
 							<p>Correo: minatitlan@mip.com.mx</p>							
-							<span>03</span>
+							<span>05</span>
 						</div>
 					</div>
 					<div class="col-lg-4 col-sm-6">
@@ -288,7 +288,7 @@
 							<p>Alejandra Adame Uvalle</p>
 							<p>Cel 782 170 78 06</p>
 							<p>Correo: alejandra.adame@mip.com.mx</p>
-							<span>03</span>
+							<span>06</span>
 						</div>
 					</div>
 				</div>
