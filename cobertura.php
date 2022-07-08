@@ -175,7 +175,7 @@
 								</li>								
 							</ul>
 							<p class="block-content">
-								contamos con oficinas en Tecamachalco, Puebla, Córdoba y Coatzacoalcos Ver.
+								Contamos con oficinas en Tecamachalco, Puebla, Córdoba y Coatzacoalcos Ver.
 							</p>
 						</div>
 					</div>					

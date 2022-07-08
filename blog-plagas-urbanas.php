@@ -198,7 +198,7 @@
                                 <div class = "row" style = "margin-top: 23px;">                                   
                                     <div class="col-md-6">
                                         <div class="about-img-two">
-                                            <img src="assets/img/blog/controlplagas.jpg" alt="Image">							
+                                            <img src="assets/img/blog/controlplagas_1.jpg" alt="Image">							
                                         </div>   
                                     </div>
                                     <div class="col-md-6">
@@ -261,26 +261,35 @@
                                                         Otras
                                                     </li>
                                             </ul>
-                                       </div>                                       
-                                       <p class = "textabout" style="margin-top: 23px;">2. IMPEDIR LA ENTRADA DE LOS ROEDORES A LAS EDIFICACIONES.</p>
-                                       <p class = "textabout">3. REDUCIR LA POBLACIÓN</p>
-                                       <div class = "about-content"> 
-                                            <ul style="padding: revert;">
-                                                    <li>
-                                                        <i class="flaticon-checked"></i>
-                                                        Utilizar trampas mecánicas, con o sin cebo.
-                                                    </li>
-                                                    <li>
-                                                        <i class="flaticon-checked"></i>
-                                                        Utilizar trampas de adhesivo.
-                                                    </li>
-                                                    <li>
-                                                        <i class="flaticon-checked"></i>
-                                                        Utilizar venenos en cebo.
-                                                    </li>                                                                                                        
-                                            </ul>
-                                       </div>                                       
+                                       </div>                                                                             
                                     </div>
+                                </div>
+                                <div class = "row" style = "margin-top: 23px;">
+                                   <div class="col-md-6">
+                                        <p class = "textabout" style="margin-top: 23px;">2. IMPEDIR LA ENTRADA DE LOS ROEDORES A LAS EDIFICACIONES.</p>
+                                        <p class = "textabout">3. REDUCIR LA POBLACIÓN</p>
+                                            <div class = "about-content"> 
+                                                <ul style="padding: revert;">
+                                                        <li>
+                                                            <i class="flaticon-checked"></i>
+                                                            Utilizar trampas mecánicas, con o sin cebo.
+                                                        </li>
+                                                        <li>
+                                                            <i class="flaticon-checked"></i>
+                                                            Utilizar trampas de adhesivo.
+                                                        </li>
+                                                        <li>
+                                                            <i class="flaticon-checked"></i>
+                                                            Utilizar venenos en cebo.
+                                                        </li>
+                                                </ul>
+                                            </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="about-img-two">
+                                            <img src="assets/img/blog/trampa.jpg" alt="Image">							
+                                        </div>  
+                                    </div>                                    
                                 </div>
                             </div>
                             <div class="article-content">                                

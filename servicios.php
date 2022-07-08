@@ -505,10 +505,18 @@
 							<h2 style="margin-top: 23px;">INNOVACIÓN METODOLOGÍA Y CAPACITACIÓN</h2>
 							<p>Investigamos permanentemente, desarrollando soluciones innovadoras para cada caso en específico.</p>
 							<p>Nuestros tratamientos anti-plagas, se centran en los retos ambientales que enfrenta hoy en día el Planeta. Nuestros programas se implementan bajo normas ambientalistas, amigables y sostenibles, y no tienen contraindicaciones para productos, estructuras físicas, ni seres humanos.</p>
-							<p>Fabricamos nuestros propios equipos de control de roedores, equipos multifuncionales, trampas de golpe y charolas de goma para captura de roedores e insectos</p>
+							<p>Fabricamos nuestros propios equipos de control de roedores, equipos multifuncionales, trampas de golpe y charolas de goma para captura de roedores e insectos</p>							
 						</div>
 					</div>
 				</div>
+				<div class="row align-items-center">
+					<div class = "col-lg-12">
+						<div class="about-content-two">
+							<h2 style="margin-top: 23px;">POLÍTICA DE CALIDAD</h2>
+							<p>En <b style = "font-weight: bold;">MIP de oriente</b> mantenemos el compromiso de ofrecer a nuestros clientes servicios de plagas especializados mediante el cumplimiento de los requisitos aplicables, lo que nos permite mantener una metodología de mejora continua basada en la norma internacional <b style = "font-weight: bold;">ISO-9001:2015.</b></p>
+						</div>
+					</div>
+				</div>								
 			</div>
 		</section>
 		<!-- End About Area two -->
