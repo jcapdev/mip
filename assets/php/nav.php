@@ -47,7 +47,7 @@
 					<div class="main-nav">
 						<nav class="navbar navbar-expand-md">
 							<div class="container">								
-								<a href="#" class="default-btn">
+								<a href="contacto" class="default-btn">
 									COTIZACIÓN
 								</a>
 								<div class="collapse navbar-collapse mean-menu">

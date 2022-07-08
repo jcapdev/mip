@@ -119,7 +119,7 @@
 		<!-- End Sidebar Modal -->
 		
 		<!-- Start Page Title Area -->
-		<div class="page-title-area bg-1">
+		<div class="page-title-area bg-3">
 			<div class="container">
 				<div class="page-title-content">
 					<h2>COBERTURA</h2>
@@ -135,7 +135,7 @@
 				<div class="row align-items-center">
 					<div class="col-lg-6">
 						<div class="about-img">
-							<img src="assets/img/about-img.jpg" alt="Image">							
+							<img src="assets/img/570x570/570_3.jpg" alt="Image">							
 						</div>
 					</div>
 					<div class="col-lg-6">

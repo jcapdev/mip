@@ -119,7 +119,7 @@
 		<!-- End Sidebar Modal -->
 		
 		<!-- Start Page Title Area -->
-		<div class="page-title-area bg-1">
+		<div class="page-title-area bg-4">
 			<div class="container">
 				<div class="page-title-content">
 					<h2>Plaga Urbana</h2>					
@@ -146,7 +146,7 @@
                                 <div class = "row">
                                     <div class="col-md-6">
                                         <div class="about-img-two">
-                                            <img src="assets/img/blog/4.jpg" alt="Image">							
+                                            <img src="assets/img/blog/cucarachas.jpg" alt="Image">							
                                         </div>   
                                     </div>
                                     <div class="col-md-6">
@@ -186,7 +186,7 @@
                                     </div>
                                     <div class="col-md-6">
                                         <div class="about-img-two">
-                                            <img src="assets/img/blog/4.jpg" alt="Image">							
+                                            <img src="assets/img/blog/roedores.jpg" alt="Image">							
                                         </div>   
                                     </div>
                                 </div>
@@ -198,7 +198,7 @@
                                 <div class = "row" style = "margin-top: 23px;">                                   
                                     <div class="col-md-6">
                                         <div class="about-img-two">
-                                            <img src="assets/img/blog/5-higth.jpg" alt="Image">							
+                                            <img src="assets/img/blog/controlplagas.jpg" alt="Image">							
                                         </div>   
                                     </div>
                                     <div class="col-md-6">
@@ -293,7 +293,7 @@
                                     </div>
                                     <div class="col-md-6">
                                         <div class="about-img-two">
-                                            <img src="assets/img/blog/4.jpg" alt="Image">							
+                                            <img src="assets/img/blog/moscas.jpg" alt="Image">							
                                         </div>   
                                     </div>
                                 </div>
@@ -328,7 +328,7 @@
                                     </div>
                                     <div class="col-md-6">
                                         <div class="about-img-two">
-                                            <img src="assets/img/blog/4.jpg" alt="Image">							
+                                            <img src="assets/img/blog/hormigas.jpg" alt="Image">							
                                         </div>   
                                     </div>
                                 </div>

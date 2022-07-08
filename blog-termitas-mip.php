@@ -119,7 +119,7 @@
 		<!-- End Sidebar Modal -->
 		
 		<!-- Start Page Title Area -->
-		<div class="page-title-area bg-1">
+		<div class="page-title-area bg-6">
 			<div class="container">
 				<div class="page-title-content">
 					<h2>Termitas</h2>
@@ -143,7 +143,7 @@
                                 <div class = "row">
                                     <div class="col-md-6">
                                         <div class="about-img-two">
-                                            <img src="assets/img/blog/5-higth.jpg" alt="Image">							
+                                            <img src="assets/img/blog/termitas.jpg" alt="Image">							
                                         </div>   
                                     </div>
                                     <div class="col-md-6">                                        
@@ -174,7 +174,7 @@
                                 <div class = "row">                                   
                                     <div class="col-lg-3 col-sm-6">
                                         <div class="single-services">                                            
-                                            <img src="assets/img/services/1.jpg" alt="Image">
+                                            
                                             <div class="services-content">
                                                 <h3>Coptotermas, soldados.</h3>
                                                 <div class = "about-content">
@@ -197,7 +197,7 @@
                                     </div>
                                     <div class="col-lg-3 col-sm-6">
                                         <div class="single-services">
-                                            <img src="assets/img/services/1.jpg" alt="Image">
+                                            
                                             <div class="services-content">
                                                 <h3>Heterotermas, aladas.</h3>
                                                 <div class = "about-content">
@@ -223,7 +223,7 @@
                                     </div>
                                     <div class="col-lg-3 col-sm-6">
                                         <div class="single-services">
-                                            <img src="assets/img/services/1.jpg" alt="Image">
+                                            
                                             <div class="services-content">
                                                 <h3>Heterotermas, soldados.</h3>
                                                 <div class = "about-content">
@@ -243,7 +243,7 @@
                                     </div>
                                     <div class="col-lg-3 col-sm-6">
                                         <div class="single-services">
-                                            <img src="assets/img/services/1.jpg" alt="Image">
+                                            
                                             <div class="services-content">
                                                 <h3>Reticulitermas, aladas.</h3>
                                                 <div class = "about-content">
@@ -268,7 +268,7 @@
                                 <div class = "row">                                   
                                     <div class="col-lg-3 col-sm-6">
                                         <div class="single-services">                                            
-                                            <img src="assets/img/services/1.jpg" alt="Image">
+                                            
                                             <div class="services-content">
                                                 <h3>Reticulitermas, ninfas.</h3>
                                                 <div class = "about-content">
@@ -289,7 +289,7 @@
                                     </div>
                                     <div class="col-lg-3 col-sm-6">
                                         <div class="single-services">
-                                            <img src="assets/img/services/1.jpg" alt="Image">
+                                            
                                             <div class="services-content">
                                                 <h3>Reticulitermas, secundaria.</h3>
                                                 <div class = "about-content">
@@ -312,7 +312,7 @@
                                     </div>
                                     <div class="col-lg-3 col-sm-6">
                                         <div class="single-services">
-                                            <img src="assets/img/services/1.jpg" alt="Image">
+                                            
                                             <div class="services-content">
                                                 <h3>Reticulitermas, obreras.</h3>
                                                 <div class = "about-content">
@@ -339,7 +339,7 @@
                                     </div>
                                     <div class="col-lg-3 col-sm-6">
                                         <div class="single-services">
-                                            <img src="assets/img/services/1.jpg" alt="Image">
+                                            
                                             <div class="services-content">
                                                 <h3>Reticulitermas, aladas.</h3>
                                                 <div class = "about-content">

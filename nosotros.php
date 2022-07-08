@@ -134,7 +134,7 @@
 				<div class="row align-items-center">
 					<div class="col-lg-6">
 						<div class="about-img-two">
-							<img src="assets/img/about-img-two.jpg" alt="Image">
+							<img src="assets/img/640x640/640_1.jpg" alt="Image">
 							<p class="block-p page-mb">
 								<b style = "font-weight: bold;">MANEJO INTEGRADO DE PLAGAS DE ORIENTE SA DE CV</b>
 								<br> 
@@ -177,7 +177,7 @@
 					</div>
 					<div class="col-lg-6">
 						<div class="prevent-img">
-							<img src="assets/img/prevent-img.jpg" alt="Image">							
+							<img src="assets/img/570x570/570_4.jpg" alt="Image">							
 						</div>
 					</div>
 				</div>
@@ -277,7 +277,7 @@
 					</div>
 					<div class="col-lg-6">
 						<div class="prevent-img">
-							<img src="assets/img/prevent-img.jpg" alt="Image">							
+							<img src="assets/img/570x570/570_3.jpg" alt="Image">							
 						</div>
 					</div>
 				</div>
@@ -316,9 +316,9 @@
 
 					<div class="col-lg-6">
 						<div class="about-img">
-							<img src="assets/img/about-img.jpg" alt="Image">
+							<img src="assets/img/570x570/570 - 5.jpg" alt="Image">
 							<div class="about-child">
-								<img src="assets/img/about-child.jpg" alt="Image">
+								<img src="assets/img/200x200/200x200.jpg" alt="Image">
 							</div>
 						</div>
 					</div>

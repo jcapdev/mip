@@ -140,7 +140,7 @@
 				<div class="row align-items-center">
 					<div class="col-lg-6">
 						<div class="prevent-img">
-							<img src="assets/img/prevent-img.jpg" alt="Image">							
+							<img src="assets/img/570x570/570_2.jpg" alt="Image">							
 						</div>
 					</div>
 					<div class="col-lg-6">
@@ -159,7 +159,7 @@
 				<div class="row">
 					<div class="col-lg-4 col-sm-6">
 						<div class="single-services" style="direction: ltr;text-align: left;">
-							<img src="assets/img/services/1.jpg" alt="Image">
+							<img src="assets/img/570x400/570x400-4.jpg" alt="Image">
 
 							<div class="services-content">
 								<h3>Termitas</h3>
@@ -174,7 +174,7 @@
 					</div>
 					<div class="col-lg-4 col-sm-6">
 						<div class="single-services" style="direction: ltr;text-align: left;">
-							<img src="assets/img/services/2.jpg" alt="Image">
+							<img src="assets/img/570x400/570x400-2.jpg" alt="Image">
 							<div class="services-content">
 								<h3>Caracterización de Aves</h3>
 								<p class = "textabout">Ciertas especies de aves, frecuentemente son molestas o se vuelven plagas capaces de transmitir enfermedades, contaminar nuestros alimentos y dañar nuestras estructuras.</p>
@@ -188,7 +188,7 @@
 					</div>
 					<div class="col-lg-4 col-sm-6">
 						<div class="single-services" style="direction: ltr;text-align: left;">
-							<img src="assets/img/services/7.jpg" alt="Image">
+							<img src="assets/img/570x400/570x400-1.jpg" alt="Image">
 
 							<div class="services-content">
 								<h3>Plagas Urbanas</h3>
@@ -211,7 +211,7 @@
 				<div class="row align-items-center">				
 					<div class="col-lg-6">
 						<div class="about-img-two">
-							<img src="assets/img/about-img-two.jpg" alt="Image">							
+							<img src="assets/img/640x640/640_3.jpg" alt="Image">							
 						</div>						
 					</div>
 					<div class="col-lg-6">
@@ -494,7 +494,7 @@
 				<div class="row align-items-center">
 					<div class="col-lg-6">
 						<div class="about-img-two">
-							<img src="assets/img/about-img-two.jpg" alt="Image">							
+							<img src="assets/img/640x640/640_2.jpg" alt="Image">							
 						</div>
 					</div>
 					<div class="col-lg-6">

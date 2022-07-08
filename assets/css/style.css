@@ -582,12 +582,20 @@ Hero Slider Area Style
   z-index: 1;
 }
 .hero-slider-area .slider-item.slider-item-bg-1 {  
-  background-image: url(../../assets/img/home-slider/shutterstock_1912606090.jpg),linear-gradient(180deg, rgba(255,255,255,1) 1%, rgba(254,254,254,0) 40%);  
+  background-image: url(../../assets/img/home-slider/Home-slider-1.jpg),linear-gradient(180deg, rgba(255,255,255,1) 1%, rgba(254,254,254,0) 40%);  
 }
 
 .hero-slider-area .slider-item.slider-item-bg-2 {
-  background-image: url(../../assets/img/home-slider/shutterstock_1912606090.jpg),linear-gradient(180deg, rgba(255,255,255,1) 1%, rgba(254,254,254,0) 40%);  
+  background-image: url(../../assets/img/home-slider/Home-slider-2.jpg),linear-gradient(180deg, rgba(255,255,255,1) 1%, rgba(254,254,254,0) 40%);  
 }
+
+.hero-slider-area .slider-item.slider-item-bg-3 {
+  background-image: url(../../assets/img/home-slider/Home-slider-3.jpg),linear-gradient(180deg, rgba(255,255,255,1) 1%, rgba(254,254,254,0) 40%);  
+}
+.hero-slider-area .slider-item.slider-item-bg-4 {
+  background-image: url(../../assets/img/home-slider/Home-slider-4.jpg),linear-gradient(180deg, rgba(255,255,255,1) 1%, rgba(254,254,254,0) 40%);  
+}
+
 .hero-slider-area .slider-item::before {
   content: "";
   position: absolute;
@@ -2575,7 +2583,7 @@ important Area Style
 }
 
 .important-area .important-img {
-  background-image: url(../../assets/img/home-slider/shutterstock_711317203.jpg);
+  background-image: url(../../assets/img/960x500/960x500.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3289,19 +3297,19 @@ Page Title Area Style
 }
 
 .page-title-area.bg-3 {
-  background-image: url(../../assets/img/page-bg/3.jpg);
+  background-image: url(../../assets/img/services/cobertura.jpg);
 }
 
 .page-title-area.bg-4 {
-  background-image: url(../../assets/img/page-bg/4.jpg);
+  background-image: url(../../assets/img/services/blogplagasurbanas.jpg);
 }
 
 .page-title-area.bg-5 {
-  background-image: url(../../assets/img/page-bg/5.jpg);
+  background-image: url(../../assets/img/services/services.jpg);
 }
 
 .page-title-area.bg-6 {
-  background-image: url(../../assets/img/page-bg/6.jpg);
+  background-image: url(../../assets/img/services/blogtermitas.jpg);
 }
 
 .page-title-area.bg-7 {
@@ -3325,7 +3333,7 @@ Page Title Area Style
 }
 
 .page-title-area.bg-12 {
-  background-image: url(../../assets/img/services/nosotros_.jpg);
+  background-image: url(../../assets/img/services/services.jpg);
 }
 
 .page-title-area.bg-13 {

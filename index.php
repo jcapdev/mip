@@ -163,6 +163,59 @@
 						</div>
 					</div>
 				</div>
+
+				<div class="slider-item slider-item-bg-3">
+					<div class="d-table">
+						<div class="d-table-cell">
+							<div class="container">
+								<div class="row align-items-center">
+									<div class="col-lg-3">										
+									</div>
+									<div class="col-lg-9">
+										<div class="slider-text one">
+											<h1>Responsabilidad</h1>
+											<p>en el manejo integral de plagas.</p>											
+											<div class="slider-btn" style="margin-top: 50px;">
+												<a class="default-btn" href="contacto">
+													CONTÁCTANOS
+												</a>
+												<a class="default-btn active" href="contacto">
+													VER SERVICIOS
+												</a>
+											</div>
+										</div>
+									</div>									
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="slider-item slider-item-bg-4">
+					<div class="d-table">
+						<div class="d-table-cell">
+							<div class="container">
+								<div class="row align-items-center">
+									<div class="col-lg-3">										
+									</div>
+									<div class="col-lg-9">
+										<div class="slider-text one">
+											<h1>Responsabilidad</h1>
+											<p>en el manejo integral de plagas.</p>											
+											<div class="slider-btn" style="margin-top: 50px;">
+												<a class="default-btn" href="contacto">
+													CONTÁCTANOS
+												</a>
+												<a class="default-btn active" href="contacto">
+													VER SERVICIOS
+												</a>
+											</div>
+										</div>
+									</div>									
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
 			</div>			
 			<div class="shape" style="width: 100%;height: auto;">
 				<img src="assets/img/home-slider/1.png" alt="Image"  style="width: 100%;height: auto;">
@@ -229,7 +282,7 @@
 							</div>						
 							<h2 class = "titleabout">BIENVENIDO</h2>
 							<p style="direction: initial;" class = "textabout">Estamos de su lado. Con 25 años de experiencia en la industria del control de plagas, somos una empresa de referencia, asegurándole satisfacción total en el control de plagas a nivel industrial, comercial, residencial, logística y distribución.</p>
-							<a href="#" class="default-btn">
+							<a href="nosotros" class="default-btn">
 								CONÓCENOS
 							</a>
 						</div>
@@ -266,14 +319,14 @@
 									<img id = "logoconocer" class = "img-fluid" src="assets/img/logo_conocer-1.png" alt="Image">									
 								</div>
 							</div>								
-								<a href="#" class="default-btn">
+								<a href="servicios" class="default-btn">
 								CONOCE NUESTROS SERVICIOS
 								</a>
 						</div>
 					</div>
 					<div class="col-lg-6">
 						<div class="about-img-two">
-							<img class = "img-fluid" src="assets/img/about-img-two.jpg" alt="Image">
+							<img class = "img-fluid" src="assets/img/640x640/640_2.jpg" alt="Image">
 							<p class="block-p">
 								Implementamos métodos preventivos y correctivos que permiten el control integral de plagas.
 							</p>
@@ -343,9 +396,11 @@
 							<h3 class = "titleclients" style="text-align: left;">ALGUNOS DE NUESTROS CLIENTES</h3>
 							<img class = "img-fluid" src="assets/img/client/clientes mip-1.png" alt="" style="margin-top: 13px;">
 						</div>
-						<button type="submit" class="default-btn page-btn" style="top: 45px;">
+						<a href="contacto" target="_parent">
+						<button type="submit" href = "contacto" class="default-btn page-btn" style="top: 45px;">
 							SOLICITA UNA COTIZACIÓN
 						</button>
+						</a>
 					</div>					
 				</div>
 			</div>

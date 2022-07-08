@@ -119,7 +119,7 @@
 		<!-- End Sidebar Modal -->
 		
 		<!-- Start Page Title Area -->
-		<div class="page-title-area bg-1">
+		<div class="page-title-area bg-5">
 			<div class="container">
 				<div class="page-title-content">
 					<h2>Caracteristicas de las aves</h2>					
@@ -140,7 +140,7 @@
                                 <div class = "row">
                                     <div class="col-md-6">
                                         <div class="about-img-two">
-                                            <img src="assets/img/blog/5-higth.jpg" alt="Image">							
+                                            <img src="assets/img/blog/aves.jpg" alt="Image">							
                                         </div>   
                                     </div>
                                     <div class="col-md-6">
