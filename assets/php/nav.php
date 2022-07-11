@@ -102,7 +102,7 @@
 										</div> -->
 										<div class="get-quote">											
 											<a class="navbar-brand" href="index">
-												<img class="img-fluid" src="assets/img/logo-mip.png" alt="Logo">
+												<img class="img-fluid" src="assets/img/logo-mip1.png" alt="Logo">
 											</a>
 										</div>
 									</div>
