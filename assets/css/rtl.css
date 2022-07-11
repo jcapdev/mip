@@ -669,6 +669,10 @@ body {
     padding-right: 50px;
     padding-left: 30px;
   }
+  .about-area-two .about-img-two .block-p{
+    right: 94px
+  }
+
 }
 
 /*Max width 991px */

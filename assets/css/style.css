@@ -408,7 +408,8 @@ Nav Area Style
 .nav-area .navbar-area .main-nav nav .navbar-nav .nav-item a {
   font-weight: 600;
   font-size: 16px;
-  color: #000000;
+  /* color: #000000; */
+  color: #FFFFFF;
   text-transform: capitalize;
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
@@ -582,18 +583,18 @@ Hero Slider Area Style
   z-index: 1;
 }
 .hero-slider-area .slider-item.slider-item-bg-1 {  
-  background-image: url(../../assets/img/home-slider/Home-slider-1.jpg),linear-gradient(180deg, rgba(255,255,255,1) 1%, rgba(254,254,254,0) 40%);  
+  background-image: url(../../assets/img/home-slider/Home-slider-1.jpg);  
 }
 
 .hero-slider-area .slider-item.slider-item-bg-2 {
-  background-image: url(../../assets/img/home-slider/Home-slider-2.jpg),linear-gradient(180deg, rgba(255,255,255,1) 1%, rgba(254,254,254,0) 40%);  
+  background-image: url(../../assets/img/home-slider/Home-slider-2.jpg);  
 }
 
 .hero-slider-area .slider-item.slider-item-bg-3 {
-  background-image: url(../../assets/img/home-slider/Home-slider-3.jpg),linear-gradient(180deg, rgba(255,255,255,1) 1%, rgba(254,254,254,0) 40%);  
+  background-image: url(../../assets/img/home-slider/Home-slider-3.jpg);  
 }
 .hero-slider-area .slider-item.slider-item-bg-4 {
-  background-image: url(../../assets/img/home-slider/Home-slider-4.jpg),linear-gradient(180deg, rgba(255,255,255,1) 1%, rgba(254,254,254,0) 40%);  
+  background-image: url(../../assets/img/home-slider/Home-slider-4.jpg);  
 }
 
 .hero-slider-area .slider-item::before {
@@ -603,8 +604,8 @@ Hero Slider Area Style
   left: 0;
   width: 100%;
   height: 50%;  
-  background: linear-gradient(180deg, rgba(255,255,255,1) 1%, rgba(106,106,106,0.33)35%);
-  /* background-color: rgba(106,106,106,0.33); */
+  /* background: linear-gradient(180deg, rgba(255,255,255,1) 1%, rgba(106,106,106,0.33)35%); */
+  background-color: rgba(106,106,106,0.45);
   z-index: -1;
 }
 
@@ -615,7 +616,7 @@ Hero Slider Area Style
   right: 0;
   width: 100%;
   height: 50%;
-  background-color: rgba(106,106,106,0.33);  
+  background-color: rgba(106,106,106,0.45);  
   z-index: -1;
 }
 
@@ -939,6 +940,7 @@ About Area Style
 
 .about-content ul {
   margin-top: 14px;
+  margin-left: 36px;
 }
 
 .about-content ul li {
@@ -946,11 +948,11 @@ About Area Style
   font-size: 16px;
   position: relative;
   padding-left: 25px;
-  margin-bottom: 10px;
+  margin-bottom: 0px;
   font-family: 'HelveticaNeueLT Com 37 ThCn';
   font-weight: bold;
   font-style: normal;
-  font-size: 20px;
+  font-size: 18px;
 }
 
 .about-content ul li:last-child {
@@ -1075,6 +1077,11 @@ Services Area Style
   border-radius: 50%;
   font-size: 18px;
   background-color: #ffffff;
+}
+
+.services-content ul {
+  margin-top: 14px;
+  margin-left: 0px;
 }
 
 .single-services:hover {
@@ -1238,7 +1245,7 @@ Process Area Style
   font-weight: 100;
   font-style: normal;
   font-size: 22px;
-  line-height: 1.5;
+  line-height: 1;
 }
 
 .single-process span {
@@ -2628,6 +2635,7 @@ Counter Area Style
           box-shadow: 0 0 20px 3px rgba(0, 0, 0, 0.05);
   padding: 30px;
   position: relative;
+  opacity: 0.7;
 }
 
 .counter-wrap .single-counter p {
@@ -3392,7 +3400,7 @@ Page Title Area Style
   width: 100%;
   height: 100%;
   opacity: 0.3;
-  background-color: #FFFFFF;
+  background-color: #6A6A6A ;
   /* background-color: #232350; */
   z-index: -1;
 }
@@ -5581,7 +5589,7 @@ Contact Area Style
 }
 
 .contact-area .quick-contact h3 { 
-  margin-bottom: 20px;
+  /* margin-bottom: 20px; */
   margin-top: -4px;
   font-family: 'HelveticaNeueLT Com 67 MdCn';
   font-weight: 500;
@@ -5609,7 +5617,7 @@ Contact Area Style
   position: absolute; 
   left: 4px;
   top: 14px;
-  font-size: 91px;
+  font-size: 70px;
 
 }
 
@@ -5621,7 +5629,7 @@ Contact Area Style
   font-family: 'HelveticaNeueLT Com 37 ThCn';
   font-weight: 100;
   font-style: normal;
-  font-size: 22px;
+  font-size: 18px;
   /* line-height: 1.5; */
 
 }
@@ -5635,7 +5643,7 @@ Contact Area Style
   font-family: 'HelveticaNeueLT Com 37 ThCn';
   font-weight: 100;
   font-style: normal;
-  font-size: 22px;
+  font-size: 18px;
 
 }
 
@@ -7485,9 +7493,20 @@ Page-navigation Area Style*/
   
     #logoconocer{
       width: 100%;
+      margin-top: 6px;
     }
 
 }
+
+@media only screen and (max-width: 1199px)  {
+  
+  #logoconocer{
+    width: 100%;
+    margin-top: 45px;
+  }
+  
+}
+
 
 @media only screen and (max-width: 991px)  {
 

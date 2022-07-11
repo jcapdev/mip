@@ -144,7 +144,7 @@
 					</div>
 					<div class="col-lg-6">
 						<div class="about-content-two">							
-							<h2>SOMOS</h2>							
+							<h2>Quiénes sómos</h2>							
 							<p><b style = "font-weight: bold;">MANEJO INTEGRADO DE PLAGAS DE ORIENTE SA DE CV</b>, nació en Tehuacán, Puebla en mayo de 1997 como parte de una empresa distribuidora de laboratorios BAYER veterinaria, realizando únicamente trabajos residenciales y comerciales, con el tiempo surgió la necesidad de separar totalmente la empresa en distribución y control de plagas.</p>	
 							<p>En el año 2000, se consigue el primer contrato con una empresa de alimentos balanceados para animales.</p>
 							<p>2022 es un año de crecimiento importante al conseguir servicios en los estados de Veracruz y Oaxaca, para iniciar la expansión de lo que hoy es MIP.</p>		

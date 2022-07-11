@@ -146,13 +146,13 @@
 									</div>
 									<div class="col-lg-9">
 										<div class="slider-text one">
-											<h1>Responsabilidad</h1>
-											<p>en el manejo integral de plagas.</p>											
+											<h1>RESPONSABILIDAD</h1>
+											<p>EN EL MANEJO INTEGRAL DE PLAGAS.</p>											
 											<div class="slider-btn" style="margin-top: 50px;">
 												<a class="default-btn" href="contacto">
 													CONTÁCTANOS
 												</a>
-												<a class="default-btn active" href="contacto">
+												<a class="default-btn active" href="servicios">
 													VER SERVICIOS
 												</a>
 											</div>
@@ -173,13 +173,13 @@
 									</div>
 									<div class="col-lg-9">
 										<div class="slider-text one">
-											<h1>Responsabilidad</h1>
-											<p>en el manejo integral de plagas.</p>											
+											<h1>NUESTRO PROGRAMA DE CALIDAD</h1>
+											<p>ÉTICA, RESPONSABILIDAD Y RAPIDEZ EN EL CONTROL DE PLAGAS.</p>											
 											<div class="slider-btn" style="margin-top: 50px;">
 												<a class="default-btn" href="contacto">
 													CONTÁCTANOS
 												</a>
-												<a class="default-btn active" href="contacto">
+												<a class="default-btn active" href="servicios">
 													VER SERVICIOS
 												</a>
 											</div>
@@ -199,13 +199,13 @@
 									</div>
 									<div class="col-lg-9">
 										<div class="slider-text one">
-											<h1>Responsabilidad</h1>
-											<p>en el manejo integral de plagas.</p>											
+											<h1>ASEGURAMOS SU SATISFACCIÓN TOTAL</h1>
+											<p>EN EL CONTROL DE PLAGAS A NIVEL INDUSTRIAL, COMERCIAL, RESIDENCIAL, LOGÍSTICA Y DISTRIBUCIÓN.</p>											
 											<div class="slider-btn" style="margin-top: 50px;">
 												<a class="default-btn" href="contacto">
 													CONTÁCTANOS
 												</a>
-												<a class="default-btn active" href="contacto">
+												<a class="default-btn active" href="servicios">
 													VER SERVICIOS
 												</a>
 											</div>
@@ -217,9 +217,9 @@
 					</div>
 				</div>
 			</div>			
-			<div class="shape" style="width: 100%;height: auto;">
+			<!-- <div class="shape" style="width: 100%;height: auto;">
 				<img src="assets/img/home-slider/1.png" alt="Image"  style="width: 100%;height: auto;">
-			</div>
+			</div> -->
 		</section>
 		<!-- End Hero Slider Area -->
 		<!-- Strata Feature Area -->
@@ -469,7 +469,7 @@
 
 					<div class="col-lg-4">
 						<div class="quick-contact">
-							<h3 style="text-align: initial;">Contacto </h3>	
+							<!-- <h3 style="text-align: initial;">Contacto </h3>	 -->
 							<ul style="margin-bottom: 21px;">
 								<li>
 									<i class="bx bx-location-plus"></i>
@@ -487,7 +487,8 @@
 								</li>
 
 								<li>
-									<i style="margin-top: 33px;" class="bx bx-envelope"></i>
+									<!-- <i style="margin-top: 33px;" class="bx bx-envelope"></i> -->
+									<i class="bx bx-envelope"></i>
 									<h3>Correo</h3>									
 									<a href="mailto:servicios@mip.com.mx">
 										servicios@mip.com.mx

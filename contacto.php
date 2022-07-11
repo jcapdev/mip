@@ -192,7 +192,7 @@
 
 					<div class="col-lg-4">
 						<div class="quick-contact">
-							<h3 style="text-align: initial;">Contacto </h3>	
+							<!-- <h3 style="text-align: initial;">Contacto </h3>	 -->
 							<ul style="margin-bottom: 21px;">
 								<li>
 									<i class="bx bx-location-plus"></i>
