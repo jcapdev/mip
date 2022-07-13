@@ -17,9 +17,15 @@
 	$(window).on('scroll', function() {
 		if ($(this).scrollTop() >150){  
 			$('.navbar-area').addClass("is-sticky");
+			//disable
+			$("#imglogris").show();
+			$("#imglogblan").hide();	
 		}
 		else{
 			$('.navbar-area').removeClass("is-sticky");
+			//enable
+			$("#imglogblan").show();
+			$("#imglogris").hide();	
 		}
 	});
 

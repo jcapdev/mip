@@ -40,7 +40,7 @@
 					<!-- Menu For Mobile Device -->
 					<div class="mobile-nav">
 						<a href="index" class="logo">
-							<img class="img-fluid" src="assets/img/logo-mip.png" alt="Logo">
+							<img class="img-fluid" src="assets/img/logo_gris2.png" alt="Logo">
 						</a>
 					</div>
 					<!-- Menu For Desktop Device -->
@@ -102,7 +102,10 @@
 										</div> -->
 										<div class="get-quote">											
 											<a class="navbar-brand" href="index">
-												<img class="img-fluid" src="assets/img/logo-mip1.png" alt="Logo">
+												<!-- is-sticky -->
+												<img class="img-fluid" id = "imglogblan" src="assets/img/logo-mip2.png" alt="Logo">
+												<!-- no is-sticky -->
+												<img class="img-fluid" id = "imglogris" style="display: none;" src="assets/img/logo_gris2.png" alt="Logo">
 											</a>
 										</div>
 									</div>
