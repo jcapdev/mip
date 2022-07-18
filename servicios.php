@@ -148,7 +148,7 @@
 							<p class = "textabout">Somos especialistas en servicios para la <b style = "font-weight: bold;">INDUSTRIA ALIMENTARIA</b>, aplicando medidas específicas de diagnóstico de plagas, prevención y tratamiento para el sector.</p>
 							<p class = "textabout">Nuestros programas están diseñados para proteger las áreas de proceso de producción, almacenaje y transporte.</p>
 							<p class = "textabout">Apegados a normas y lineamientos nacionales e internacionales.</p>
-							<p class = "textabout">Diseñamos un programa de trabajo que nos lleve a garantizar la efectividad de nuestros servicios urbanos y residenciales, hoteleros, turístico, Comercial, Institucional e Industrial</p>
+							<p class = "textabout">Diseñamos un programa de trabajo que nos lleve a garantizar la efectividad de nuestros servicios urbanos y residenciales, hoteleros, turísticos, comercial, institucional e industrial</p>
 						</div>
 					</div>					
 				</div>				
@@ -159,7 +159,7 @@
 				<div class="row">
 					<div class="col-lg-4 col-sm-6">
 						<div class="single-services" style="direction: ltr;text-align: left;">
-							<img src="assets/img/570x400/570x400-4.jpg" alt="Image">
+							<img src="assets/img/570x400/termitas_blog.jpg" alt="Image">
 
 							<div class="services-content">
 								<h3>Termitas</h3>
@@ -174,9 +174,9 @@
 					</div>
 					<div class="col-lg-4 col-sm-6">
 						<div class="single-services" style="direction: ltr;text-align: left;">
-							<img src="assets/img/570x400/570x400-2.jpg" alt="Image">
+							<img src="assets/img/570x400/570x400_aves.jpg" alt="Image">
 							<div class="services-content">
-								<h3>Caracterización de Aves</h3>
+								<h3>Manejo de Aves</h3>
 								<p class = "textabout">Ciertas especies de aves, frecuentemente son molestas o se vuelven plagas capaces de transmitir enfermedades, contaminar nuestros alimentos y dañar nuestras estructuras.</p>
 								<a href="blog-aves.php" class="read-more">
 									Más información
@@ -192,7 +192,7 @@
 
 							<div class="services-content">
 								<h3>Plagas Urbanas</h3>
-								<p class = "textabout">Las PLAGA URBANA son aquellas especies implicadas en la transferencia de enfermedades infecciosas para el hombre y en el daño o deterioro del hábitat y del bienestar urbano.</p>
+								<p class = "textabout">Las PLAGAS URBANAS son aquellas especies implicadas en la transferencia de enfermedades infecciosas para el hombre y en el daño o deterioro del hábitat y del bienestar urbano.</p>
 								<a href="blog-plagas-urbanas.php" class="read-more">
 									Más información
 									<i class="bx bx-plus"></i>
@@ -223,16 +223,16 @@
 								</li>
 								<li>
 									<p class = "textabout">
-										Limpieza de silos, bodegas, almacenes
+										Limpieza de silos, bodegas, almacenes.
 									</p>									
 								</li>
 								<li>
 									<p class = "textabout">	
-										Control de Termitas.
+										Control de termitas.
 									</p>									
 								</li>
 								<li>
-									<p class = "textabout">	Tratamientos con pautas alternativas, para productos ORGANICOS</p>
+									<p class = "textabout">	Tratamientos con pautas alternativas, para productos organicos</p>
 								</li>								
 							</ul>							
 						</div>
@@ -248,22 +248,22 @@
 					<div class="col-lg-12">
 						<div class="prevent-content" style="text-align: left;">						
 							<p class = "textabout">Los hogares o empresas deberían contar con un programa de MIP mismo que puede ser desarrollado por nuestro personal capacitado para tal fin. El objetivo del MIP es minimizar la presencia de cualquier tipo de plaga, ejerciendo todas las tareas necesarias para garantizar la eliminación de los sitios donde los insectos y roedores puedan anidar o alimentarse.</p>
-							<p class = "textabout">MIP se pueden implementar los siguientes Sistemas:</p>
+							<p class = "textabout">En MIP integra los siguientes programas: </p>
 							<ul>
 								<li>
-									<h2>Sistemas biológicos</h2>
+									<h2>Tratamientos biológicos</h2>
 									<p class = "textabout"></p>
 								</li>
 								<li>
-									<h2>Sistema mecánicos</h2>
+									<h2>Tratamientos mecánicos</h2>
 									<p class = "textabout"></p>
 								</li>
 								<li>
-									<h2>Sistemas físicos</h2>
+									<h2>Tratamientos físicos</h2>
 									<p class = "textabout"></p>
 								</li>
 								<li>
-									<h2>Sistemas químicos</h2>
+									<h2>Tratamientos químicos</h2>
 									<p class = "textabout"></p>
 								</li>																						
 							</ul>
@@ -494,29 +494,23 @@
 				<div class="row align-items-center">
 					<div class="col-lg-6">
 						<div class="about-img-two">
-							<img src="assets/img/640x640/640_2.jpg" alt="Image">							
+							<img src="assets/img/640x640/640_2_1.jpg" alt="Image">							
 						</div>
 					</div>
 					<div class="col-lg-6">
 						<div class="about-content-two">							
 							<h2>RAPIDÉZ DE RESULTADOS</h2>
 							<p>Aplicamos procedimientos estándar de control (dosificación y métodos de aplicación) y registramos reportes de servicios, para dar seguimiento y atención a posibles desviaciones en los mismos, con inmediatez de respuesta, porque somos conscientes que los problemas de plagas no pueden postergarse, ya que comprometen la calidad de los productos y la salud de nuestros clientes.</p>
-							<p>ÉTICA, RESPONSABILIDAD, RAPIDEZ, INNOVACION Y PERMANENCIA, en el manejo integral de plagas.</p>							
+							
+							<p><b style = "font-weight: bold;">ÉTICA, RESPONSABILIDAD, RAPIDEZ, INNOVACION Y PERMANENCIA, en el manejo integral de plagas.</b></p>
+							<!-- <p>ÉTICA, RESPONSABILIDAD, RAPIDEZ, INNOVACION Y PERMANENCIA, en el manejo integral de plagas.</p>							 -->
 							<h2 style="margin-top: 23px;">INNOVACIÓN METODOLOGÍA Y CAPACITACIÓN</h2>
 							<p>Investigamos permanentemente, desarrollando soluciones innovadoras para cada caso en específico.</p>
-							<p>Nuestros tratamientos anti-plagas, se centran en los retos ambientales que enfrenta hoy en día el Planeta. Nuestros programas se implementan bajo normas ambientalistas, amigables y sostenibles, y no tienen contraindicaciones para productos, estructuras físicas, ni seres humanos.</p>
-							<p>Fabricamos nuestros propios equipos de control de roedores, equipos multifuncionales, trampas de golpe y charolas de goma para captura de roedores e insectos</p>							
+							<p>Nuestros tratamientos anti-plagas, se centran en los retos ambientales que enfrenta hoy en día el planeta. Nuestros programas se implementan bajo normas ambientalistas, amigables y sostenibles, y no tienen contraindicaciones para productos, estructuras físicas, ni seres humanos.</p>
+							<p>Fabricamos nuestros propios equipos de control de roedores, equipos multifuncionales, trampas de golpe y charolas de goma para captura de roedores e insectos.</p>
 						</div>
 					</div>
 				</div>
-				<div class="row align-items-center">
-					<div class = "col-lg-12">
-						<div class="about-content-two">
-							<h2 style="margin-top: 23px;">POLÍTICA DE CALIDAD</h2>
-							<p>En <b style = "font-weight: bold;">MIP de oriente</b> mantenemos el compromiso de ofrecer a nuestros clientes servicios de plagas especializados mediante el cumplimiento de los requisitos aplicables, lo que nos permite mantener una metodología de mejora continua basada en la norma internacional <b style = "font-weight: bold;">ISO-9001:2015.</b></p>
-						</div>
-					</div>
-				</div>								
 			</div>
 		</section>
 		<!-- End About Area two -->

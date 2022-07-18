@@ -135,14 +135,14 @@
 				<div class="row align-items-center">
 					<div class="col-lg-6">
 						<div class="about-img">
-							<img src="assets/img/570x570/570_3.jpg" alt="Image">							
+							<img src="assets/img/570x570/mapa_570.jpg" alt="Image">							
 						</div>
 					</div>
 					<div class="col-lg-6">
 						<div class="about-content" style="text-align: left;direction: ltr;">							
 							<h2>ÁREA DE COBERTURA</h2>
-							<p class = "textabout">Siempre estamos en crecimiento constante. Hoy abarcamos el área del sureste del país y nos proponemos llegar a ser una empresa con participación a nivel Nacional.</p>
-							<p class = "textabout">Actualmente tenemos servicios instalados en los Estados de:</p>
+							<p class = "textabout">Siempre estamos en crecimiento constante. Hoy abarcamos el área del centro y sureste del país y nos proponemos llegar a ser una empresa con participación a nivel nacional.</p>
+							<p class = "textabout">Actualmente tenemos servicios instalados en los estados de:</p>
 							
 							<ul>
 								<li>
@@ -172,10 +172,19 @@
 								<li>
 									<i class="flaticon-checked"></i>
 									TLAXCALA 
-								</li>								
+								</li>
+								<li style="color: #E25224;">
+									<i class="flaticon-checked"></i>									
+									QUERÉTARO
+								</li>
+								<li style="color: #E25224;">
+									<i class="flaticon-checked"></i>
+									MICHOACÁN
+								</li>
+								
 							</ul>
 							<p class="block-content">
-								Contamos con oficinas en Tecamachalco, Puebla, Córdoba y Coatzacoalcos Ver.
+								Contamos con oficinas en Tecamachalco, Pue; Córdoba, Ver. y Zamora, Mich.								
 							</p>
 						</div>
 					</div>					

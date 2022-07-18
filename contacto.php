@@ -137,7 +137,7 @@
 							<div class="contact-form">
 								<div class="section-title">
 									<h3 style="text-align: left;">Solicita más información</h3>
-									<p class = "textabout" style="text-align: left;" >Disponemos de un equipo de emergencia entrenado y debidamente capacitado para manejar con éxito en forma rápida y precisa, todas las situaciones inesperadas vinculadas a los problemas de plagas durante las 24 horas.</p>
+									<p class = "textabout" style="text-align: left;" >Contamos con un equipo profecional entrenado y debidamente capacitado para manejar con éxito en forma rápida y precisa, todas las situaciones inesperadas vinculadas a los problemas de plagas durante las 24 horas.</p>
 								</div>
 								
 								<form id="contactForm">
@@ -268,7 +268,7 @@
 				<div class="row" style="direction: ltr;">
 					<div class="col-lg-4 col-sm-6">
 						<div class="single-process">							
-							<h3>CORDOBA</h3>
+							<h3>CÓRDOBA</h3>
 							<p>Cel.:249 160 44 01.</p>
 							<p>Correo: antonio.ramirez@mip.com.mx</p>							
 							<span>04</span>
@@ -284,7 +284,7 @@
 					</div>
 					<div class="col-lg-4 col-sm-6">
 						<div class="single-process">							
-							<h3>QUERETARO y MICHOACAN</h3>
+							<h3>QUERÉTARO y MICHOACÁN</h3>
 							<p>Alejandra Adame Uvalle</p>
 							<p>Cel 782 170 78 06</p>
 							<p>Correo: alejandra.adame@mip.com.mx</p>

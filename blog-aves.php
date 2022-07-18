@@ -140,7 +140,7 @@
                                 <div class = "row">
                                     <div class="col-md-6">
                                         <div class="about-img-two">
-                                            <img src="assets/img/blog/aves.jpg" alt="Image">							
+                                            <img src="assets/img/blog/aves_2.jpg" alt="Image">							
                                         </div>   
                                     </div>
                                     <div class="col-md-6">
@@ -149,9 +149,9 @@
 												<li><i class="flaticon-checked"></i>
 													Caracterización del problema: La caracterización de las aves debe de ser el primer paso del programa. Existen tres objetivos importantes en la caracterización: identificación de las especies de aves-plaga, patrones de actividad y determinación de cualquier especie de ave no blanco que pudiera estar en riesgo</li>
 												<li><i class="flaticon-checked"></i>
-													Saneamiento: Las aves, como todos los animales vivientes, necesitan alimento, agua y refugio. El impacto de las prácticas de saneamiento para resolver los problemas de aves, varía de acuerdo a cada situación. En algunos casos, los esfuerzos de saneamiento pueden ayudar significativamente al Programa cuando se integran con otras herramientas y técnicas. En otras ocasiones las prácticas sanitarias por sí solas, pueden resolver el problema (espor esto el Estudio de Caracterización) y en algunos casos, el saneamiento puede tener un impacto pequeño o insignificante en la solución del problema.</li>
+													Saneamiento: Las aves, como todos los animales vivientes, necesitan alimento, agua y refugio. El impacto de las prácticas de saneamiento para resolver los problemas de aves, varía de acuerdo a cada situación. En algunos casos, los esfuerzos de saneamiento pueden ayudar significativamente al programa cuando se integran con otras herramientas y técnicas. En otras ocasiones las prácticas sanitarias por sí solas, pueden resolver el problema (es por esto el estudio de caracterización) y en algunos casos, el saneamiento puede tener un impacto pequeño o insignificante en la solución del problema.</li>
 												<li><i class="flaticon-checked"></i>
-													El método más efectivo para mantener a las aves fuera de las estructuras, es no permitirles ningún acceso o uso de la estructura como un sitio de anidación, perchado o descanso, por medio de una barrera física, como puede ser: madera, metal, vidrio, mampostería, mallas de alambre de ¾ de pulgada o redes plásticas de peso ligero y gran resistencia.</li>                                            
+													El método más efectivo para mantener a las aves fuera de las estructuras, es no permitirles ningún acceso o uso de la estructura como un sitio de anidación, perchado o descanso, por medio de una barrera física, como puede ser: mallas de alambre de ¾ de pulgada y redes plásticas de peso ligero y gran resistencia.</li>                                            
 												<li><i class="flaticon-checked"></i>
 													Repelentes: Los repelentes generalmente están diseñados para afectar uno o más sentidos de las aves, para provocar alarma y el abandono del área o hacer que sus actividades de descanso y perchado, se hagan inconfortables. Existen cuatro tipos diferentes de repelentes para aves: táctiles, sonoros, olfativos y visuales.</li>
 												<li><i class="flaticon-checked"></i>

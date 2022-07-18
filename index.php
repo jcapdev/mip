@@ -271,7 +271,7 @@
 				<div class="row align-items-center">
 					<div class="col-lg-6">
 						<div class="about-img-two">
-							<img class="img-fluid" src="assets/img/about-img-person.png" alt="Image">							
+							<img class="img-fluid" src="assets/img/Bienvenidos.png" alt="Image">							
 						</div>
 					</div>
 
@@ -348,7 +348,7 @@
 										<div class="single-counter">
 											<h2>
 												<span class="target">+</span>
-												<span class="odometer" data-count="200">00</span> 												
+												<span class="odometer" data-count="500">00</span> 												
 											</h2>				
 											<p>clientes satisfechos</p>
 										</div>
@@ -358,9 +358,9 @@
 										<div class="single-counter">
 											<h2>
 												<span class="target">+</span>
-												<span class="odometer" data-count="3547">00</span> 												
+												<span class="odometer" data-count="900">00</span> 												
 											</h2>
-											<p>plagas extinguidas</p>
+											<p>auditorias exitosas</p>
 										</div>
 									</div>
 				
@@ -379,7 +379,7 @@
 											<h2>
 												<span class="traget">+</span>
 												<span class="traget">$</span>
-												<span class="odometer" data-count="250">00</span>
+												<span class="odometer" data-count="750">00</span>
 												<span class="traget">M</span>
 											</h2>				
 											<p>en patrimonios protegidos</p>

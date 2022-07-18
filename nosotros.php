@@ -144,13 +144,13 @@
 					</div>
 					<div class="col-lg-6">
 						<div class="about-content-two">							
-							<h2>Quiénes sómos</h2>							
+							<h2>Quiénes somos</h2>							
 							<p><b style = "font-weight: bold;">MANEJO INTEGRADO DE PLAGAS DE ORIENTE SA DE CV</b>, nació en Tehuacán, Puebla en mayo de 1997 como parte de una empresa distribuidora de laboratorios BAYER veterinaria, realizando únicamente trabajos residenciales y comerciales, con el tiempo surgió la necesidad de separar totalmente la empresa en distribución y control de plagas.</p>	
 							<p>En el año 2000, se consigue el primer contrato con una empresa de alimentos balanceados para animales.</p>
-							<p>2022 es un año de crecimiento importante al conseguir servicios en los estados de Veracruz y Oaxaca, para iniciar la expansión de lo que hoy es MIP.</p>		
+							<p>2002 es un año de crecimiento importante al conseguir servicios en los estados de Veracruz y Oaxaca, para iniciar la expansión de lo que hoy es MIP.</p>		
 							<p>En 2008, se consolida lo que hoy es <b style = "font-weight: bold;">MIP DE ORIENTE</b>, con socios y personal comprometido en el crecimiento y se consiguen contratos en los estados de Chiapas, Tabasco y Tlaxcala.</p>		
 							<p>El crecimiento ha sido constante, gracias a la gestión de los socios y el esfuerzo constante de los técnicos de control de plagas que se han formado en estos 25 años de trabajo.</p>
-							<p>Actualmente tenemos servicios instalados en los estados de PUEBLA, VERACRUZ, OAXACA, CHIAPAS, TLAXCALA, MORELOS, TABASCO, QUERETARO Y MICHOACAN.</p>
+							<p>Actualmente tenemos servicios instalados en los estados de PUEBLA, VERACRUZ, OAXACA, CHIAPAS, TLAXCALA, MORELOS, TABASCO, QUÉRETARO Y MICHOACÁN.</p>
 						</div>
 					</div>
 				</div>
@@ -170,7 +170,7 @@
 								</li>
 								<li>
 									<h2>VISIÓN</h2>
-									<p class = "textabout">Ser una Empresa de referencia a nivel nacional como proveedor de servicios de control de plagas, ofreciendo y garantizando los trabajos con respuesta inmediata a los requerimientos de nuestros clientes.</p>
+									<p class = "textabout">Ser una empresa de referencia a nivel nacional como proveedor de servicios de control de plagas, ofreciendo y garantizando los trabajos con respuesta inmediata a los requerimientos de nuestros clientes.</p>
 								</li>								
 							</ul>
 						</div>
@@ -245,32 +245,25 @@
 				<div class="row align-items-center">
 					<div class="col-lg-6">
 						<div class="prevent-content" style="text-align: left;">							
-							<h2>NUESTRO COMPROMISO CON LA CALIDAD</h2>
-							<p class = "textabout">En <b style = "font-weight: bold;">MIP DE ORIENTE </b>, mantenemos el compromiso de ofrecer a nuestros clientes servicios de control de plagas especializados mediante el cumplimiento de los requisitos aplicables, lo que nos permite mantener una metodología de mejora continua basada en la norma internacional ISO-9001:2015</p>							
+							<h2>POLÍTICA DE CALIDAD</h2>
+							<p class = "textabout">En <b style = "font-weight: bold;">MIP DE ORIENTE</b>, mantenemos el compromiso de ofrecer a nuestros clientes servicios de control de plagas especializados mediante el cumplimiento de los requisitos aplicables, lo que nos permite mantener una metodología de mejora continua basada en la norma internacional ISO-9001:2015</p>							
+							<p class = "textabout">Para apoyar la dirección estratégico de <b style = "font-weight: bold;">MIP DE ORIENTE </b>, se ha definido los siguientes objetivos para la calidad:</p>							
 							<ul>
 								<li>
 									<h2></h2>
-									<p class = "textabout">Satisfacer los requerimientos y expectativas de nuestros clientes.</p>
+									<p class = "textabout">Obtener la certificación en <b style = "font-weight: bold;">ISO 9001:2015.</b></p>
 								</li>
 								<li>
 									<h2></h2>
-									<p class = "textabout">Controlar y estandarizar nuestros servicios.</p>
+									<p class = "textabout">Implementar proyecto de marketing digital.</p>
 								</li>
 								<li>
 									<h2></h2>
-									<p class = "textabout">Prevenir la afectación a las personas, el medio ambiente y la propiedad de nuestros clientes.</p>
+									<p class = "textabout">Implementación de la plataforma <b style = "font-weight: bold;">IGEO.</b></p>
 								</li>
 								<li>
 									<h2></h2>
-									<p class = "textabout">Excelencia en el manejo y protección contra plagas, con tratamientos ya sean convencionales o especiales.</p>
-								</li>
-								<li>
-									<h2></h2>
-									<p class = "textabout">Aplicación de un PROGRAMA DE CALIDAD para el control de plagas, bajo un estricto compromiso de confidencialidad y participación con nuestros clientes.</p>
-								</li>
-								<li>
-									<h2></h2>
-									<p class = "textabout">Brindar un MANEJO INTEGRADO, haciéndonos cargo de los animales silvestres capturados, que son liberados y reubicados a su hábitat natural en forma segura.</p>
+									<p class = "textabout">Mejorar la satisfacción del cliente.</p>
 								</li>								
 							</ul>
 						</div>
@@ -291,12 +284,12 @@
 					<div class="col-lg-6">
 						<div class="about-content" style="text-align: left;direction: initial;">
 							<h2>ÉTICA PROFESIONAL</h2>
-							<p class = "textabout">Cuidamos el medio ambiente. Evitamos su contaminación. Por eso empleamos sólo productos registrados y autorizados por CICOPLAFEST y/o COFEPRIS, de acuerdo con la norma CSEG 0339.02.</p>
+							<p class = "textabout">Cuidamos el medio ambiente. Evitamos su contaminación. Por eso empleamos sólo productos registrados y autorizados por COFEPRIS.</p>
 							<p class = "textabout">Utilizamos únicamente productos químicos en las dosis y concentraciones correctas para las plagas presentes.</p>
 							<ul>
 								<li>
 									<i class="flaticon-checked"></i>
-									COFEPRIS Licencia Sanitaria S. S.A. No. 2008- 21A058
+									COFEPRIS Licencia Sanitaria: 2016-2104G155
 								</li>
 								<li>
 									<i class="flaticon-checked"></i>
@@ -307,10 +300,11 @@
 									Socio No. 208597 National Pest Management Association Inc.
 								</li>								
 							</ul>
-
-							<p class="block-content">
-								Nuestro personal está preparado para presentar auditorías de AIB International, SILLIKER, FSSC 22000, QSE, YUM Brands, en Plantas de proceso de alimentos.
-							</p>
+							<h2>Nuestro personal está preparado para presentar auditorías de:</h2>
+							
+							<div class="article-image">
+								<img src="assets/img/570x400/570x400-5.png" alt="image">
+							</div>							
 						</div>
 					</div>
 
