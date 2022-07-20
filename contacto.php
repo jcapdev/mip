@@ -137,7 +137,7 @@
 							<div class="contact-form">
 								<div class="section-title">
 									<h3 style="text-align: left;">Solicita más información</h3>
-									<p class = "textabout" style="text-align: left;" >Contamos con un equipo profecional entrenado y debidamente capacitado para manejar con éxito en forma rápida y precisa, todas las situaciones inesperadas vinculadas a los problemas de plagas durante las 24 horas.</p>
+									<p class = "textabout" style="text-align: left;" >Contamos con un equipo profesional capacitado y certificado para manejar con éxito en forma rápida y precisa, todas las situaciones inesperadas vinculadas a los problemas de plagas durante las 24 horas.</p>
 								</div>
 								
 								<form id="contactForm">

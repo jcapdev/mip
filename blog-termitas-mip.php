@@ -335,7 +335,7 @@
                                 <div class  = "row" style = "margin-top: 23px;">
                                     <div class  = "col-lg-12">                                    
                                         <div class="prevent-content" style="text-align: left;">							
-                                            <h2>5 MITOS ERRÓNEOS SOBRE LAS TERMITAS.</h2>                                            
+                                            <h2>5 MITOS SOBRE LAS TERMITAS.</h2>                                            
                                             <ul>                                                
                                                 <li>
                                                     <p class = "textabout">1. "Pintando" la madera con un protector es suficiente, puesto que ya no se ven Falso, esto no es más que un maquillaje, puesto que las termitas respetan la parte superficial impregnada, pero continúan comiendo el interior.</p>
@@ -350,9 +350,10 @@
                                                     <p class = "textabout">4. Me las ha traído el vecino que es un descuidado Falso, la limpieza no es determinante, incluso el más limpio y ordenado puede sufrir un ataque.En una afectación de termitas no existen culpables sino víctimas.Pero a veces una falta de mantenimiento puede ayudar la actividad.</p> 
                                                 </li>                                                
                                                 <li>
-                                                    <p class = "textabout">5. Las termitas no atraviesan el hormigón Falso, muchas veces aprovechan las juntas del hormigón para atravesar muros “infranqueables” pero otras desgranan el material realizando una galería que atraviesa la pared sin problemas.Todas estas dudas y mitos erróneos sobre las termitas, llevan a la necesidad de identificar y diagnosticar el problema por un técnico especialista.</p>
+                                                    <p class = "textabout">5. Las termitas no atraviesan el hormigón Falso, muchas veces aprovechan las juntas del hormigón para atravesar muros “infranqueables” pero otras desgranan el material realizando una galería que atraviesa la pared sin problemas.</p>
                                                 </li>    
                                             </ul>
+                                            <p class = "textabout"><b style="font-weight: bold;">Todas estas dudas y mitos sobre las termitas, llevan a la necesidad de identificar y diagnosticar el problema por un técnico especialista.</b></p>
                                         </div>
                                     </div>
                                 </div>                                

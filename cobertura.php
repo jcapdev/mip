@@ -131,64 +131,73 @@
 
 		<!-- Start About Area Area -->
 		<section class="about-area pt-100 pb-100" style="direction: rtl;">
-			<div class="container">
-				<div class="row align-items-center">
-					<div class="col-lg-6">
-						<div class="about-img">
-							<img src="assets/img/570x570/mapa_570.jpg" alt="Image">							
+			<div class="container">				
+				<div class = "mapdesk" >
+					<div class="mapcontainer">	
+						<div class="row align-items-center">
+							<div class="col-lg-6 order-0" id = "colmap1" >
+								<div class="">
+									<!-- <img src="assets/img/570x570/mapa_570.jpg" alt="Image">							 -->
+									<div class="map">
+										<span>Alternative content for the map</span>
+									</div>										
+									<div class="plotLegend"></div>
+								</div>
+							</div>
+							<div class="col-lg-6 order-1" id = "colmap2">
+								<div class="about-content" style="text-align: left;direction: ltr;">							
+									<h2>ÁREA DE COBERTURA</h2>
+									<p class = "textabout">Siempre estamos en crecimiento constante. Hoy abarcamos el área del centro y sureste del país y nos proponemos llegar a ser una empresa con participación a nivel nacional.</p>
+									<p class = "textabout">Actualmente tenemos servicios instalados en los estados de:</p>
+									<div class="areaLegend"></div>
+									<!-- <ul>
+										<li>
+											<i class="flaticon-checked"></i>
+											PUEBLA
+										</li>
+										<li>
+											<i class="flaticon-checked"></i>
+											VERACRUZ
+										</li>
+										<li>
+											<i class="flaticon-checked"></i>
+											MORELOS
+										</li>
+										<li>
+											<i class="flaticon-checked"></i>
+											OAXACA
+										</li>
+										<li>
+											<i class="flaticon-checked"></i>
+											TABASCO
+										</li>
+										<li>
+											<i class="flaticon-checked"></i>
+											HIDALGO
+										</li>
+										<li>
+											<i class="flaticon-checked"></i>
+											TLAXCALA 
+										</li>
+										<li>
+											<i class="flaticon-checked"></i>									
+											QUERÉTARO
+										</li>
+										<li>
+											<i class="flaticon-checked"></i>
+											MICHOACÁN
+										</li>
+										
+									</ul> -->
+									<p class="block-content">
+										Contamos con oficinas en Tecamachalco, Pue; Córdoba, Ver. y Zamora, Mich.								
+									</p>
+								</div>
+							</div>					
 						</div>
 					</div>
-					<div class="col-lg-6">
-						<div class="about-content" style="text-align: left;direction: ltr;">							
-							<h2>ÁREA DE COBERTURA</h2>
-							<p class = "textabout">Siempre estamos en crecimiento constante. Hoy abarcamos el área del centro y sureste del país y nos proponemos llegar a ser una empresa con participación a nivel nacional.</p>
-							<p class = "textabout">Actualmente tenemos servicios instalados en los estados de:</p>
-							
-							<ul>
-								<li>
-									<i class="flaticon-checked"></i>
-									PUEBLA
-								</li>
-								<li>
-									<i class="flaticon-checked"></i>
-									VERACRUZ
-								</li>
-								<li>
-									<i class="flaticon-checked"></i>
-									MORELOS
-								</li>
-								<li>
-									<i class="flaticon-checked"></i>
-									OAXACA
-								</li>
-								<li>
-									<i class="flaticon-checked"></i>
-									TABASCO
-								</li>
-								<li>
-									<i class="flaticon-checked"></i>
-									HIDALGO
-								</li>
-								<li>
-									<i class="flaticon-checked"></i>
-									TLAXCALA 
-								</li>
-								<li style="color: #E25224;">
-									<i class="flaticon-checked"></i>									
-									QUERÉTARO
-								</li>
-								<li style="color: #E25224;">
-									<i class="flaticon-checked"></i>
-									MICHOACÁN
-								</li>
+				</div>				
 								
-							</ul>
-							<p class="block-content">
-								Contamos con oficinas en Tecamachalco, Pue; Córdoba, Ver. y Zamora, Mich.								
-							</p>
-						</div>
-					</div>					
-				</div>
 			</div>
 		</section>
 		<!-- End About Area -->	
