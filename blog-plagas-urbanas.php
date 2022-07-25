@@ -280,7 +280,7 @@
                                     </div>
                                     <div class="col-md-6">
                                         <div class="about-img-two">
-                                            <img src="assets/img/blog/trampa.jpg" alt="Image">							
+                                            <img src="assets/img/blog/3Trampa.jpg" alt="Image">							
                                         </div>  
                                     </div>                                    
                                 </div>

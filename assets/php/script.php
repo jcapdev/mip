@@ -150,90 +150,525 @@
                         },
                         value: "9"
                     }
-					
-                },
-                legend: {
-                    area: {
-                        title: "", 
-                        slices: [
-                            {
-                                max: 1,
-                                attrs: {
-                                    fill: "#5d5d5d"
-                                },
-                                label: "PUEBLA"
-                            },
-                            {
-                                max: 2,
-                                attrs: {
-                                    fill: "#5d5d5d"
-                                },
-                                label: "VERACRUZ"
-                            },
-							{
-                                max: 3,
-                                attrs: {
-                                    fill: "#5d5d5d"
-                                },
-                                label: "MORELOS"
-                            },
-							{
-                                max: 4,
-                                attrs: {
-                                    fill: "#5d5d5d"
-                                },
-                                label: "OAXACA"
-                            },
-							{
-                                max: 5,
-                                attrs: {
-                                    fill: "#5d5d5d"
-                                },
-                                label: "TABASCO"
-                            },
-							{
-                                max: 6,
-                                attrs: {
-                                    fill: "#5d5d5d"
-                                },
-                                label: "HIDALGO"
-                            },
-							{
-                                max: 7,
-                                attrs: {
-                                    fill: "#5d5d5d"
-                                },
-                                label: "TLAXCALA"
-                            },
-							{
-                                max: 8,
-                                attrs: {
-                                    fill: "#5d5d5d"
-                                },
-                                label: "QUERÉTARO"
-                            },
-							{
-                                max: 9,
-                                attrs: {
-                                    fill: "#5d5d5d"
-                                },
-                                label: "MICHOACÁN"
-                            },
-                            
-                        ]
-                    }
                 }
              
             });
-        });
-        // var areas_hidden = 'show';
-        // $('#button-areas').on('click', function () { 
-        //     areas_hidden = (areas_hidden == 'show') ? 'hide' : 'show';
+        });       
 
-        //     $(".mapcontainer").trigger('update', [{
-        //             setLegendElemsState: {"areaLegend": areas_hidden},
-        //             animDuration: 1000
-        //         }]);
-        //  });
+        $("#PUEBLA").hover(function(){
+            $(this).click();
+            }).click(function(){
+
+                var updatedOptions = {'areas': {}};
+                    updatedOptions.areas["puebla"] = {			
+                        attrs: {
+                            fill: "#E25224"
+                        }
+                    };
+                    updatedOptions.areas["veracruz"] = {			
+                        attrs: {
+                            fill: "#5d5d5d"
+                        }
+                    };
+                    updatedOptions.areas["morelos"] = {			
+                        attrs: {
+                            fill: "#5d5d5d"
+                        }
+                    };
+                    updatedOptions.areas["oaxaca"] = {			
+                        attrs: {
+                            fill: "#5d5d5d"
+                        }
+                    };
+                    updatedOptions.areas["tabasco"] = {			
+                        attrs: {
+                            fill: "#5d5d5d"
+                        }
+                    };
+                    updatedOptions.areas["hidalgo"] = {			
+                        attrs: {
+                            fill: "#5d5d5d"
+                        }
+                    };
+                    updatedOptions.areas["tlaxcala"] = {			
+                        attrs: {
+                            fill: "#5d5d5d"
+                        }
+                    };
+                    updatedOptions.areas["queretaro"] = {			
+                        attrs: {
+                            fill: "#5d5d5d"
+                        }
+                    };
+                    updatedOptions.areas["michoacan"] = {			
+                        attrs: {
+                            fill: "#5d5d5d"
+                        }
+                    };
+
+                    // and delete some others ...		
+			$(".mapcontainer").trigger('update', [{
+				mapOptions: updatedOptions				
+			}]);
+            
+        }); 
+
+        $("#VERACRUZ").hover(function(){
+            $(this).click();
+            }).click(function(){
+                
+                 // Update some plots and areas attributes ...
+                var updatedOptions = {'areas': {}};
+                updatedOptions.areas["veracruz"] = {			
+                    attrs: {
+                        fill: "#E25224"
+                    }
+                };                
+                updatedOptions.areas["puebla"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                    }
+                };           
+                updatedOptions.areas["morelos"] = {			
+                    attrs: {
+                        fill: "#5d5d5d"
+                    }
+                };
+                updatedOptions.areas["oaxaca"] = {			
+                    attrs: {
+                        fill: "#5d5d5d"
+                    }
+                };
+                updatedOptions.areas["tabasco"] = {			
+                    attrs: {
+                        fill: "#5d5d5d"
+                    }
+                };
+                updatedOptions.areas["hidalgo"] = {			
+                    attrs: {
+                        fill: "#5d5d5d"
+                    }
+                };
+                updatedOptions.areas["tlaxcala"] = {			
+                    attrs: {
+                        fill: "#5d5d5d"
+                    }
+                };
+                updatedOptions.areas["queretaro"] = {			
+                    attrs: {
+                        fill: "#5d5d5d"
+                    }
+                };
+                updatedOptions.areas["michoacan"] = {			
+                    attrs: {
+                        fill: "#5d5d5d"
+                    }
+                };
+
+            // and delete some others ...		
+                $(".mapcontainer").trigger('update', [{
+                    mapOptions: updatedOptions				
+                }]); 
+
+        });        
+       
+        $("#MORELOS").hover(function(){
+            $(this).click();
+            }).click(function(){
+
+                // Update some plots and areas attributes ...
+            var updatedOptions = {'areas': {}};
+            updatedOptions.areas["morelos"] = {			
+                attrs: {
+                    fill: "#E25224"
+                }
+            };            
+             updatedOptions.areas["puebla"] = {			
+			    attrs: {
+				    fill: "#5d5d5d"
+			    }
+            };           
+            updatedOptions.areas["veracruz"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            updatedOptions.areas["oaxaca"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            updatedOptions.areas["tabasco"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            updatedOptions.areas["hidalgo"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            updatedOptions.areas["tlaxcala"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            updatedOptions.areas["queretaro"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            updatedOptions.areas["michoacan"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            // and delete some others ...		
+            $(".mapcontainer").trigger('update', [{
+                mapOptions: updatedOptions				
+            }]);        
+        });
+
+        $("#OAXACA").hover(function(){
+            $(this).click();
+            }).click(function(){
+
+                // Update some plots and areas attributes ...
+            var updatedOptions = {'areas': {}};
+            updatedOptions.areas["oaxaca"] = {			
+                attrs: {
+                    fill: "#E25224"
+                }
+            };            
+             updatedOptions.areas["puebla"] = {			
+			    attrs: {
+				    fill: "#5d5d5d"
+			    }
+            };           
+            updatedOptions.areas["veracruz"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            updatedOptions.areas["morelos"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            updatedOptions.areas["tabasco"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            updatedOptions.areas["hidalgo"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            updatedOptions.areas["tlaxcala"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            updatedOptions.areas["queretaro"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            updatedOptions.areas["michoacan"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            // and delete some others ...		
+            $(".mapcontainer").trigger('update', [{
+                mapOptions: updatedOptions				
+            }]);        
+        });
+
+        $("#TABASCO").hover(function(){
+            $(this).click();
+            }).click(function(){
+
+                // Update some plots and areas attributes ...
+                var updatedOptions = {'areas': {}};
+                updatedOptions.areas["tabasco"] = {			
+                    attrs: {
+                        fill: "#E25224"
+                    }
+                };            
+                updatedOptions.areas["puebla"] = {			
+                    attrs: {
+                        fill: "#5d5d5d"
+                    }
+                };           
+                updatedOptions.areas["veracruz"] = {			
+                    attrs: {
+                        fill: "#5d5d5d"
+                    }
+                };
+                updatedOptions.areas["morelos"] = {			
+                    attrs: {
+                        fill: "#5d5d5d"
+                    }
+                };
+                updatedOptions.areas["oaxaca"] = {			
+                    attrs: {
+                        fill: "#5d5d5d"
+                    }
+                };
+                updatedOptions.areas["hidalgo"] = {			
+                    attrs: {
+                        fill: "#5d5d5d"
+                    }
+                };
+                updatedOptions.areas["tlaxcala"] = {			
+                    attrs: {
+                        fill: "#5d5d5d"
+                    }
+                };
+                updatedOptions.areas["queretaro"] = {			
+                    attrs: {
+                        fill: "#5d5d5d"
+                    }
+                };
+                updatedOptions.areas["michoacan"] = {			
+                    attrs: {
+                        fill: "#5d5d5d"
+                    }
+                };
+                // and delete some others ...		
+                $(".mapcontainer").trigger('update', [{
+                    mapOptions: updatedOptions				
+                }]);        
+        });
+
+        $("#HIDALGO").hover(function(){
+            $(this).click();
+            }).click(function(){
+
+                // Update some plots and areas attributes ...
+            var updatedOptions = {'areas': {}};
+            updatedOptions.areas["hidalgo"] = {			
+                attrs: {
+                    fill: "#E25224"
+                }
+            };            
+             updatedOptions.areas["puebla"] = {			
+			    attrs: {
+				    fill: "#5d5d5d"
+			    }
+            };           
+            updatedOptions.areas["veracruz"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            updatedOptions.areas["morelos"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            updatedOptions.areas["oaxaca"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            updatedOptions.areas["tabasco"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            updatedOptions.areas["tlaxcala"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            updatedOptions.areas["queretaro"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            updatedOptions.areas["michoacan"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            // and delete some others ...		
+            $(".mapcontainer").trigger('update', [{
+                mapOptions: updatedOptions				
+            }]);        
+        });
+
+        $("#TLAXCALA").hover(function(){
+            $(this).click();
+            }).click(function(){
+
+                // Update some plots and areas attributes ...
+            var updatedOptions = {'areas': {}};
+            updatedOptions.areas["tlaxcala"] = {			
+                attrs: {
+                    fill: "#E25224"
+                }
+            };            
+             updatedOptions.areas["puebla"] = {			
+			    attrs: {
+				    fill: "#5d5d5d"
+			    }
+            };           
+            updatedOptions.areas["veracruz"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            updatedOptions.areas["morelos"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            updatedOptions.areas["oaxaca"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            updatedOptions.areas["tabasco"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            updatedOptions.areas["hidalgo"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            updatedOptions.areas["queretaro"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            updatedOptions.areas["michoacan"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            // and delete some others ...		
+            $(".mapcontainer").trigger('update', [{
+                mapOptions: updatedOptions				
+            }]);        
+        });
+
+        $("#QUERETARO").hover(function(){
+            $(this).click();
+            }).click(function(){
+
+                // Update some plots and areas attributes ...
+            var updatedOptions = {'areas': {}};
+            updatedOptions.areas["queretaro"] = {			
+                attrs: {
+                    fill: "#E25224"
+                }
+            };            
+             updatedOptions.areas["puebla"] = {			
+			    attrs: {
+				    fill: "#5d5d5d"
+			    }
+            };           
+            updatedOptions.areas["veracruz"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            updatedOptions.areas["morelos"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            updatedOptions.areas["oaxaca"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            updatedOptions.areas["tabasco"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            updatedOptions.areas["hidalgo"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            updatedOptions.areas["tlaxcala"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            updatedOptions.areas["michoacan"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            // and delete some others ...		
+            $(".mapcontainer").trigger('update', [{
+                mapOptions: updatedOptions				
+            }]);        
+        });
+
+        $("#MICHOACAN").hover(function(){
+            $(this).click();
+            }).click(function(){
+
+                // Update some plots and areas attributes ...
+            var updatedOptions = {'areas': {}};
+            updatedOptions.areas["michoacan"] = {			
+                attrs: {
+                    fill: "#E25224"
+                }
+            };            
+             updatedOptions.areas["puebla"] = {			
+			    attrs: {
+				    fill: "#5d5d5d"
+			    }
+            };           
+            updatedOptions.areas["veracruz"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            updatedOptions.areas["morelos"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            updatedOptions.areas["oaxaca"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            updatedOptions.areas["tabasco"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            updatedOptions.areas["hidalgo"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            updatedOptions.areas["tlaxcala"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            updatedOptions.areas["queretaro"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            // and delete some others ...		
+            $(".mapcontainer").trigger('update', [{
+                mapOptions: updatedOptions				
+            }]);        
+        });
     
-        </script>
+</script>

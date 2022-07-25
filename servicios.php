@@ -494,8 +494,8 @@
 				<div class="row align-items-center">
 					<div class="col-lg-6">
 						<div class="about-img-two">
-							<!-- <img src="assets/img/640x640/640_2_1.jpg" alt="Image">							 -->
-							<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+							<img src="assets/img/640x640/640_2_1.jpg" alt="Image">							
+							<!-- <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
 								<ol class="carousel-indicators">
 									<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
 									<li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
@@ -520,7 +520,7 @@
 									<span class="carousel-control-next-icon" aria-hidden="true"></span>
 									<span class="sr-only">Next</span>
 								</a>
-							</div>
+							</div> -->
 						</div>
 					</div>
 					<div class="col-lg-6">
@@ -535,6 +535,23 @@
 							<p>Nuestros tratamientos anti-plagas, se centran en los retos ambientales que enfrenta hoy en día el planeta. Nuestros programas se implementan bajo normas ambientalistas, amigables y sostenibles, y no tienen contraindicaciones para productos, estructuras físicas, ni seres humanos.</p>
 							<p>Fabricamos nuestros propios equipos de control de roedores, equipos multifuncionales, trampas de golpe y charolas de goma para captura de roedores e insectos.</p>
 						</div>
+					</div>
+				</div>
+				<div class = "row align-items-center">
+					<div class = "col-lg-4">
+						<div class = "about-img-two">
+							<img src="assets/img/640x640/trampa1.jpg" alt="Image">
+						</div>					
+					</div>
+					<div class = "col-lg-4">
+						<div class = "about-img-two">
+							<img src="assets/img/640x640/trampa2.jpg" alt="Image">
+						</div>					
+					</div>
+					<div class = "col-lg-4">
+						<div class = "about-img-two">
+							<img src="assets/img/640x640/trampa1.jpg" alt="Image">
+						</div>					
 					</div>
 				</div>
 			</div>

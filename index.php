@@ -278,9 +278,9 @@
 					<div class="col-lg-6">
 						<div class="about-img-two"style="text-align: left;">
 							<div class = "" >
-								<img class="img-fluid" src="assets/img/logo-mip-about.png" alt="Image">
+								<img class="img-fluid" src="assets/img/logo-mip-about3.png" alt="Image">
 							</div>						
-							<h2 class = "titleabout">BIENVENIDO</h2>
+							<h2 class = "titleabout" style="margin-top: 35px;">BIENVENIDO</h2>
 							<p style="direction: initial;" class = "textabout">Estamos de su lado. Con 25 años de experiencia en la industria del control de plagas, somos una empresa de referencia, asegurándole satisfacción total en el control de plagas a nivel industrial, comercial, residencial, logística y distribución.</p>
 							<a href="nosotros" class="default-btn">
 								CONÓCENOS
@@ -394,7 +394,7 @@
 							<h3 class = "titleclients" style="text-align: left;">EXPERIENCIA</h3>
 							<p>Contamos con una amplia experiencia, que nos permite manejar con éxito cada una de las etapas del proceso de servicio, cumpliendo en forma estricta con todas las regulaciones y normas vigentes.</p>
 							<h3 class = "titleclients" style="text-align: left;">ALGUNOS DE NUESTROS CLIENTES</h3>
-							<img class = "img-fluid" src="assets/img/client/clientes mip-1.png" alt="" style="margin-top: 13px;">
+							<img class = "img-fluid" src="assets/img/client/clientes mip-2.png" alt="" style="margin-top: 13px;">
 						</div>
 						<a href="contacto" target="_parent">
 						<button type="submit" href = "contacto" class="default-btn page-btn" style="top: 45px;">

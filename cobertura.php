@@ -150,45 +150,45 @@
 									<p class = "textabout">Siempre estamos en crecimiento constante. Hoy abarcamos el área del centro y sureste del país y nos proponemos llegar a ser una empresa con participación a nivel nacional.</p>
 									<p class = "textabout">Actualmente tenemos servicios instalados en los estados de:</p>
 									<div class="areaLegend"></div>
-									<!-- <ul>
-										<li>
+									<ul>
+										<li id="PUEBLA">
 											<i class="flaticon-checked"></i>
 											PUEBLA
 										</li>
-										<li>
+										<li id = "VERACRUZ">
 											<i class="flaticon-checked"></i>
 											VERACRUZ
 										</li>
-										<li>
+										<li id = "MORELOS">
 											<i class="flaticon-checked"></i>
 											MORELOS
 										</li>
-										<li>
+										<li id = "OAXACA">
 											<i class="flaticon-checked"></i>
 											OAXACA
 										</li>
-										<li>
+										<li id = "TABASCO">
 											<i class="flaticon-checked"></i>
 											TABASCO
 										</li>
-										<li>
+										<li = id = "HIDALGO">
 											<i class="flaticon-checked"></i>
 											HIDALGO
 										</li>
-										<li>
+										<li id = "TLAXCALA">
 											<i class="flaticon-checked"></i>
 											TLAXCALA 
 										</li>
-										<li>
+										<li id = "QUERETARO">
 											<i class="flaticon-checked"></i>									
 											QUERÉTARO
 										</li>
-										<li>
+										<li id = "MICHOACAN">
 											<i class="flaticon-checked"></i>
 											MICHOACÁN
 										</li>
 										
-									</ul> -->
+									</ul>
 									<p class="block-content">
 										Contamos con oficinas en Tecamachalco, Pue; Córdoba, Ver. y Zamora, Mich.								
 									</p>

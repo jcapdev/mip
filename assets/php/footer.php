@@ -27,7 +27,7 @@
 								<strong>MIP</strong> Manejo Integral de Plagas www.mip.com.mx
 							</p>  
 						</div>
-						<div class="col-md-1">							  
+						<div class="col-md-1">														  
 						</div>
 					</div>					
 				</div>
