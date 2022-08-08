@@ -159,7 +159,7 @@
 				<div class="row">
 					<div class="col-lg-4 col-sm-6">
 						<div class="single-services" style="direction: ltr;text-align: left;">
-							<img src="assets/img/570x400/termitas_blog2.jpg" alt="Image">
+							<img src="assets/img/570x400/termitas_blog5.jpg" alt="Image">
 
 							<div class="services-content">
 								<h3>Termitas</h3>
@@ -533,7 +533,7 @@
 							<h2 style="margin-top: 23px;">INNOVACIÓN METODOLOGÍA Y CAPACITACIÓN</h2>
 							<p>Investigamos permanentemente, desarrollando soluciones innovadoras para cada caso en específico.</p>
 							<p>Nuestros tratamientos anti-plagas, se centran en los retos ambientales que enfrenta hoy en día el planeta. Nuestros programas se implementan bajo normas ambientalistas, amigables y sostenibles, y no tienen contraindicaciones para productos, estructuras físicas, ni seres humanos.</p>
-							<p>Fabricamos nuestros propios equipos de control de roedores, equipos multifuncionales, trampas de golpe y charolas de goma para captura de roedores e insectos.</p>
+							<p style="font-weight: bold;">Fabricamos nuestros propios equipos de control de roedores, equipos multifuncionales, trampas de golpe y charolas de goma para captura de roedores e insectos.</p>
 						</div>
 					</div>
 				</div>

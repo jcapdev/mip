@@ -150,6 +150,15 @@
                         },
                         value: "9"
                     }
+                    "chiapas": {
+                        attrs: {
+                            fill: "#5d5d5d"
+                        }
+                        , attrsHover: {
+                            fill: "#E25224"
+                        },
+                        value: "10"
+                    }
                 }
              
             });
@@ -205,6 +214,11 @@
                             fill: "#5d5d5d"
                         }
                     };
+                    updatedOptions.areas["chiapas"] = {			
+			            attrs: {
+				            fill: "#5d5d5d"
+			            }
+                    };  
 
                     // and delete some others ...		
 			$(".mapcontainer").trigger('update', [{
@@ -264,6 +278,11 @@
                         fill: "#5d5d5d"
                     }
                 };
+                updatedOptions.areas["chiapas"] = {			
+			    attrs: {
+				    fill: "#5d5d5d"
+			    }
+            };  
 
             // and delete some others ...		
                 $(".mapcontainer").trigger('update', [{
@@ -323,6 +342,11 @@
                     fill: "#5d5d5d"
                 }
             };
+            updatedOptions.areas["chiapas"] = {			
+			    attrs: {
+				    fill: "#5d5d5d"
+			    }
+            };  
             // and delete some others ...		
             $(".mapcontainer").trigger('update', [{
                 mapOptions: updatedOptions				
@@ -380,6 +404,11 @@
                     fill: "#5d5d5d"
                 }
             };
+            updatedOptions.areas["chiapas"] = {			
+			    attrs: {
+				    fill: "#5d5d5d"
+			    }
+            };  
             // and delete some others ...		
             $(".mapcontainer").trigger('update', [{
                 mapOptions: updatedOptions				
@@ -437,6 +466,11 @@
                         fill: "#5d5d5d"
                     }
                 };
+                updatedOptions.areas["chiapas"] = {			
+                    attrs: {
+                        fill: "#5d5d5d"
+                    }
+                 };  
                 // and delete some others ...		
                 $(".mapcontainer").trigger('update', [{
                     mapOptions: updatedOptions				
@@ -494,6 +528,11 @@
                     fill: "#5d5d5d"
                 }
             };
+            updatedOptions.areas["chiapas"] = {			
+			    attrs: {
+				    fill: "#5d5d5d"
+			    }
+            };  
             // and delete some others ...		
             $(".mapcontainer").trigger('update', [{
                 mapOptions: updatedOptions				
@@ -551,6 +590,11 @@
                     fill: "#5d5d5d"
                 }
             };
+            updatedOptions.areas["chiapas"] = {			
+			    attrs: {
+				    fill: "#5d5d5d"
+			    }
+            };  
             // and delete some others ...		
             $(".mapcontainer").trigger('update', [{
                 mapOptions: updatedOptions				
@@ -608,6 +652,11 @@
                     fill: "#5d5d5d"
                 }
             };
+            updatedOptions.areas["chiapas"] = {			
+			    attrs: {
+				    fill: "#5d5d5d"
+			    }
+            };  
             // and delete some others ...		
             $(".mapcontainer").trigger('update', [{
                 mapOptions: updatedOptions				
@@ -661,6 +710,73 @@
                 }
             };
             updatedOptions.areas["queretaro"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            updatedOptions.areas["chiapas"] = {			
+			    attrs: {
+				    fill: "#5d5d5d"
+			    }
+            };  
+            // and delete some others ...		
+            $(".mapcontainer").trigger('update', [{
+                mapOptions: updatedOptions				
+            }]);        
+        });
+
+        $("#CHIAPAS").hover(function(){
+            $(this).click();
+            }).click(function(){
+
+                // Update some plots and areas attributes ...
+            var updatedOptions = {'areas': {}};
+            updatedOptions.areas["chiapas"] = {			
+                attrs: {
+                    fill: "#E25224"
+                }
+            };            
+             updatedOptions.areas["puebla"] = {			
+			    attrs: {
+				    fill: "#5d5d5d"
+			    }
+            };           
+            updatedOptions.areas["veracruz"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            updatedOptions.areas["morelos"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            updatedOptions.areas["oaxaca"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            updatedOptions.areas["tabasco"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            updatedOptions.areas["hidalgo"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            updatedOptions.areas["tlaxcala"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            updatedOptions.areas["queretaro"] = {			
+                attrs: {
+                    fill: "#5d5d5d"
+                }
+            };
+            updatedOptions.areas["michoacan"] = {			
                 attrs: {
                     fill: "#5d5d5d"
                 }

@@ -150,7 +150,7 @@
 							<p>2002 es un año de crecimiento importante al conseguir servicios en los estados de Veracruz y Oaxaca, para iniciar la expansión de lo que hoy es MIP.</p>		
 							<p>En 2008, se consolida lo que hoy es <b style = "font-weight: bold;">MIP DE ORIENTE</b>, con socios y personal comprometido en el crecimiento y se consiguen contratos en los estados de Chiapas, Tabasco y Tlaxcala.</p>		
 							<p>El crecimiento ha sido constante, gracias a la gestión de los socios y el esfuerzo constante de los técnicos de control de plagas que se han formado en estos 25 años de trabajo.</p>
-							<p>Actualmente tenemos servicios instalados en los estados de PUEBLA, VERACRUZ, OAXACA, CHIAPAS, TLAXCALA, MORELOS, TABASCO, QUÉRETARO Y MICHOACÁN.</p>
+							<p>Actualmente tenemos servicios instalados en los estados de PUEBLA, VERACRUZ, HIDALGO, OAXACA, CHIAPAS, TLAXCALA, MORELOS, TABASCO, QUÉRETARO Y MICHOACÁN.</p>
 						</div>
 					</div>
 				</div>
