@@ -540,7 +540,7 @@
 				<div class = "row align-items-center">
 					<div class = "col-lg-4">
 						<div class = "about-img-two">
-							<img src="assets/img/640x640/trampa1.jpg" alt="Image">
+							<img src="assets/img/640x640/cintacamaleon.jpg" alt="Image">
 						</div>					
 					</div>
 					<div class = "col-lg-4">
@@ -549,8 +549,8 @@
 						</div>					
 					</div>
 					<div class = "col-lg-4">
-						<div class = "about-img-two">
-							<img src="assets/img/640x640/cintacamaleon.jpg" alt="Image">
+						<div class = "about-img-two">							
+							<img src="assets/img/640x640/trampa1.jpg" alt="Image">
 						</div>					
 					</div>
 				</div>

@@ -174,7 +174,7 @@
                                     </div>
                                     <div class = "col-md-6">
                                     <div class="about-img-two">
-                                        <img src="assets/img/570x400/termitas_blog3.jpg" alt="Image">							
+                                        <img src="assets/img/570x400/termitas_blog4.jpg" alt="Image">							
                                         </div>   
                                     </div>
                                 </div>
