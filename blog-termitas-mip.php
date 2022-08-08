@@ -141,7 +141,7 @@
                                 <div class = "row">
                                     <div class="col-md-6">
                                         <div class="about-img-two">
-                                            <img src="assets/img/570x400/termitas_blog_1.jpg" alt="Image">							
+                                            <img src="assets/img/570x400/termitas_blog3.jpg" alt="Image">							
                                         </div>   
                                     </div>
                                     <div class="col-md-6">
@@ -174,7 +174,7 @@
                                     </div>
                                     <div class = "col-md-6">
                                     <div class="about-img-two">
-                                            <img src="assets/img/blog/aplication_termitas.jpg" alt="Image">							
+                                        <img src="assets/img/570x400/termitas_blog3.jpg" alt="Image">							
                                         </div>   
                                     </div>
                                 </div>

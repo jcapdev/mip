@@ -159,7 +159,7 @@
 				<div class="row">
 					<div class="col-lg-4 col-sm-6">
 						<div class="single-services" style="direction: ltr;text-align: left;">
-							<img src="assets/img/570x400/termitas_blog.jpg" alt="Image">
+							<img src="assets/img/570x400/termitas_blog2.jpg" alt="Image">
 
 							<div class="services-content">
 								<h3>Termitas</h3>
