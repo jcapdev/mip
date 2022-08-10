@@ -46,8 +46,8 @@ if (empty($_POST["message"])) {
 
 $mail = new PHPMailer();
 
-$your_email = "aguila08ruso@gmail.com";  //Replace with recipient email address
-
+$your_email = "victor.adame@mip.com.mx";  //Replace with recipient email address
+$cc = "carlos.aguila@vmasideas.com";
 $to_Email   	= $your_email;
 
 
@@ -55,19 +55,20 @@ $to_Email   	= $your_email;
 
 //Server settings
 $mail->isSMTP();                                            // Send using SMTP
-$mail->Host       = 'hola1234.12345';                    // Set the SMTP server to send through
+$mail->Host       = 'mip.com.mx';                    // Set the SMTP server to send through
 $mail->SMTPAuth   = true;                                   // Enable SMTP authentication
-$mail->Username   = 'hola@hola1234.com';//     'contact@hotelquintaeden.com';                // SMTP username
-$mail->Password   = '123456'; //    '##,FPy74a3VU';                     // SMTP password
+$mail->Username   = 'no_reply@mip.com.mx';//     'contact@hotelquintaeden.com';                // SMTP username
+$mail->Password   = 'j@jxOtu,ik,t'; //    '##,FPy74a3VU';                     // SMTP password
 $mail->SMTPSecure = 'ssl';         // Enable TLS encryption; `PHPMailer::ENCRYPTION_SMTPS` also accepted
 $mail->Port       = 465;                                    // TCP port to connect to
 //    $mail->SMTPDebug  = 4;
-$mail->protocol = 'protocol';
-$mail->smtp_port = 587;
+//$mail->protocol = 'protocol';
+//$mail->smtp_port = 587;
 
 //Recipients
 $mail->setFrom($email,$name);
 $mail->addAddress($your_email, 'MIP');     // Add a recipient
+$mail->addCC($cc);
 $mail->addReplyTo($your_email, 'Contacto');
 
 // Content
