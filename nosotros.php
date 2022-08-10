@@ -310,10 +310,7 @@
 
 					<div class="col-lg-6">
 						<div class="about-img">
-							<img src="assets/img/570x570/570 - 5.jpg" alt="Image">
-							<div class="about-child">
-								<img src="assets/img/200x200/200x200.jpg" alt="Image">
-							</div>
+							<img src="assets/img/570x570/certificaciones.jpg" alt="Image">							
 						</div>
 					</div>
 				</div>

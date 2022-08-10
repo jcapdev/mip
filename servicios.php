@@ -530,10 +530,10 @@
 							
 							<p><b style = "font-weight: bold;">ÉTICA, RESPONSABILIDAD, RAPIDEZ, INNOVACION Y PERMANENCIA, en el manejo integral de plagas.</b></p>
 							<!-- <p>ÉTICA, RESPONSABILIDAD, RAPIDEZ, INNOVACION Y PERMANENCIA, en el manejo integral de plagas.</p>							 -->
-							<h2 style="margin-top: 23px;">INNOVACIÓN METODOLOGÍA Y CAPACITACIÓN</h2>
+							<h2 style="margin-top: 23px;">INNOVACIÓN, METODOLOGÍA Y CAPACITACIÓN</h2>
 							<p>Investigamos permanentemente, desarrollando soluciones innovadoras para cada caso en específico.</p>
 							<p>Nuestros tratamientos anti-plagas, se centran en los retos ambientales que enfrenta hoy en día el planeta. Nuestros programas se implementan bajo normas ambientalistas, amigables y sostenibles, y no tienen contraindicaciones para productos, estructuras físicas, ni seres humanos.</p>
-							<p style="font-weight: bold;">Fabricamos nuestros propios equipos de control de roedores, equipos multifuncionales, trampas de golpe y charolas de goma para captura de roedores e insectos.</p>
+							<p style="font-weight: bold;">Fabricamos nuestros propios equipos de control de roedores, equipos multifuncionales y charolas de goma CAMALEÓN y trampas de golpe CAIMÁN para captura de roedores e insectos.</p>
 						</div>
 					</div>
 				</div>

@@ -187,6 +187,10 @@
 											<i class="flaticon-checked"></i>
 											MICHOACÁN
 										</li>
+										<li id = "CHIAPAS">
+											<i class="flaticon-checked"></i>
+											CHIAPAS
+										</li>
 										
 									</ul>
 									<p class="block-content">

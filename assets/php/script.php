@@ -149,7 +149,7 @@
                             fill: "#E25224"
                         },
                         value: "9"
-                    }
+                    },
                     "chiapas": {
                         attrs: {
                             fill: "#5d5d5d"
